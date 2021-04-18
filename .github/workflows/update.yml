@@ -1,0 +1,39 @@
+# This workflow archives published data if there are changes every hour
+
+name: Update
+
+on:
+  schedule:
+    # Run every hour, on the hour.
+    - cron:  '0 * * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Manual trigger'
+        required: false
+        default: 'Reason: Manual trigger'
+jobs:
+  update:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        pip install pandas lxml
+        which python
+        python --version
+
+    - name: Scrape and Commit
+      run: python scrape.py
+    - name: Commit
+      uses: stefanzweifel/git-auto-commit-action@v4.1.2
+      with:
+        commit_message: Updating CSV backups
+        file_pattern: data/*
+        commit_author: GitHub Actions <actions@github.com>
