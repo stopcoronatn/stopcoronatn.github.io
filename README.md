@@ -9,6 +9,7 @@ Data updated hourly from: [National Health Mission, Department of Health & Famil
 ## Contribute
 
 - [Add missing hospital contact details](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668)
+- Reuse this data: https://github.com/stopcoronatn/stopcoronatn.github.io/tree/main/data
 
 
 
