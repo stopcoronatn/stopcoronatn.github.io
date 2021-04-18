@@ -1,6 +1,6 @@
 # stopcoronatn.github.io
 
-Mirror of bed availability from 
+Mirror of COVID bed availability data in Tamil Nadu.
 
 ## View data
 
