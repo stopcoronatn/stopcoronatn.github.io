@@ -1,10 +1,12 @@
-# stopcoronatn.github.io
+# Latest Tamil Nadu COVID bed availability status
 
-Mirror of COVID bed availability data in Tamil Nadu.
+Data updated hourly from: [National Health Mission, Department of Health & Family Welfare - Government Tamil Nadu https://stopcorona.tn.gov.in/beds.php](https://stopcorona.tn.gov.in/beds.php)
 
-## View data
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTijQm1kyk2SYrUIucn90qsmhc-y1GuYxiOUBgLZeh1B49bYZ0YYIcrGCO28sAQff_8HCSOA-Z7SV8L/pubhtml?widget=true&amp;headers=false"></iframe>
 
-- [CSV](https://github.com/devdattaT/TN-Beds-Status) (Updated)
-- [Spreadsheet](https://docs.google.com/spreadsheets/u/2/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=0) (Not updated)
+## Contribute
 
-Source: [National Health Mission, Department of Health & Family Welfare - Government Tamil Nadu https://stopcorona.tn.gov.in/beds.php](https://stopcorona.tn.gov.in/beds.php)
+- [Add missing hospital contact details](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668)
+
+
+
