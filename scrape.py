@@ -14,7 +14,7 @@ def beds(url="https://stopcorona.tn.gov.in/beds.php"):
     now = pd.to_datetime('now').tz_localize('UTC').tz_convert('Asia/Calcutta')
     now = now.strftime("%Y-%m-%d--%H")
     print(f"{now}.csv with {len(df)} rows")
-    df.to_csv(STORE / f"beds-{now}.csv", index=False)
+    # df.to_csv(STORE / f"beds-{now}.csv", index=False)
 
 
 if __name__ == "__main__":
