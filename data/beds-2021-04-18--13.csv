@@ -12,7 +12,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 11,Chennai,Appasamy Hospital,58,52,6,55,52,6,0,0,0,5,5,0,3,3,0,2021-04-17 11:57:29,April 17th
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,15,12,6,0,6,6,3,0,4,0,4,2,0,2,2021-04-18 08:24:00,18-04-2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,20,0,18,18,0,3,0,0,4,4,0,2,0,0,2021-04-16 10:57:38,16.04.2021
-14,Chennai,Aysha Hospital,8,8,0,2,1,1,2,0,2,3,0,3,5,0,5,2021-04-17 12:40:03,3 New case reported in Aysha Hospitals Chennai
+14,Chennai,Aysha Hospital,8,8,0,2,1,1,2,0,2,3,0,3,5,0,5,2021-04-18 13:47:18,4 New case reported in Aysha Hospitals Chennai
 15,Chennai,Be Well Hospital Anna nagar,18,18,0,18,6,4,8,0,0,3,3,0,2,0,2,2021-04-17 10:47:50,18
 16,Chennai,Bhaarath medical college and hospital,100,57,43,15,7,8,80,26,53,25,17,8,2,0,0,2021-04-17 11:01:18,18-04-2021
 17,Chennai,Bharathiraja Hospital & Research Centre Pvt Ltd,68,68,0,63,63,0,0,0,0,5,5,0,2,0,2,2021-04-18 07:27:01,18.04.2021
@@ -123,7 +123,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 122,Kancheepuram,Madha Medical College&Research Institute,200,29,171,20,2,18,174,22,152,6,5,1,2,2,0,2021-04-18 10:33:48,18.4.2021
 123,Kancheepuram,Sri Muthukumaran Medical College,380,5,375,50,2,48,314,3,312,16,0,16,6,0,6,2021-04-18 11:14:17,18.04.2021
 124,Kancheepuram,Apollo Medical Centre Karapakkam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 11:43:13,Updated 17.04.2021
-125,Kanyakumari,Bensam Hospital,65,20,45,48,2,46,16,19,0,1,0,1,1,0,1,2021-04-18 07:13:43,.
+125,Kanyakumari,Bensam Hospital,65,24,41,48,5,43,16,19,0,1,0,1,1,0,1,2021-04-18 13:51:27,.
 126,Kanyakumari,C.S.I.MISSION HOSPITAL,108,8,100,25,0,25,75,8,67,8,0,8,5,0,5,2021-04-18 07:09:52,.
 127,Kanyakumari,Dr. Jayasekaran Medical Trust Hospital,100,97,3,34,34,0,55,55,0,11,8,3,4,2,1,2021-04-18 11:32:07,.
 128,Kanyakumari,Sree Mookambika Institute of Medical Sciences,180,0,180,75,0,75,95,0,95,10,0,10,10,0,10,2021-04-18 07:08:37,
@@ -387,7 +387,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 386,Tiruppur,Velan Hospital,30,12,18,18,0,10,0,0,0,8,4,4,3,0,0,2021-04-18 07:05:39,
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,4,24,14,2,12,5,2,2,10,2,8,5,2,3,2021-04-18 08:24:51,18.04.2021
 388,Chennai,Be well hospital T.Nagar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 23:32:46,
-389,Chennai,Vijai\'s Nursing home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 23:36:22,
+389,Chennai,Vijai\'s Nursing home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-18 13:48:58,
 390,Chennai,Prime Indian Hospitals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 23:37:07,
 391,Thanjavur,Dravidian Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 23:38:33,
 392,Coimbatore,Gem Hospital and Research centre,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-17 23:39:12,
