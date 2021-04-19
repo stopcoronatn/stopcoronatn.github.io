@@ -8,7 +8,7 @@ Data updated hourly from: [National Health Mission, Department of Health & Famil
 
 ## Contribute
 
-- [Help add hospital contact details in spreadsheet](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668)
+- [Help add hospital contact details in spreadsheet](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668&fvid=1083181629)
 - Reuse data: [CSV](https://github.com/stopcoronatn/stopcoronatn.github.io/blob/main/data/beds.csv) | [API](https://raw.githack.com/stopcoronatn/stopcoronatn.github.io/main/data/beds.csv)
 
 
