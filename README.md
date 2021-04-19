@@ -1,4 +1,4 @@
-# Latest Tamil Nadu COVID bed availability status
+# Latest Tamil Nadu private hospitals COVID bed availability status
 
 Data updated hourly from: [National Health Mission, Department of Health & Family Welfare - Government Tamil Nadu https://stopcorona.tn.gov.in/beds.php](https://stopcorona.tn.gov.in/beds.php)
 
@@ -8,8 +8,8 @@ Data updated hourly from: [National Health Mission, Department of Health & Famil
 
 ## Contribute
 
-- [Add missing hospital contact details](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668)
-- Reuse this data: https://github.com/stopcoronatn/stopcoronatn.github.io/tree/main/data
+- [Help add hospital contact details in spreadsheet](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/edit#gid=2141296668)
+- Reuse data: [CSV](https://github.com/stopcoronatn/stopcoronatn.github.io/blob/main/data/beds.csv) | [API](https://raw.githack.com/stopcoronatn/stopcoronatn.github.io/main/data/beds.csv)
 
 
 
