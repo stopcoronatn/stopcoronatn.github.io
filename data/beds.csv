@@ -13,7 +13,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",18,18,18,3,0,0,3,3,0,4,0,4,2,0,2,2021-04-21 08:32:42,21-04-2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,20,0,18,18,0,3,0,0,4,4,0,2,0,0,2021-04-21 10:25:56,21.04.2021
 14,Chennai,Aysha Hospital,12,12,0,2,2,0,2,0,2,4,4,0,5,0,5,2021-04-21 08:46:55,Three New case reported in Aysha Hospitals Chennai
-15,Chennai,Be Well Hospital Anna nagar,18,11,7,18,7,5,8,0,0,3,0,0,2,0,2,2021-04-20 14:06:13,
+15,Chennai,Be Well Hospital Anna nagar,15,15,0,15,10,5,10,0,0,3,0,0,2,0,2,2021-04-21 11:41:30,
 16,Chennai,Bhaarath medical college and hospital,150,100,50,25,24,1,80,58,37,25,22,3,2,1,1,2021-04-21 11:26:46,21-04-2021
 17,Chennai,Bharathiraja Hospital & Research Centre Pvt Ltd,70,70,0,65,65,0,0,0,0,5,5,0,2,0,2,2021-04-21 07:59:45,21.04.2021
 18,Chennai,"Billroth Hospitals Shenoy Nagar, Chennai TN.",180,180,0,130,130,0,30,30,0,20,20,0,5,2,3,2021-04-21 08:38:28,
@@ -279,7 +279,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 278,Madurai,"BGM Hospital, Iyer Bungalow",16,13,3,8,0,8,6,2,2,4,0,4,1,0,1,2021-04-21 07:18:53,21.04.2021 ( covid - 19 four patients admission in our hospital )
 279,Madurai,"Dr.Chidambaram Memorial Hospital, Jai Hind puram",10,4,6,10,3,7,0,0,0,0,0,0,0,0,0,2021-04-21 09:45:58,21.04.2021 UPDATED...
 280,Madurai,"Gowri Nursing Home, Jeeva Nagar",10,5,5,10,5,5,0,0,0,0,0,0,0,0,0,2021-04-21 10:24:57,Update . 21.04. 2021........
-281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",10,10,0,4,4,0,2,2,0,4,4,0,2,1,1,2021-04-20 10:44:15,NO CHANGE
+281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",10,9,0,4,4,0,2,2,0,4,3,1,2,1,1,2021-04-21 11:38:35,discharge 3 admission 2
 282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",33,1,32,5,1,4,5,0,5,23,0,23,8,0,8,2021-04-21 10:15:15,21-04-2021
 283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 07:45:49,
 284,Ramanathapuram,Meera Clinic,6,0,6,4,0,4,0,0,0,2,0,2,2,0,2,2021-04-21 09:01:54,
@@ -298,7 +298,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 297,Theni,"Theni Medical Centre, Nehruji Road",25,16,9,0,2,23,0,0,0,0,0,0,0,0,0,2021-04-21 10:35:06,Covid care center
 298,Tirunelveli,"Royal Hospital, NGO Colony",25,25,0,13,0,0,12,5,0,5,0,0,7,0,7,2021-04-21 09:20:50,
 299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",35,28,7,10,10,0,14,0,7,11,11,0,3,0,3,2021-04-21 10:41:27,28 positive and 2 susupected cases
-300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,4,11,6,0,6,8,3,5,1,1,0,1,0,1,2021-04-21 08:27:04,1 RTPCR Positive 3 CT Positive cases..
+300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,4,11,6,1,5,8,3,5,1,0,1,1,0,1,2021-04-21 11:39:37,2 RTPCR Positive 2 CT Positive cases..
 301,Thiruchirappalli,Kavi Hospital & Neuro Foundation,30,16,14,24,5,16,4,4,2,2,0,2,2,0,2,2021-04-21 10:00:15,NIll.
 302,Thiruchirappalli,Mangalam Hospital,14,14,0,11,11,0,3,3,0,0,0,0,0,0,0,2021-04-21 10:35:11,Nill.
 303,Thiruchirappalli,MMM Multi Speciality Hospital,20,0,20,18,0,18,2,0,2,2,0,2,1,0,1,2021-04-21 08:51:32,Nill
