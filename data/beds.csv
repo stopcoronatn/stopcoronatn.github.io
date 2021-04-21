@@ -100,7 +100,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",330,324,6,140,137,3,160,160,0,30,27,3,15,10,5,2021-04-21 10:29:46,21st APRIL
 100,Coimbatore,Royal Care Super Speciality Hospital,60,60,0,54,54,0,0,0,0,6,6,0,3,3,0,2021-04-21 07:06:57,Neelambur unit 21.04.2021
 101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 07:07:28,Gandhipuram unit - 21.04.2021
-102,Coimbatore,Sri Ramakrishna Hospital,153,98,55,79,79,0,69,14,55,5,5,0,5,2,3,2021-04-21 11:22:29,21.04.2021
+102,Coimbatore,Sri Ramakrishna Hospital,153,98,55,79,79,0,69,14,55,5,5,0,5,4,1,2021-04-21 15:44:56,21.04.2021
 103,Coimbatore,"KMCH Kovilampalayam Hospital, Sathy Road",50,50,0,50,50,0,0,0,0,0,0,0,10,0,10,2021-04-21 10:55:30,21.04.2021
 104,Cuddalore,"NLCIL Hospital,Neyveli",92,77,15,10,2,8,80,75,5,2,0,2,2,0,2,2021-04-21 10:21:38,"As on 21-04-2021 Ventilator beds are in ICU for Emergency sick patients,)"
 105,Dindigul,Christian Fellow Community Centre,50,0,50,3,0,3,47,0,47,0,0,0,0,0,0,2021-04-21 07:17:25,21/04/2021
@@ -202,10 +202,10 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 201,Tirunelveli,Ponra Multispeciality Hospital,30,11,19,30,11,19,30,0,0,0,0,0,0,0,0,2021-04-21 08:42:01,
 202,Tirunelveli,Rosemary mission hospital and research centre,30,30,0,14,14,0,16,16,0,0,0,0,0,0,0,2021-04-21 09:19:27,
 203,Dindigul,Shifa Hospital,10,2,8,4,2,2,0,0,0,6,0,6,0,0,0,2021-04-21 10:22:12,21.04.2021
-204,Tiruppur,Revathi Medical Centre,47,45,2,10,10,0,37,35,0,10,10,0,10,4,6,2021-04-21 08:11:34,NILL
+204,Tiruppur,Revathi Medical Centre,47,45,2,10,10,0,37,35,0,10,10,0,10,6,4,2021-04-21 16:22:49,NILL
 205,Thiruvarur,Navajeevan Hospital,30,30,0,30,30,0,0,0,0,5,0,5,1,0,1,2021-04-21 09:59:20,Updated on 21.04.2021
 206,Thiruvarur,Thiruvarur Medical Centre,30,21,9,30,21,10,0,0,0,0,0,0,1,0,1,2021-04-21 07:38:39,Update
-207,Thiruchirappalli,"Neuro One Hospital, Karur Bye Pass Road",25,12,13,11,8,0,8,1,7,6,3,3,6,2,4,2021-04-21 08:29:26,2 VENTILATOR 1 HIF 8 O2 SUPPORT 1 NON-02 SUPPORT.
+207,Thiruchirappalli,"Neuro One Hospital, Karur Bye Pass Road",25,12,13,11,8,0,8,2,6,6,3,3,6,2,4,2021-04-21 15:48:04,2 VENTILATOR 1 HIF 8 O2 SUPPORT 1 NON-02 SUPPORT.
 208,Thiruchirappalli,Apollo Speciality Hospital,60,57,3,30,30,0,18,15,3,12,12,0,2,0,2,2021-04-21 09:36:09,Nil.
 209,Thiruchirappalli,G V N Hospital Pvt Ltd,26,0,26,2,0,2,22,0,22,2,0,2,2,0,2,2021-04-21 08:22:28,NIL.
 210,Thiruchirappalli,"Kavery Medical Centre And Hospital, Trichy",70,70,0,24,24,0,30,30,0,16,16,0,10,0,10,2021-04-21 09:39:13,Nil.
@@ -217,7 +217,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 216,Thiruchirappalli,"Sundaram Hospital, Pudhur",45,40,5,28,26,2,9,9,0,8,5,3,2,0,2,2021-04-21 09:47:54,Nil
 217,Thoothukudi,"Kamala Speciality Hospitals Pvt Ltd, Kovilpatti",21,21,0,14,14,0,4,4,0,3,3,0,1,0,1,2021-04-21 09:03:30,
 218,Vellore,Apollo KH Hospital Ranipet,18,18,0,10,10,0,8,7,1,0,0,0,0,0,0,2021-04-21 10:39:27,
-219,Vellore,Christian Medical College,252,242,10,217,63,23,0,0,0,20,20,8,5,5,0,2021-04-20 17:53:51,
+219,Vellore,Christian Medical College,252,246,6,217,76,27,0,0,0,20,20,0,14,14,0,2021-04-21 16:24:04,
 220,Vellore,Christian Medical College Kannigipuram campus,56,5,51,56,5,51,0,0,0,0,0,0,0,0,0,2020-11-03 07:34:58,
 221,Vellore,Sri Narayani Hospital and Research Centre,85,85,0,85,85,0,0,0,0,1,0,1,24,0,24,2021-04-21 09:58:33,Report date 21.04.2021
 222,Virudhunagar,Meenakshi Memorial Hospital,20,7,13,10,5,5,5,0,5,5,2,3,2,2,0,2021-04-21 07:16:45,7 - patient Admitted Only
@@ -256,7 +256,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 255,Thiruchirappalli,"Velan Speciality Hospital, Highways Colony",15,14,1,15,14,1,0,0,0,3,2,1,1,0,1,2021-04-21 10:02:16,Nill.
 256,Thoothukudi,Public Welfare Hospital Kovilpatti,18,0,18,6,0,6,11,0,11,1,0,1,1,0,1,2021-04-21 09:28:25,Nil.
 257,Chennai,"Medway Women Centre, Kodambakkam",30,30,0,26,26,0,0,0,0,4,4,0,4,4,0,2021-04-21 12:22:41,21-04-2021
-258,Dindigul,"K T Hospitals, Palani Bye pass Junction",25,14,11,10,4,6,10,10,0,5,0,5,1,0,1,2021-04-21 08:12:22,21.04.2021
+258,Dindigul,"K T Hospitals, Palani Bye pass Junction",25,20,5,10,10,0,10,10,0,5,0,5,1,0,1,2021-04-21 16:18:00,21.04.2021
 259,Madurai,"Raksha Hospital, Anna Nagar",10,0,10,10,0,0,10,0,0,4,0,3,0,0,0,2021-04-21 10:12:23,No changes 21.04.2021
 260,Madurai,Thirusenthilandavar Multispeciality Hospital,10,0,10,2,0,2,6,0,6,2,0,2,1,0,1,2021-04-21 08:02:47,Updated on 21.04.2021
 261,Sivagangai,"Madha Hospital, Manamadurai",50,2,48,10,1,9,40,1,39,10,0,10,1,0,1,2021-04-21 09:15:04,Updated
@@ -298,7 +298,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 297,Theni,"Theni Medical Centre, Nehruji Road",25,16,9,0,2,23,0,0,0,0,0,0,0,0,0,2021-04-21 10:35:06,Covid care center
 298,Tirunelveli,"Royal Hospital, NGO Colony",25,25,0,13,0,0,12,5,0,5,0,0,7,0,7,2021-04-21 09:20:50,
 299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",35,28,7,10,10,0,14,0,7,11,11,0,3,0,3,2021-04-21 10:41:27,28 positive and 2 susupected cases
-300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,4,11,6,1,5,8,3,5,1,0,1,1,0,1,2021-04-21 11:39:37,2 RTPCR Positive 2 CT Positive cases..
+300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,5,10,6,1,5,8,4,4,1,0,1,1,0,1,2021-04-21 16:02:21,3 RTPCR Positive 2 CT Positive cases..
 301,Thiruchirappalli,Kavi Hospital & Neuro Foundation,30,16,14,24,5,16,4,4,2,2,0,2,2,0,2,2021-04-21 10:00:15,NIll.
 302,Thiruchirappalli,Mangalam Hospital,14,14,0,11,11,0,3,3,0,0,0,0,0,0,0,2021-04-21 10:35:11,Nill.
 303,Thiruchirappalli,MMM Multi Speciality Hospital,20,0,20,18,0,18,2,0,2,2,0,2,1,0,1,2021-04-21 08:51:32,Nill
@@ -344,7 +344,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 343,Salem,Thiru Neuro And MultiSpecility Salem,45,13,32,40,2,38,5,0,5,10,0,10,2,0,2,2021-04-19 12:03:43,Nil
 344,Erode,"Erode multispeciality Hospital, Erode",25,25,0,2,0,0,20,25,0,3,0,0,0,0,0,2021-04-21 10:47:16,NO
 345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,0,60,4,0,4,56,0,56,0,0,0,0,0,0,2021-04-21 10:10:27,updated 21.04.2021
-346,Karur,"Abishek Hospital, Karur Tn.",15,2,13,5,0,5,10,0,10,6,0,6,1,0,1,2021-04-21 07:18:40,21-04-2021
+346,Karur,"Abishek Hospital, Karur Tn.",15,2,13,5,1,4,10,1,9,6,0,6,1,0,1,2021-04-21 16:02:44,21-04-2021
 347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",40,11,29,21,11,10,11,0,11,8,3,5,5,3,2,2021-04-21 06:36:41,Report submitted on 21.04.2021
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",30,3,27,28,3,25,0,0,0,2,0,2,0,0,0,2021-04-21 06:08:48,REPORT SUBMITTED ON 21.04.2021
 349,Karur,"GC Hospital, Karur Tn.",15,3,12,8,1,7,5,0,5,0,0,0,5,0,5,2021-04-21 06:56:52,21.04.2021
@@ -372,10 +372,10 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 371,Tirunelveli,Peace Health Centre,23,23,0,23,23,0,0,0,0,6,3,3,1,0,1,2021-04-21 09:40:18,
 372,Chennai,Jolen Hospital,15,15,0,15,3,12,0,0,0,5,4,1,0,0,0,2021-04-21 09:21:06,21/04/2021
 373,Chennai,Sen Hospital,25,15,10,25,15,10,0,0,0,6,4,2,2,0,0,2021-04-21 11:30:07,
-374,Chennai,"st. Isabels hospital, Maylapore",23,23,0,23,9,14,23,0,0,8,6,2,2,2,0,2021-04-21 08:50:10,Positive cases- 23
-375,Chennai,"Sri Balaji Hospital, guindy",6,5,1,4,2,1,2,0,1,4,0,0,0,0,0,2021-04-13 15:10:02,Daily Data Base
+374,Chennai,"st. Isabels hospital, Maylapore",23,19,4,23,9,14,23,0,0,8,6,2,2,3,0,2021-04-21 16:12:40,Positive cases- 19
+375,Chennai,"Sri Balaji Hospital, guindy",6,5,1,4,4,0,2,0,1,4,4,0,0,0,0,2021-04-21 16:10:14,Daily Data Base
 376,Chennai,"Radha Rajendran Hospital, Alandur",12,12,0,12,0,0,0,12,0,0,0,0,0,0,0,2021-04-16 12:36:06,
-377,Chennai,"One health hospital, Vandalur",15,14,1,10,8,2,5,4,3,5,5,0,4,0,0,2021-04-20 16:39:47,
+377,Chennai,"One health hospital, Vandalur",15,15,0,10,7,3,5,3,0,5,5,0,4,0,0,2021-04-21 16:33:11,
 378,Chennai,"Srinivasa Hospital, Kodampakkam",54,26,28,31,16,15,13,0,13,10,9,1,2,1,1,2021-04-12 18:20:54,
 379,Kanyakumari,"PPK hospital, Marthandam",29,1,28,25,1,24,4,0,0,7,0,0,3,0,0,2021-04-21 06:39:00,
 380,Salem,RK hospital,12,5,7,10,0,10,3,0,3,2,0,2,2,0,2,2021-04-21 12:00:43,Here with Updating our Hospital bed details
