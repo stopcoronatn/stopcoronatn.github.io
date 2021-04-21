@@ -190,11 +190,11 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 189,Thanjavur,Meenakshi Multispeciality Hospital,115,230,-115,23,23,0,62,62,1,30,30,0,2,0,2,2021-04-21 11:05:40,,"Positive-91, SARI-23"
 190,Tiruvallur,Aakash Hospital,55,110,-55,55,53,2,0,0,0,6,6,0,3,0,6,2021-04-21 08:21:31,,21-04-2021
 191,Tiruvallur,ACS Medical College And Hospital,50,100,-50,10,0,10,40,0,40,0,0,0,0,0,0,2021-04-21 06:47:57,,
-192,Tiruvallur,Peacock Hospitals Private Limited,27,54,-27,19,19,0,2,0,2,6,6,0,1,0,1,2021-04-21 12:13:59,,update 21/04/2021
+192,Tiruvallur,Peacock Hospitals Private Limited,31,31,0,25,25,0,3,0,3,6,6,0,1,0,1,2021-04-21 17:52:53,0.0,update 21/04/2021
 193,Tiruvallur,Raj Nursing Home Mogappair East,28,56,-28,19,18,1,0,0,0,9,9,0,5,3,2,2021-04-21 12:47:16,,21/ 04/ 2021 8 AM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,24,48,-24,21,21,0,0,0,0,3,0,3,1,0,0,2021-04-21 11:27:13,,Updated
 195,Tiruvallur,Sri Ivan Stedeford Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 08:39:21,,21.04.2021
-196,Tiruvallur,Sugam Hospital,34,0,34,32,32,0,0,0,0,2,0,2,2,0,0,2021-04-21 17:29:28,0.0,updated 21.04.2021
+196,Tiruvallur,Sugam Hospital,34,0,34,32,32,0,0,0,0,2,1,1,2,1,1,2021-04-21 18:46:00,0.0,updated 21.04.2021-eve
 197,Tiruvannamalai,Ramana Maharishi Hospital,0,150,-150,20,0,20,55,38,17,20,0,20,2,0,2,2021-04-21 08:47:17,,
 198,Thoothukudi,Sacred Heart Hospital,35,70,-35,28,4,24,5,5,0,2,0,2,1,0,1,2021-04-21 09:08:55,,21.04.2021
 199,Thoothukudi,Sri Hospital,25,50,-25,21,13,8,0,0,0,4,0,0,1,0,1,2021-04-21 09:04:41,,SRI HOSPITALS.
@@ -202,7 +202,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 201,Tirunelveli,Ponra Multispeciality Hospital,30,60,-30,30,11,19,30,0,0,0,0,0,0,0,0,2021-04-21 08:42:01,,
 202,Tirunelveli,Rosemary mission hospital and research centre,30,60,-30,14,14,0,16,16,0,0,0,0,0,0,0,2021-04-21 09:19:27,,
 203,Dindigul,Shifa Hospital,10,20,-10,4,2,2,0,0,0,6,0,6,0,0,0,2021-04-21 10:22:12,,21.04.2021
-204,Tiruppur,Revathi Medical Centre,45,94,-49,10,10,0,37,35,0,10,10,0,10,6,4,2021-04-21 16:22:49,,NILL
+204,Tiruppur,Revathi Medical Centre,60,0,60,38,38,0,22,20,2,10,10,0,4,0,0,2021-04-21 18:02:28,0.0,NILL
 205,Thiruvarur,Navajeevan Hospital,30,60,-30,30,30,0,0,0,0,5,0,5,1,0,1,2021-04-21 09:59:20,,Updated on 21.04.2021
 206,Thiruvarur,Thiruvarur Medical Centre,30,60,-30,30,21,10,0,0,0,0,0,0,1,0,1,2021-04-21 07:38:39,,Update
 207,Thiruchirappalli,"Neuro One Hospital, Karur Bye Pass Road",25,50,-25,11,8,0,8,2,6,6,3,3,6,2,4,2021-04-21 15:48:04,,2 VENTILATOR 1 HIF 8 O2 SUPPORT 1 NON-02 SUPPORT.
@@ -371,7 +371,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 370,Chennai,"Sudha Hospital, Royapuram",8,16,-8,4,4,0,2,2,0,2,2,0,1,0,1,2021-04-21 08:59:59,,21/04/2021
 371,Tirunelveli,Peace Health Centre,23,46,-23,23,23,0,0,0,0,6,3,3,1,0,1,2021-04-21 09:40:18,,
 372,Chennai,Jolen Hospital,5,30,-25,15,3,12,0,0,0,5,4,1,0,0,0,2021-04-21 09:21:06,,21/04/2021
-373,Chennai,Sen Hospital,25,50,-25,25,15,10,0,0,0,6,4,2,2,0,0,2021-04-21 11:30:07,,
+373,Chennai,Sen Hospital,25,50,-25,25,15,10,0,0,0,6,4,2,2,0,0,2021-04-21 18:36:53,0.0,
 374,Chennai,"st. Isabels hospital, Maylapore",23,46,-23,23,9,14,23,0,0,8,6,2,2,3,0,2021-04-21 16:12:40,,Positive cases- 19
 375,Chennai,"Sri Balaji Hospital, guindy",7,12,-5,4,4,0,2,0,1,4,4,0,0,0,0,2021-04-21 16:10:14,,Daily Data Base
 376,Chennai,"Radha Rajendran Hospital, Alandur",12,24,-12,12,0,0,0,12,0,0,0,0,0,0,0,2021-04-16 12:36:06,,
@@ -383,7 +383,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 382,Virudhunagar,Amar hospital,27,54,-27,27,7,20,8,0,0,5,0,5,2,0,2,2021-04-21 13:41:43,,21/04/2021 13.41 pm
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-15 12:57:13,,
 384,Tirunelveli,VJ Hospital,15,30,-15,5,5,0,10,5,5,5,5,5,5,4,1,2021-04-21 10:08:23,,15 Active cases
-385,Thiruchirappalli,Atlas Hospital,20,40,-20,12,6,6,2,0,2,6,1,5,1,0,1,2021-04-21 11:09:24,,COVID-19-7 Sari Ili & Ct Chest Positive -8.
+385,Thiruchirappalli,Atlas Hospital,20,17,3,12,7,5,2,0,2,6,1,5,1,0,1,2021-04-21 17:52:17,0.0,COVID-19-8 Sari Ili & Ct Chest Positive -9.
 386,Tiruppur,Velan Hospital,0,60,-60,18,0,8,0,0,0,8,8,0,3,0,3,2021-04-21 08:22:36,,
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",0,56,-56,14,2,12,5,2,2,10,2,8,5,2,3,2021-04-21 08:18:29,,21.04.2021
 388,Chennai,Be well hospital T.Nagar,17,34,-17,18,17,1,0,0,0,0,0,0,0,0,0,2021-04-21 10:52:26,,
@@ -395,3 +395,10 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,200,-100,40,0,40,50,0,50,10,0,10,10,0,10,2021-04-21 09:40:10,,Date 21.04.2021 Time 9.40am
 395,Tiruvallur,"Be well , Ponamallee",18,36,-18,10,10,0,0,0,0,0,0,0,0,0,0,2021-04-21 12:53:47,,
 396,Thanjavur,National pharma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-18 13:06:27,,
+397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:19:59,,
+398,Chennai,"Amrit Medical Centre,Purasawakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:24:00,,
+399,Salem,AP Medical Centre,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:26:47,,
+400,Chennai,Fortis healthcare – Vadapalani,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:30:44,,
+401,Chennai,"City Tower Hospital,Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:43:24,,
+402,Tiruppur,"CNS Hospitals, Palangarai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:47:01,,
+403,Chengalpattu,"Das Nursing Home,Chengalpattu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 18:50:45,,
