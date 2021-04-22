@@ -43,7 +43,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 42,Chennai,M G M Health Care Pvt Ltd,80,80,0,5,5,0,65,65,0,10,10,0,15,15,0,2021-04-22 12:03:42,0.0,22-04-2021
 43,Chennai,M.R Hospital,16,0,16,16,16,0,0,0,0,4,4,0,2,0,2,2021-04-22 11:23:57,8668090664.0,22.04.2021
 44,Chennai,Maya Nursing Home,40,80,-40,15,15,0,20,0,5,5,5,0,4,0,4,2021-04-22 09:05:13,0.0,SAME
-45,Chennai,Medway Hospital,35,70,-35,8,0,8,0,0,0,8,0,8,3,0,3,2021-04-21 12:23:19,,21.04.21
+45,Chennai,Medway Hospital,35,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 22:30:55,7299057877.0,22.04.21
 46,Chennai,Meenakshi Medical College,80,2,78,31,0,31,42,2,40,7,0,7,7,0,7,2021-04-22 07:30:11,0.0,Update : 20.04.2021
 47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,250,124,126,30,27,0,175,50,125,45,24,21,16,14,2,2021-04-22 09:46:07,9787740890.0,22.04.2021 SUSPECT -21 ACTIVE COVID -103 TOTAL -124
 48,Chennai,Mint Hospital,30,60,-30,22,22,0,4,4,0,4,4,0,2,1,2,2021-04-22 07:29:07,0.0,22.4.2021 7.00am Updated
@@ -52,7 +52,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 51,Chennai,Muthu hospital,20,40,-20,10,10,0,10,10,0,3,3,0,2,0,2,2021-04-22 09:54:58,0.0,22/4/2021
 52,Chennai,National Hospital,100,200,-100,100,100,0,0,0,0,10,10,0,4,4,0,2021-04-22 08:34:42,0.0,22-04-2021
 53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,14,6,20,14,0,0,0,0,0,0,0,0,0,0,2021-04-22 06:58:09,7639856689.0,
-54,Chennai,New Life Hospitals,40,70,-30,32,0,32,3,0,3,3,0,3,2,0,2,2021-04-21 12:23:02,,21-04-21
+54,Chennai,New Life Hospitals,40,0,40,30,0,30,0,0,0,3,0,3,2,0,2,2021-04-22 22:26:37,0.0,22-04-21
 55,Chennai,New Lifemed Hospital,43,43,0,13,13,0,26,26,0,4,4,0,1,0,1,2021-04-22 09:05:26,0.0,20/4/2021
 56,Chennai,Noble Hospital,60,60,0,60,60,0,4,4,0,6,6,0,2,2,0,2021-04-22 08:14:32,8608589888.0,....Nill
 57,Chennai,Orthomed Hospital,55,110,-55,45,45,0,0,0,0,10,8,2,3,3,0,2021-04-22 08:48:47,0.0,
@@ -188,7 +188,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 187,Sivagangai,Kauvery Hospital Karaikudi,40,21,19,35,5,30,0,0,0,5,2,3,4,0,4,2021-04-22 12:09:40,6381456995.0,22/04/2021 Positive - 13 Suspected-8 Total=21
 188,Thanjavur,KG Multi Speciality Hospital,48,40,8,20,19,1,8,1,7,20,19,1,12,0,12,2021-04-22 09:26:47,0.0,COVID-19 POSITIVE:21/SUSPECTED:19 TOTAL OCCUPIED BEDs :40 VACANT :08 only
 189,Thanjavur,Meenakshi Multispeciality Hospital,120,119,1,18,16,2,72,72,0,30,30,0,2,0,2,2021-04-22 11:32:14,4362226474.0,"Positive-96, SARI-22"
-190,Tiruvallur,Aakash Hospital,55,110,-55,55,53,2,0,0,0,6,6,0,3,0,6,2021-04-22 09:10:15,91.0,22-04-2021
+190,Tiruvallur,Aakash Hospital,70,65,5,70,65,5,0,0,0,6,6,0,3,1,2,2021-04-22 22:51:56,9940109567.0,22-04-2021
 191,Tiruvallur,ACS Medical College And Hospital,50,0,50,10,0,10,40,0,40,0,0,0,0,0,0,2021-04-22 12:04:49,9003060052.0,
 192,Tiruvallur,Peacock Hospitals Private Limited,35,33,2,25,25,0,3,3,0,6,6,0,1,1,0,2021-04-22 09:13:15,0.0,update 22/04/2021
 193,Tiruvallur,Raj Nursing Home Mogappair East,33,29,4,22,18,4,0,0,0,11,11,0,5,5,0,2021-04-22 11:28:25,8921334594.0,22 / 04 / 2021 12 PM
@@ -255,7 +255,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 254,Sivagangai,Karthick Multi Speciality Hospital,13,0,13,9,0,9,4,0,4,0,0,0,1,0,0,2021-04-22 13:10:18,9262033333.0,22.04.2021
 255,Thiruchirappalli,"Velan Speciality Hospital, Highways Colony",15,30,-15,15,14,1,0,0,0,3,2,1,1,0,1,2021-04-22 08:30:15,0.0,Nill
 256,Thoothukudi,Public Welfare Hospital Kovilpatti,18,4,14,6,4,2,11,0,11,1,0,1,1,0,1,2021-04-22 10:33:43,0.0,Nil
-257,Chennai,"Medway Women Centre, Kodambakkam",30,60,-30,26,26,0,0,0,0,4,4,0,4,4,0,2021-04-21 12:22:41,,21-04-2021
+257,Chennai,"Medway Women Centre, Kodambakkam",30,23,7,26,26,0,0,0,0,4,4,0,4,4,0,2021-04-22 22:24:31,7299057877.0,22-04-2021
 258,Dindigul,"K T Hospitals, Palani Bye pass Junction",25,20,5,10,10,0,10,10,0,5,0,5,1,0,1,2021-04-22 08:36:25,0.0,21.04.2021
 259,Madurai,"Raksha Hospital, Anna Nagar",0,20,-20,10,0,0,10,0,0,4,0,3,0,0,0,2021-04-22 09:42:57,0.0,No changes 22.04.2021
 260,Madurai,Thirusenthilandavar Multispeciality Hospital,10,0,10,2,0,2,6,0,6,2,0,2,1,0,1,2021-04-22 08:49:16,7708773633.0,Updated on 22.04.2021
@@ -324,7 +324,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 323,Kanyakumari,"Manuel Orthopedic Hospital, therekaalputhoor",0,50,-50,25,0,25,0,0,0,5,0,0,2,0,2,2021-04-22 09:28:21,0.0,
 324,Kanyakumari,"Joseph Sahayam Speciality Hospital, Nagerkoil",68,136,-68,31,1,30,31,2,28,6,0,6,4,0,4,2021-04-22 17:16:21,0.0,.
 325,Kanyakumari,"Thasiah Medical centre, Marthandam",30,60,-30,13,0,13,7,0,6,10,0,10,2,0,2,2021-04-22 09:28:46,0.0,.
-326,Thanjavur,"MVK Hospital, Thanjavur",60,60,0,8,6,2,7,5,2,15,4,11,2,0,2,2021-04-22 21:48:19,0.0,patients all are stable.
+326,Thanjavur,"MVK Hospital, Thanjavur",30,23,7,30,6,24,0,5,0,15,0,12,2,0,2,2021-04-22 22:13:20,9565201833.0,patients all are stable.
 327,Thanjavur,Vinodhagan Memorial Hospital,40,32,8,10,10,0,25,22,3,5,0,5,2,0,2,2021-04-22 10:15:44,0.0,Updated 22.04.2021
 328,Coimbatore,"Chennai Hospitals Pvt Ltd, Gandhipuram",37,74,-37,37,0,37,0,0,0,7,0,7,0,0,0,2020-12-10 09:08:46,,Report Submitted 10.12.2020
 329,Coimbatore,"CSR Nursing Home, Gandhipuram",28,19,9,14,9,9,14,14,0,1,0,1,1,0,1,2021-04-22 10:27:54,0.0,CSR COVID CARE CENTER
