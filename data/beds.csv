@@ -37,7 +37,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 36,Chennai,Kauvery Hospital,60,360,-300,16,16,0,42,42,0,8,8,0,6,2,4,2021-04-21 13:37:38,,21.04.2021
 37,Chennai,Kumaran Hospital Pvt ltd,61,59,2,61,61,0,0,11,0,10,10,0,6,6,0,2021-04-22 09:21:01,0.0,21/04/2021
 38,Chennai,"KVT Speciality Hospital, Erukanchery",31,30,1,0,0,0,23,23,0,8,7,1,2,0,2,2021-04-22 10:45:36,9884523654.0,22.04.2021
-39,Chennai,Laksha Hospital Royapettah,45,90,-45,45,30,0,0,0,0,9,9,0,2,0,2,2021-04-21 08:35:19,,21.04.2021
+39,Chennai,Laksha Hospital Royapettah,45,90,-45,45,30,0,0,0,0,9,9,0,2,0,2,2021-04-22 18:13:42,0.0,22.04.2021
 40,Chennai,Life Care Hospital,17,34,-17,10,10,0,4,2,0,3,3,0,2,0,2,2021-04-22 08:33:04,9003260244.0,22.4.2021
 41,Chennai,Lifeline Hospitals,30,60,-30,10,10,0,20,20,0,0,0,0,1,0,1,2021-04-22 15:21:13,9500073959.0,22.04.2021
 42,Chennai,M G M Health Care Pvt Ltd,80,80,0,5,5,0,65,65,0,10,10,0,15,15,0,2021-04-22 12:03:42,0.0,22-04-2021
@@ -199,7 +199,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 198,Thoothukudi,Sacred Heart Hospital,35,15,20,28,10,18,5,5,0,2,0,2,1,0,1,2021-04-22 09:28:55,0.0,22.04.2021
 199,Thoothukudi,Sri Hospital,25,14,11,21,14,7,0,0,0,4,0,4,1,0,1,2021-04-22 11:50:28,0.0,SRI HOSPITALS.
 200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",30,28,2,17,17,0,10,8,2,3,3,0,2,2,0,2021-04-22 08:41:31,7540094100.0,"Positive - 26, Suspected - 2 22-4-2021"
-201,Tirunelveli,Ponra Multispeciality Hospital,26,12,14,33,12,21,0,0,0,7,0,0,4,0,4,2021-04-22 13:40:17,8300508737.0,
+201,Tirunelveli,Ponra Multispeciality Hospital,30,28,2,23,14,9,0,0,0,7,0,7,2,0,2,2021-04-22 18:49:42,8300508737.0,
 202,Tirunelveli,Rosemary mission hospital and research centre,30,28,2,20,20,0,10,8,2,0,0,0,0,0,0,2021-04-22 10:58:33,0.0,
 203,Dindigul,Shifa Hospital,20,7,13,14,6,8,0,0,0,6,1,5,0,0,0,2021-04-22 10:36:00,9952495710.0,22.04.2021
 204,Tiruppur,Revathi Medical Centre,60,0,60,32,32,0,14,10,4,10,10,0,4,0,0,2021-04-22 16:13:28,0.0,NILL
@@ -437,7 +437,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 436,Namakkal,"Sakthi Hospital,Namakkal",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:27:43,,
 437,Chennai,"SenthilPriya Hospital,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:28:20,,
 438,Chennai,"Shens Hospital, Ashok Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:29:00,,
-439,Thiruchirappalli,"Sri AuroMa Hospital,Trichy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:32:02,,
+439,Thiruchirappalli,"Sri AuroMa Hospital,Trichy",12,2,10,4,1,3,6,6,5,0,0,0,0,0,0,2021-04-22 17:51:46,9894226648.0,
 440,Chennai,"Sri Chakra Multispecialty Hospital,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:32:44,,
 441,Chennai,"Sri Hospital, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:33:20,,
 442,Thanjavur,Sri Kumaran Gastro Private Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:33:59,,
