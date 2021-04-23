@@ -124,7 +124,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 123,Kancheepuram,Sri Muthukumaran Medical College,380,7,373,50,1,49,314,5,309,16,0,16,6,0,6,2021-04-23 09:11:21,0.0,23.04.2021
 124,Kancheepuram,Apollo Medical Centre Karapakkam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-23 09:26:44,0.0,Updated 23.04.2021
 125,Kanyakumari,Bensam Hospital,65,45,20,48,40,8,16,5,11,1,0,1,1,0,1,2021-04-23 06:06:07,0.0,
-126,Kanyakumari,C.S.I.MISSION HOSPITAL,108,216,-108,25,0,25,75,8,67,8,0,8,5,0,5,2021-04-23 06:07:27,0.0,.
+126,Kanyakumari,C.S.I.MISSION HOSPITAL,113,0,113,40,0,40,68,37,31,5,0,5,5,0,5,2021-04-23 19:28:08,0.0,.
 127,Kanyakumari,Dr. Jayasekaran Medical Trust Hospital,110,110,0,34,31,3,65,65,0,11,8,3,4,2,2,2021-04-23 06:08:07,0.0,
 128,Kanyakumari,Sree Mookambika Institute of Medical Sciences,180,0,180,75,0,75,95,0,95,10,0,10,10,0,10,2021-04-23 15:54:29,0.0,.
 129,Kanyakumari,Vasantham Health Centre,80,0,80,40,15,25,33,33,0,7,7,0,6,2,4,2021-04-23 15:51:29,0.0,
@@ -273,7 +273,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 272,Erode,"Kovai Medical Centre,Erode TN.",50,90,-40,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
 273,Kancheepuram,"TCS, Sirucherry",48,13,35,0,0,0,48,13,35,0,0,0,0,0,0,2021-04-23 09:34:58,7904569873.0,UPDATED TILL 23/04/2021 08:00AM
 274,Kanyakumari,"Bethesda Hospital, Nagercoil",31,0,31,13,13,0,11,11,0,7,5,2,2,0,2,2021-04-23 15:31:10,4652232233.0,...
-275,Kanyakumari,"Siva Hospital, Nagercoil",50,100,-50,18,0,18,30,27,3,10,0,10,3,0,3,2021-04-23 06:04:27,0.0,
+275,Kanyakumari,"Siva Hospital, Nagercoil",50,0,50,20,0,20,25,20,5,5,2,3,3,0,3,2021-04-23 19:22:30,0.0,
 276,Karur,"ABS Hospital, Thanthonimalai",30,60,-30,30,17,13,0,0,0,0,6,2,3,0,3,2021-04-23 09:26:06,0.0,23.04.2021
 277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",90,180,-90,85,76,9,5,0,5,0,0,0,0,0,0,2021-04-21 13:50:11,,
 278,Madurai,"BGM Hospital, Iyer Bungalow",16,10,6,5,5,0,8,2,3,3,0,3,1,0,1,2021-04-23 17:05:12,0.0,23.04.2021 ( covid - 19 four patients admission in our hospital )
@@ -322,7 +322,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 321,Salem,"Kamala Hospital,Agraharam",25,22,3,6,4,2,19,18,1,10,0,0,8,0,8,2021-04-23 08:51:59,0.0,
 322,Coimbatore,"Coimbatore Diabetic Foundation,maruthamalai road",30,30,0,27,0,27,0,0,0,3,0,3,1,0,1,2021-04-23 12:22:03,0.0,23.04.2021
 323,Kanyakumari,"Manuel Orthopedic Hospital, therekaalputhoor",25,0,25,20,8,12,0,0,0,5,0,5,2,0,2,2021-04-23 15:39:24,0.0,.
-324,Kanyakumari,"Joseph Sahayam Speciality Hospital, Nagerkoil",68,136,-68,31,1,30,31,8,23,6,0,6,4,0,4,2021-04-23 14:15:47,0.0,.
+324,Kanyakumari,"Joseph Sahayam Speciality Hospital, Nagerkoil",68,0,68,31,1,30,31,8,23,6,0,6,4,0,4,2021-04-23 19:31:59,0.0,.
 325,Kanyakumari,"Thasiah Medical centre, Marthandam",30,60,-30,13,0,13,7,0,6,10,0,10,2,0,2,2021-04-23 06:09:45,0.0,
 326,Thanjavur,"MVK Hospital, Thanjavur",30,23,7,10,3,7,5,5,0,15,15,0,2,0,2,2021-04-23 06:28:28,9565201833.0,patients all are stable.
 327,Thanjavur,Vinodhagan Memorial Hospital,40,37,3,10,10,0,25,25,0,5,2,3,2,0,2,2021-04-23 08:09:14,0.0,Updated 23.04.2021
@@ -428,7 +428,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 427,Chennai,"Pavithra Hospital Pvt Ltd,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:17:03,,
 428,Thiruchirappalli,"Prabhu Diabetes Specialty Centre,Trichy",10,10,0,5,5,0,4,4,0,1,1,0,1,0,0,2021-04-23 08:11:04,9787955955.0,Nil
 429,Chennai,"Prasanth Fertility Research Centre,Chetpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:18:22,,
-430,Pudukkottai,"Pudhugai Star Hospital,Pudukottai",20,2,18,10,2,8,0,0,0,10,0,10,3,0,3,2021-04-23 11:49:48,0.0,
+430,Pudukkottai,"Pudhugai Star Hospital,Pudukottai",20,6,14,10,6,4,0,0,0,10,0,10,3,0,3,2021-04-23 19:20:19,0.0,
 431,Chennai,Raadha Rajendran Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:21:10,,
 432,Chennai,"Ramani Hospital,Ashok Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:21:55,,
 433,Chennai,Right Hospitals Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:23:16,,
