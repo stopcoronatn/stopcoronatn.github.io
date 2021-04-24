@@ -9,7 +9,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",40,40,0,5,5,0,35,35,0,0,0,0,0,0,0,2021-04-24 09:30:55,7708610628.0,24/04/2021
 9,Chennai,"Apollo Hospital, Greams Road",124,124,0,42,42,0,35,35,0,45,45,0,45,45,0,2021-04-24 16:03:41,7397242423.0,24.04.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",95,95,0,83,83,0,0,0,0,12,12,0,7,7,0,2021-04-24 16:37:47,7824821042.0,
-11,Chennai,Appasamy Hospital,72,68,4,72,68,4,0,0,0,5,5,0,4,4,0,2021-04-24 11:54:47,6379350953.0,April 24th
+11,Chennai,Appasamy Hospital,72,72,0,72,67,5,0,0,0,5,5,0,4,4,0,2021-04-24 18:34:48,6379350953.0,April 24th
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",18,54,-36,5,0,0,18,5,0,4,0,4,2,0,2,2021-04-23 08:42:50,0.0,23-04-2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,40,-20,18,18,0,3,0,0,4,4,0,2,0,0,2021-04-23 11:03:05,0.0,23.04.2021
 14,Chennai,Aysha Hospital,12,24,-12,4,4,0,2,0,2,4,4,0,5,0,5,2021-04-22 12:27:23,0.0,4 New case reported in Aysha Hospitals Chennai
@@ -48,7 +48,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,250,129,121,30,30,0,175,52,123,45,23,22,16,14,2,2021-04-24 07:10:43,9787740890.0,24.04.2021 SUSPECT -24 ACTIVE COVID -105 TOTAL -129
 48,Chennai,Mint Hospital,30,60,-30,22,22,0,4,4,0,4,4,0,2,1,2,2021-04-24 08:52:38,7338777444.0,24.4.2021 7.00am Updated
 49,Chennai,Miot Hospital,300,127,173,70,0,0,197,94,103,33,33,0,10,1,9,2021-04-24 15:39:37,7824060120.0,COVID EMERGENCY CALL 105710 DIRECT FROM MOBILE
-50,Chennai,MMRV Hospital,50,95,-45,20,20,0,0,0,0,30,25,5,4,4,0,2021-04-24 07:35:36,9884926283.0,24/04/2021
+50,Chennai,MMRV Hospital,95,95,0,20,20,0,0,0,0,30,25,5,4,4,0,2021-04-24 18:04:27,9884926283.0,24/04/2021
 51,Chennai,Muthu hospital,20,40,-20,10,10,0,10,10,0,3,3,0,2,0,2,2021-04-22 09:54:58,0.0,22/4/2021
 52,Chennai,National Hospital,100,200,-100,100,100,0,0,0,0,10,10,0,4,4,0,2021-04-24 13:34:39,9381166707.0,24-04-2021
 53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,17,3,20,17,3,0,0,0,0,0,0,0,0,0,2021-04-24 07:27:06,7639856689.0,Total 17
@@ -182,7 +182,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 181,Salem,Priyam Speciality Hospitals,60,60,0,60,0,0,0,0,0,20,5,15,7,1,6,2021-04-24 10:29:19,7010708284.0,
 182,Salem,Shanmuga Hospital Cancer Institute,50,100,-50,5,0,17,5,4,3,10,1,7,1,0,1,2021-04-19 10:18:37,,nil
 183,Salem,SKS Hospital,90,79,11,40,29,11,50,50,0,0,0,0,0,0,0,2021-04-24 16:20:50,9952756241.0,Nil
-184,Salem,Sri Gokulam Hospital,100,96,4,29,27,2,67,65,2,4,4,4,2,0,2,2021-04-23 15:36:43,0.0,23-04-21
+184,Salem,Sri Gokulam Hospital,100,98,2,29,28,1,67,66,1,4,4,4,2,0,2,2021-04-24 18:02:31,9443234450.0,24-04-21
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,160,-80,24,18,6,47,47,0,9,6,3,2,0,2,2021-04-24 10:46:30,9500182225.0,
 186,Salem,Vinyaga Mission Kirubanandha Variyar Medical College Hospital,145,54,91,45,0,45,50,9,41,15,0,15,5,0,5,2021-04-24 10:57:10,9751380971.0,
 187,Sivagangai,Kauvery Hospital Karaikudi,55,36,19,50,19,31,0,0,0,5,3,2,4,0,4,2021-04-24 10:16:41,6381456995.0,24/04/2021 Positive - 19 Suspected-17 Total=36
@@ -445,7 +445,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 444,Chennai,"Susi Hospital, Thiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:35:17,,
 445,Madurai,"Thavam Hospital, K.Pudhur",15,9,6,6,2,4,6,6,0,3,1,2,0,0,0,2021-04-24 13:38:53,6381046461.0,update
 446,Tiruppur,"Vel Hospital, Dharapuram",25,0,25,4,3,1,19,0,19,2,0,2,2,0,0,2021-04-24 16:02:19,8610931703.0,NIL
-447,Tiruppur,"Vel Hospital,Udumalpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:37:35,,
+447,Tiruppur,"Vel Hospital,Udumalpet",15,8,7,3,0,3,10,7,3,2,0,2,2,0,2,2021-04-24 18:12:47,9751766002.0,
 448,Madurai,Vijaya Hospital,10,3,7,7,3,4,0,0,0,3,0,3,1,0,0,2021-04-24 11:04:34,9003401778.0,today 1 case admission
 449,Madurai,"Vikram Multispeciality hospital, Madurai",20,10,10,12,10,2,6,0,6,2,0,2,2,0,2,2021-04-24 17:14:12,9150891207.0,
 450,Chennai,"Westminster HealthCare,Nungambakkam",10,8,2,8,8,0,0,0,0,2,2,0,0,0,0,2021-04-24 16:52:16,9003069693.0,
