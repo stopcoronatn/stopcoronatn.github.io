@@ -68,7 +68,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 67,Chennai,SIMS Hospital Vadapalani,120,117,3,118,115,3,0,0,0,2,2,0,2,1,1,2021-04-24 10:44:03,7401681037.0,
 68,Chennai,"Sivam Hospitals, Ullagaram",20,40,-20,10,0,10,10,0,10,7,0,7,3,0,3,2021-04-22 11:04:44,0.0,20.04.2021
 69,Chennai,Sooriya Hospital,75,63,12,63,51,12,0,0,0,12,12,0,4,0,4,2021-04-24 09:16:03,9840367880.0,24.04.21 status
-70,Chennai,Sree Balaji Medical College & Hospital,250,250,0,60,57,3,135,50,85,5,5,0,5,3,2,2021-04-24 09:54:07,9282113188.0,
+70,Chennai,Sree Balaji Medical College & Hospital,250,250,0,60,57,3,135,50,85,5,5,0,5,3,2,2021-04-24 23:31:42,4442911000.0,
 71,Chennai,Sree Lakshmi Clinic and Maternity Centre,18,28,-10,14,14,0,0,0,0,4,4,0,2,1,1,2021-04-24 15:04:57,9952900795.0,24/04/2021
 72,Chennai,"Sri Ramachandra Medical College Hospital, Porur",270,89,181,260,80,180,0,0,0,10,9,1,6,6,0,2021-04-24 08:57:10,8939433555.0,
 73,Chennai,Sri Sathya Sai Medical College & Research Institue,244,15,229,24,0,24,200,15,185,20,0,20,10,0,10,2021-04-24 09:30:12,9841714877.0,24. 04.2021
@@ -307,7 +307,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,25,7,17,17,0,10,3,7,5,5,0,2,0,2,2021-04-24 08:58:46,9842011199.0,Nil
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",22,20,2,15,15,0,3,3,0,4,2,2,1,0,1,2021-04-24 10:46:29,9940025666.0,RT-PCR positive Cases: 20 Suspected SARI Cases: 0
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
-309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,6,0,11,10,1,5,0,5,1,0,1,2021-04-24 11:22:07,9489659868.0,24.04.2021
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,14,8,6,3,3,11,11,0,5,0,5,1,0,1,2021-04-24 23:47:18,9489659868.0,25.04.2021
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,7,9,13,7,6,0,0,0,3,0,3,0,0,0,2021-04-24 07:56:28,9442130965.0,
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:01:35,,Hospital closed
 312,Virudhunagar,"VVVNC, Chatrarediapatti",25,14,11,40,14,26,0,0,0,20,14,6,1,1,0,2021-04-24 06:59:37,9940757475.0,
@@ -346,7 +346,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,0,60,4,0,4,56,0,56,0,0,0,0,0,0,2021-04-24 10:47:49,9500967789.0,updated 24.04.2021
 346,Karur,"Abishek Hospital, Karur Tn.",15,2,13,5,1,4,10,1,9,6,0,6,1,0,1,2021-04-24 09:22:41,9790555151.0,24-04-2021
 347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",40,14,26,21,9,12,11,0,11,8,0,8,5,0,0,2021-04-24 07:05:44,9629492325.0,Report submitted on 24.04.2021
-348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",30,13,17,28,10,18,0,0,0,2,0,2,0,0,0,2021-04-24 12:09:11,9942251163.0,REPORT SUBMITTED ON 24.04.2021
+348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",30,14,16,28,12,16,0,0,0,2,0,2,0,0,0,2021-04-24 23:30:26,9942251163.0,REPORT SUBMITTED ON 25.04.2021
 349,Karur,"GC Hospital, Karur Tn.",15,3,12,10,0,10,4,0,2,1,0,1,1,0,1,2021-04-24 08:33:39,9659974311.0,24.04.2021
 350,Chennai,"Vivekananda Hospital,mylapore",30,25,5,30,25,5,20,0,0,8,5,3,2,0,2,2021-04-22 01:28:09,0.0,22-04-21
 351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",0,11,-11,14,11,3,0,0,0,3,0,3,2,0,2,2021-04-24 07:21:46,9940632392.0,24/04/2021
