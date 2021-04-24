@@ -23,7 +23,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 22,Chennai,Chettinad Hospital,250,217,33,91,91,0,145,91,54,14,14,0,5,1,4,2021-04-24 09:21:33,9841688000.0,217 ( 196 positive + 21 Suspected )
 23,Chennai,CSI Kalyani General Hospital,30,60,-30,25,25,0,5,0,0,5,5,0,5,5,0,2021-04-22 11:52:45,0.0,22/04/2021
 24,Chennai,Dr.Kamakshi Memorial Hospital,180,360,-180,165,165,0,0,0,0,15,15,0,5,5,0,2021-04-24 00:40:53,8754594545.0,24/04/2021
-25,Chennai,Fortis Malar Hospital,41,0,41,33,33,0,0,0,0,8,8,0,10,7,0,2021-04-24 11:20:49,8939831204.0,24-04-2021
+25,Chennai,Fortis Malar Hospital,41,0,41,33,33,0,0,0,0,8,8,0,10,7,0,2021-04-24 16:55:25,8939831204.0,24-04-2021
 26,Chennai,Frontier Lifeline Hospital,0,0,0,4,4,0,0,0,0,10,10,0,2,2,0,2021-04-24 11:34:56,9941325831.0,"C PAP - NIL CASES, BPAP - NIL CASES, Updated"
 27,Chennai,Girishwari Hospital Alwarpet,10,20,-10,8,8,0,10,10,0,0,0,0,0,0,0,2021-04-24 11:08:15,9677059215.0,24-04-2021
 28,Chennai,GKM Hospital Pvt Ltd,10,20,-10,0,0,0,0,0,0,10,1,9,4,1,4,2021-04-23 08:47:45,0.0,23-04-2021
@@ -191,7 +191,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 190,Tiruvallur,Aakash Hospital,70,65,5,64,59,5,0,0,0,6,6,0,3,1,2,2021-04-24 10:59:13,9940109567.0,24-04-2021
 191,Tiruvallur,ACS Medical College And Hospital,50,1,49,10,0,10,40,1,39,0,0,0,0,0,0,2021-04-24 07:38:40,9003060052.0,Nil
 192,Tiruvallur,Peacock Hospitals Private Limited,40,39,1,30,30,0,3,3,0,6,6,0,1,1,0,2021-04-24 09:59:41,9629196441.0,update 24/04/2021
-193,Tiruvallur,Raj Nursing Home Mogappair East,34,32,2,21,20,1,2,2,0,11,10,1,5,5,0,2021-04-24 16:05:14,8921334594.0,24 / 04 / 2021 4 PM
+193,Tiruvallur,Raj Nursing Home Mogappair East,34,32,2,21,20,1,2,2,0,11,10,1,7,5,2,2021-04-24 17:38:41,8921334594.0,24 / 04 / 2021 4 PM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,24,24,0,21,21,0,0,0,0,3,3,0,1,1,0,2021-04-24 10:47:52,9840036349.0,Updated
 195,Tiruvallur,Sri Ivan Stedeford Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-24 08:19:50,9489136071.0,24.04.2021
 196,Tiruvallur,Sugam Hospital,34,34,0,32,32,0,0,0,0,2,2,0,2,2,0,2021-04-24 06:55:43,9551979777.0,updated 24.04.2021
@@ -377,7 +377,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 376,Chennai,"Radha Rajendran Hospital, Alandur",12,12,0,12,0,0,0,12,0,0,0,0,0,0,0,2021-04-24 11:09:50,9952920853.0,
 377,Chennai,"One health hospital, Vandalur",0,30,-30,10,7,3,5,3,0,5,5,0,4,0,0,2021-04-24 06:19:06,9884218343.0,
 378,Chennai,"Srinivasa Hospital, Kodampakkam",54,108,-54,31,16,15,13,0,13,10,9,1,2,1,1,2021-04-12 18:20:54,,
-379,Kanyakumari,"PPK hospital, Marthandam",29,5,24,18,5,13,4,0,4,7,0,7,3,0,3,2021-04-24 12:33:19,9442521919.0,
+379,Kanyakumari,"PPK hospital, Marthandam",29,3,26,18,3,15,4,0,4,7,0,7,3,0,3,2021-04-24 17:17:09,9442521919.0,
 380,Salem,RK hospital,12,10,2,10,0,10,3,0,3,2,0,2,2,0,2,2021-04-24 12:17:01,0.0,Here with Updating our Hospital bed details
 381,Karur,Nachimuthu hospital,10,4,6,6,4,2,0,0,0,3,0,3,1,0,1,2021-04-24 07:15:35,9566854364.0,24.04.2021
 382,Virudhunagar,Amar hospital,27,54,-27,27,16,11,0,0,0,5,0,5,2,0,2,2021-04-24 07:19:07,8608638184.0,24/04/2021 07.18 am
@@ -447,8 +447,8 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 446,Tiruppur,"Vel Hospital, Dharapuram",25,0,25,4,3,1,19,0,19,2,0,2,2,0,0,2021-04-24 16:02:19,8610931703.0,NIL
 447,Tiruppur,"Vel Hospital,Udumalpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:37:35,,
 448,Madurai,Vijaya Hospital,10,3,7,7,3,4,0,0,0,3,0,3,1,0,0,2021-04-24 11:04:34,9003401778.0,today 1 case admission
-449,Madurai,"Vikram Multispeciality hospital, Madurai",20,12,8,12,11,1,6,1,5,2,0,2,2,0,2,2021-04-24 13:03:43,9150891207.0,
-450,Chennai,"Westminster HealthCare,Nungambakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:39:29,,
+449,Madurai,"Vikram Multispeciality hospital, Madurai",20,10,10,12,10,2,6,0,6,2,0,2,2,0,2,2021-04-24 17:14:12,9150891207.0,
+450,Chennai,"Westminster HealthCare,Nungambakkam",10,8,2,8,8,0,0,0,0,2,2,0,0,0,0,2021-04-24 16:52:16,9003069693.0,
 451,Chennai,"Ashwin Fed Specialty Hospital, Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 16:02:59,,
 452,Tiruppur,"Bala Ortho Hospital, Dharapuram",20,0,20,20,0,20,0,0,0,6,0,6,3,0,3,2021-04-23 23:32:35,9843859353.0,Nil
 453,Madurai,"Iswarya Fertility Services Pvt Ltd,Ellis Nagar",10,0,10,3,0,3,4,0,4,3,0,3,0,0,0,2021-04-24 09:07:06,8883306695.0,
