@@ -23,7 +23,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 22,Chennai,Chettinad Hospital,250,217,33,91,91,0,145,91,54,14,14,0,5,1,4,2021-04-24 09:21:33,9841688000.0,217 ( 196 positive + 21 Suspected )
 23,Chennai,CSI Kalyani General Hospital,30,60,-30,25,25,0,5,0,0,5,5,0,5,5,0,2021-04-22 11:52:45,0.0,22/04/2021
 24,Chennai,Dr.Kamakshi Memorial Hospital,180,360,-180,165,165,0,0,0,0,15,15,0,5,5,0,2021-04-24 00:40:53,8754594545.0,24/04/2021
-25,Chennai,Fortis Malar Hospital,41,0,41,33,33,0,0,0,0,8,8,0,10,7,0,2021-04-24 16:55:25,8939831204.0,24-04-2021
+25,Chennai,Fortis Malar Hospital,41,0,41,33,33,0,0,0,0,8,8,0,10,10,0,2021-04-24 21:04:39,0.0,24-04-2021
 26,Chennai,Frontier Lifeline Hospital,0,0,0,4,4,0,0,0,0,10,10,0,2,2,0,2021-04-24 11:34:56,9941325831.0,"C PAP - NIL CASES, BPAP - NIL CASES, Updated"
 27,Chennai,Girishwari Hospital Alwarpet,10,20,-10,8,8,0,10,10,0,0,0,0,0,0,0,2021-04-24 11:08:15,9677059215.0,24-04-2021
 28,Chennai,GKM Hospital Pvt Ltd,10,20,-10,0,0,0,0,0,0,10,1,9,4,1,4,2021-04-23 08:47:45,0.0,23-04-2021
@@ -124,7 +124,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 123,Kancheepuram,Sri Muthukumaran Medical College,380,9,371,50,0,50,314,9,305,16,0,16,6,0,6,2021-04-24 09:28:52,9600002646.0,24.04.2021
 124,Kancheepuram,Apollo Medical Centre Karapakkam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-24 13:13:51,9962061211.0,Updated 24.04.2021
 125,Kanyakumari,Bensam Hospital,65,47,18,44,33,11,20,14,6,1,0,1,1,0,1,2021-04-24 07:46:55,9994224606.0,
-126,Kanyakumari,C.S.I.MISSION HOSPITAL,113,34,79,40,0,40,68,34,34,5,0,5,5,0,5,2021-04-24 09:47:50,8903103400.0,.
+126,Kanyakumari,C.S.I.MISSION HOSPITAL,113,34,79,40,0,40,68,34,34,5,3,2,3,3,0,2021-04-24 20:54:22,8903103400.0,.
 127,Kanyakumari,Dr. Jayasekaran Medical Trust Hospital,110,110,0,34,34,0,65,65,0,11,11,0,4,2,2,2021-04-24 11:27:06,9443992484.0,
 128,Kanyakumari,Sree Mookambika Institute of Medical Sciences,180,0,180,75,0,75,95,0,95,10,0,10,10,0,10,2021-04-24 06:07:56,8281182955.0,
 129,Kanyakumari,Vasantham Health Centre,80,67,13,40,27,13,33,33,0,7,7,0,6,2,4,2021-04-24 09:57:43,9003200684.0,
@@ -174,13 +174,13 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 173,Ramanathapuram,Aasi Multi Speciality Hospital,40,3,37,36,3,33,0,0,0,4,0,4,1,0,1,2021-04-24 09:12:04,7708287735.0,
 174,Ramanathapuram,Kanagamani Hospital,31,0,31,0,0,0,27,0,27,4,0,4,2,0,2,2021-04-24 09:13:54,9965281061.0,No Change
 175,Ramanathapuram,Vel Hospital Ramanathapuram,50,0,50,20,0,20,20,0,20,10,0,10,2,0,2,2021-04-24 09:09:40,9487804442.0,No change
-176,Salem,Annapoorna Medical College and Hospital,120,120,0,25,0,25,90,0,90,5,0,5,5,2,3,2021-04-24 11:05:30,9585938970.0,
+176,Salem,Annapoorna Medical College and Hospital,120,0,120,25,0,25,90,0,90,5,0,5,5,2,3,2021-04-24 20:57:45,9585938970.0,
 177,Salem,Dharan Hospital,135,135,0,57,57,0,70,70,0,8,8,0,2,0,2,2021-04-24 19:53:48,9047079990.0,
 178,Salem,"Kauvery Hospital, Salem",50,50,0,41,41,0,0,0,0,9,9,0,5,2,3,2021-04-24 12:02:26,7094337172.0,Nil
 179,Salem,Kurinji Hospital,95,95,0,75,75,0,20,20,0,18,18,0,9,9,0,2021-04-24 15:26:12,4272433300.0,Nil
 180,Salem,Manipal Hospital,39,38,1,21,21,0,13,13,0,5,4,1,2,0,2,2021-04-24 10:42:08,4272346600.0,
 181,Salem,Priyam Speciality Hospitals,60,60,0,60,0,0,0,0,0,20,5,15,7,1,6,2021-04-24 10:29:19,7010708284.0,
-182,Salem,Shanmuga Hospital Cancer Institute,50,100,-50,5,0,17,5,4,3,10,1,7,1,0,1,2021-04-19 10:18:37,,nil
+182,Salem,Shanmuga Hospital Cancer Institute,50,50,0,20,18,2,5,4,3,20,15,5,2,2,0,2021-04-24 21:28:47,8754033833.0,nil
 183,Salem,SKS Hospital,90,79,11,40,29,11,50,50,0,0,0,0,0,0,0,2021-04-24 16:20:50,9952756241.0,Nil
 184,Salem,Sri Gokulam Hospital,100,98,2,29,28,1,67,66,1,4,4,4,2,0,2,2021-04-24 18:02:31,9443234450.0,24-04-21
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,160,-80,24,18,6,47,47,0,9,6,3,2,0,2,2021-04-24 10:46:30,9500182225.0,
@@ -189,7 +189,7 @@ S.NO,District,Institution,BEDS ALLOCATED FOR COVID AND SUSPECTED CASES Total,BED
 188,Thanjavur,KG Multi Speciality Hospital,48,43,5,24,20,4,0,0,0,24,20,4,12,1,11,2021-04-24 13:44:47,9842349875.0,occupied :43 vaccant bed :5
 189,Thanjavur,Meenakshi Multispeciality Hospital,120,112,8,18,16,2,72,66,6,30,30,0,2,0,2,2021-04-24 12:01:32,4362226474.0,"Positive-83, SARI-29"
 190,Tiruvallur,Aakash Hospital,70,65,5,64,59,5,0,0,0,6,6,0,3,1,2,2021-04-24 10:59:13,9940109567.0,24-04-2021
-191,Tiruvallur,ACS Medical College And Hospital,50,1,49,10,0,10,40,1,39,0,0,0,0,0,0,2021-04-24 07:38:40,9003060052.0,Nil
+191,Tiruvallur,ACS Medical College And Hospital,50,7,43,10,1,9,40,6,34,0,0,0,0,0,0,2021-04-24 21:18:37,9003060052.0,CT Positive -3 cases
 192,Tiruvallur,Peacock Hospitals Private Limited,40,39,1,30,30,0,3,3,0,6,6,0,1,1,0,2021-04-24 09:59:41,9629196441.0,update 24/04/2021
 193,Tiruvallur,Raj Nursing Home Mogappair East,34,32,2,21,20,1,2,2,0,11,10,1,7,5,2,2021-04-24 17:38:41,8921334594.0,24 / 04 / 2021 4 PM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,24,24,0,21,21,0,0,0,0,3,3,0,1,1,0,2021-04-24 10:47:52,9840036349.0,Updated
