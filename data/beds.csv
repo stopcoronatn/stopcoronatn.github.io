@@ -52,7 +52,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 51,Chennai,Muthu hospital,35,33,2,15,15,0,10,10,0,8,8,0,2,0,2,2021-04-25 10:41:01,9962377477.0,22/4/2021
 52,Chennai,National Hospital,100,110,-10,100,100,0,0,0,0,10,10,0,4,4,0,2021-04-24 13:34:39,9381166707.0,24-04-2021
 53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-04-25 07:12:23,7639856689.0,20
-54,Chennai,"Medway Hospital,Mugappair",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-25 16:45:20,9888888888.0,25-04-21
+54,Chennai,"Medway Hospital,Mugappair",30,30,0,26,26,0,0,0,0,4,4,0,2,2,0,2021-04-25 20:52:59,9888888888.0,25-04-21
 55,Chennai,New Lifemed Hospital,43,36,7,13,12,1,26,20,6,4,4,0,1,0,1,2021-04-24 12:36:46,9840021112.0,24/4/2021
 56,Chennai,Noble Hospital,70,70,0,60,60,0,4,4,0,6,6,0,2,2,0,2021-04-25 08:38:02,8608589888.0,....Nill
 57,Chennai,Orthomed Hospital,55,51,4,45,45,0,0,0,0,10,6,4,3,2,1,2021-04-25 09:08:11,9940099992.0,Mythily
@@ -386,7 +386,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 385,Thiruchirappalli,Atlas Hospital,20,16,4,12,11,1,2,0,2,6,5,1,1,0,1,2021-04-25 09:14:23,7092980125.0,COVID-19-10 Sari Ili & Ct Chest Positive -6
 386,Tiruppur,Velan Hospital,30,28,2,18,17,1,4,3,1,8,8,0,3,0,3,2021-04-25 16:12:37,8248725224.0,Nill
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,6,22,4,0,4,14,2,12,10,4,6,5,1,4,2021-04-25 08:42:14,9965534490.0,25.04.2021
-388,Chennai,Be well hospital T.Nagar,17,17,0,18,17,1,0,0,0,0,0,0,0,0,0,2021-04-24 08:49:10,7550203865.0,
+388,Chennai,Be well hospital T.Nagar,18,18,0,18,18,0,0,0,0,0,0,0,0,0,0,2021-04-25 21:14:00,7550203865.0,
 389,Chennai,Vijai's Nursing home,25,15,10,25,12,13,25,0,0,5,3,2,0,0,0,2021-04-19 15:22:28,,
 390,Chennai,Prime Indian Hospitals,0,19,-19,6,6,0,7,7,0,6,6,0,1,0,0,2021-04-24 12:25:23,9941011680.0,
 391,Thanjavur,Dravidian Hospital,30,29,1,28,28,0,0,0,0,2,1,1,1,0,1,2021-04-25 09:40:35,7550372088.0,Total Sari cases 15 Total Positive cases 14
