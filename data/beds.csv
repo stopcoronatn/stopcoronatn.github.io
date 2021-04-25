@@ -98,7 +98,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 97,Coimbatore,Kovai Medical College Hospital,260,210,50,58,58,0,178,128,50,24,24,0,8,8,0,2021-04-24 10:13:46,9965570174.0,.
 98,Coimbatore,One Care Medical Centre,38,44,-6,38,38,0,0,0,0,6,6,0,3,3,0,2021-04-24 09:53:30,9894955990.0,24/04/2021
 99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",330,329,1,140,140,0,160,160,0,30,29,1,15,10,5,2021-04-24 08:56:58,9941356856.0,24th APRIL
-100,Coimbatore,Royal Care Super Speciality Hospital,60,60,0,54,54,0,0,0,0,6,6,0,3,3,0,2021-04-24 06:59:25,9942263653.0,Neelambur unit 24.04.2021
+100,Coimbatore,Royal Care Super Speciality Hospital,60,60,0,54,54,0,0,0,0,6,6,0,3,3,0,2021-04-25 06:17:09,9942263653.0,Neelambur unit 25.04.2021
 101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-24 07:00:28,9942265653.0,Gandhipuram unit - 24.04.2021
 102,Coimbatore,Sri Ramakrishna Hospital,153,105,48,79,79,0,69,21,48,5,5,0,5,4,1,2021-04-24 15:12:52,9384086458.0,24.04.2021
 103,Coimbatore,"KMCH Kovilampalayam Hospital, Sathy Road",50,50,0,50,50,0,0,0,0,0,0,0,0,0,0,2021-04-24 08:48:48,87541.0,24.04.2021
@@ -154,7 +154,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 153,Namakkal,M.M.Hospital,44,34,10,35,33,2,4,0,4,5,1,4,4,0,4,2021-04-25 00:45:13,9585554551.0,M M HOSPITAL REPORT UPDATE FOR 25.04.2021
 154,Namakkal,Maharaja Speciality Hospital,25,6,19,18,6,12,5,0,0,2,0,0,2,0,2,2021-04-24 06:37:54,8778642130.0,Report submitted on : 24.04.2021
 155,Namakkal,Thangam Hospital,48,37,11,24,21,3,6,6,0,10,10,4,1,0,1,2021-04-24 14:52:08,9843230685.0,Submitted on 23.04.2021 on 7.50 AM
-156,Namakkal,Vivekanandha Medical Care Hospital,100,46,54,20,3,17,75,40,35,5,3,2,5,0,5,2021-04-24 06:48:30,9566908225.0,Dat24.04.2021 time. 06.48am
+156,Namakkal,Vivekanandha Medical Care Hospital,100,46,54,20,3,17,75,40,35,5,3,2,5,0,5,2021-04-25 04:57:56,9566908225.0,Dat25.04.2021 time. 04. 57am
 157,TheNilgiris,Ashwini Gudalur Tribal Hospital,12,0,12,4,0,4,8,0,8,0,0,0,0,0,0,2021-04-24 10:30:59,9487257321.0,24.04.2021
 158,TheNilgiris,Nankam Hospital,15,7,8,5,3,2,5,2,3,5,2,3,2,0,2,2021-04-24 10:29:10,9442594733.0,24/04/21
 159,TheNilgiris,Sagayamatha Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-24 08:31:09,9447276304.0,24/04/2021
@@ -194,7 +194,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 193,Tiruvallur,Raj Nursing Home Mogappair East,34,32,2,21,20,1,2,2,0,11,10,1,7,5,2,2021-04-24 17:38:41,8921334594.0,24 / 04 / 2021 4 PM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,24,24,0,21,21,0,0,0,0,3,3,0,1,1,0,2021-04-24 10:47:52,9840036349.0,Updated
 195,Tiruvallur,Sri Ivan Stedeford Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-24 08:19:50,9489136071.0,24.04.2021
-196,Tiruvallur,Sugam Hospital,34,34,0,32,32,0,0,0,0,2,2,0,2,2,0,2021-04-24 06:55:43,9551979777.0,updated 24.04.2021
+196,Tiruvallur,Sugam Hospital,34,34,0,32,32,0,0,0,0,2,2,0,2,2,0,2021-04-25 06:11:11,9551979777.0,updated 24.04.2021
 197,Tiruvannamalai,Ramana Maharishi Hospital,75,48,27,25,18,7,30,30,0,20,0,20,2,0,2,2021-04-24 09:14:30,9486047737.0,All 48 covid positive patients admitted in non oxygen supported patients.
 198,Thoothukudi,Sacred Heart Hospital,35,19,16,28,19,9,5,0,5,2,0,2,1,0,1,2021-04-24 09:31:48,4612360714.0,24.04.2021
 199,Thoothukudi,Sri Hospital,25,17,8,21,14,7,0,0,0,4,3,1,1,0,1,2021-04-24 09:30:27,9442667069.0,SRI HOSPITALS.
@@ -312,7 +312,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:01:35,,Hospital closed
 312,Virudhunagar,"VVVNC, Chatrarediapatti",25,28,-3,40,14,26,0,0,0,20,14,6,1,1,0,2021-04-24 06:59:37,9940757475.0,
 313,Chennai,Dr. Mehtas Hospital,102,89,13,92,80,12,0,0,0,10,9,1,4,2,2,2021-04-24 09:42:33,9840080449.0,Updated on 24/04/2021
-314,Tirunelveli,Shifa Hospital,66,65,1,42,41,1,12,12,0,12,12,0,5,5,0,2021-04-24 07:35:38,9500974070.0,46 positive cases & 19 Suspected Cases 24/04/2021
+314,Tirunelveli,Shifa Hospital,66,64,2,42,40,2,12,12,0,12,12,0,5,5,0,2021-04-25 05:03:21,9500974070.0,50 positive cases & 14 Suspected Cases 25/04/2021
 315,Chennai,Annai Multispeciality Hospital,25,19,6,10,5,5,15,10,5,8,4,4,4,0,4,2021-04-24 09:28:51,7092820884.0,24/04/2021 Covid care helpline - 8778501016/9894686088
 316,Thiruchirappalli,Royal Pearl Hospital,0,0,0,10,0,10,3,0,3,2,0,2,5,0,5,2021-04-24 09:13:07,8300244928.0,Nil
 317,Mayiladuthurai,Vishnu hospital,15,6,9,6,6,0,6,0,6,3,0,3,1,0,1,2021-04-24 08:02:24,4364277021.0,Nil
