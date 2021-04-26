@@ -64,7 +64,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 63,Chennai,RPS hospital pvt ltd,25,25,0,13,13,0,10,10,0,2,2,0,2,2,0,2021-04-26 10:23:01,7358764200.0,26/04/21
 64,Chennai,"Sai Speed Hospital, Arumbakkam",11,11,0,9,9,0,0,0,0,2,2,0,2,0,2,2021-04-26 08:07:02,8610850006.0,Updated as on 26/04/2021
 65,Chennai,Sakthi Hospital Research Centre Triplicane,55,55,0,22,22,0,27,27,0,6,6,0,0,0,0,2021-04-26 14:28:43,9840264444.0,26.04.2021
-66,Chennai,Saveetha Medical College,400,319,81,250,241,9,114,42,72,36,36,0,15,15,0,2021-04-26 18:45:56,9841185648.0,26.04.2021
+66,Chennai,Saveetha Medical College,400,319,81,250,241,9,114,42,72,36,36,0,30,30,0,2021-04-26 19:04:47,9841185648.0,26.04.2021
 67,Chennai,SIMS Hospital Vadapalani,120,120,0,98,98,0,20,20,0,2,2,0,2,1,1,2021-04-26 09:15:20,7401681037.0,
 68,Chennai,"Sivam Hospitals, Ullagaram",20,0,20,10,0,10,10,0,10,7,0,7,3,0,3,2021-04-22 11:04:44,0.0,20.04.2021
 69,Chennai,Sooriya Hospital,75,63,12,63,51,12,0,0,0,12,12,0,4,0,4,2021-04-24 09:16:03,9840367880.0,24.04.21 status
@@ -381,7 +381,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 380,Salem,RK hospital,12,3,9,10,3,7,0,0,0,2,0,2,2,0,2,2021-04-26 13:32:10,0.0,Here with Updating our Hospital bed details
 381,Karur,Nachimuthu hospital,20,15,5,16,15,1,0,0,0,4,0,4,1,0,1,2021-04-26 07:38:13,9566854364.0,26.04.2021
 382,Virudhunagar,Amar hospital,27,18,9,22,18,4,0,0,0,5,0,5,2,0,2,2021-04-26 08:03:01,8608638184.0,26/04/2021 08.02 Am
-383,Krishnagiri,"Uma Kumar Hospital, Hosur",10,5,5,0,0,0,10,5,5,0,0,0,0,0,0,2021-04-25 13:02:30,9443230269.0,
+383,Krishnagiri,"Uma Kumar Hospital, Hosur",30,5,25,0,0,0,30,5,25,0,0,0,0,0,0,2021-04-26 19:19:13,9443230269.0,
 384,Tirunelveli,VJ Hospital,20,20,0,10,10,0,5,5,0,5,5,0,5,5,0,2021-04-26 10:33:16,9843604611.0,25 Active cases
 385,Thiruchirappalli,Atlas Hospital,20,18,2,12,12,0,2,0,2,6,6,0,1,0,1,2021-04-26 10:34:45,7092980125.0,COVID-19-14 Sari Ili & Ct Chest Positive -4.
 386,Tiruppur,Velan Hospital,30,27,3,18,16,2,4,3,1,8,8,0,3,0,3,2021-04-26 16:07:01,8248725224.0,
