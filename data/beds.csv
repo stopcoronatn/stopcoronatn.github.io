@@ -115,7 +115,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 114,Kallakurichi,E.S. Hospital,25,0,25,6,0,6,9,0,9,10,0,10,6,0,6,2021-04-24 10:36:35,9443147949.0,NILL
 115,Kallakurichi,I Med Super Speciality Hospital,20,3,17,8,1,7,10,2,8,2,0,2,1,0,1,2021-04-21 11:25:59,,021 23
 116,Kallakurichi,Lotus Paediatric Emergency Centre,0,0,0,0,0,0,0,0,0,7,0,7,0,0,0,2021-04-24 09:15:05,8012761551.0,Lotus hospital.
-117,Kallakurichi,Maragadam Hospital,15,0,15,6,0,6,7,0,7,2,0,2,1,0,1,2021-04-26 12:18:23,9443234056.0,Nil
+117,Kallakurichi,Maragadam Hospital,15,0,15,6,0,6,7,0,7,2,0,2,1,0,1,2021-04-26 16:05:57,9443234056.0,26.04.21
 118,Kallakurichi,S A Hospital,5,0,5,3,0,3,2,0,2,0,0,0,1,0,1,2021-04-26 08:12:43,9600523290.0,
 119,Kallakurichi,Sri Sanjeevi Hospital,60,45,15,35,30,5,10,2,8,15,13,2,9,0,9,2021-04-24 09:09:49,9750999352.0,Updated..
 120,Kancheepuram,Bon Secuors Hospital,30,0,30,5,0,5,25,0,25,0,0,0,0,0,0,2021-04-26 08:28:40,9943271810.0,Updated 26/04/2021
@@ -217,7 +217,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 216,Thiruchirappalli,"Sundaram Hospital, Pudhur",45,40,5,28,26,2,9,9,0,8,5,3,2,0,2,2021-04-26 08:40:30,8903679900.0,
 217,Thoothukudi,"Kamala Speciality Hospitals Pvt Ltd, Kovilpatti",21,20,1,14,14,0,4,3,1,3,3,0,1,0,1,2021-04-26 09:22:14,9487576077.0,
 218,Vellore,Apollo KH Hospital Ranipet,18,18,0,10,10,0,8,8,0,0,0,0,0,0,0,2021-04-26 11:14:41,9500458786.0,
-219,Vellore,Christian Medical College,252,96,156,217,76,27,0,0,0,20,20,0,14,14,0,2021-04-21 16:24:04,,
+219,Vellore,Christian Medical College,355,326,29,317,288,29,0,0,0,38,38,0,20,20,0,2021-04-26 16:10:46,9385285970.0,
 220,Vellore,Christian Medical College Kannigipuram campus,56,5,51,56,5,51,0,0,0,0,0,0,0,0,0,2020-11-03 07:34:58,,
 221,Vellore,Sri Narayani Hospital and Research Centre,94,94,0,79,79,0,0,0,0,15,15,0,15,7,8,2021-04-26 11:50:35,8220088066.0,Nil 26.04.2021
 222,Virudhunagar,Meenakshi Memorial Hospital,20,13,7,10,7,3,5,2,3,5,4,1,2,2,0,2021-04-26 07:20:11,9025461813.0,13 - patient Admitted only
@@ -375,7 +375,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 374,Chennai,"st. Isabels hospital, Maylapore",34,30,4,15,15,0,14,10,4,5,5,0,2,2,0,2021-04-26 10:43:19,9585965330.0,Positive cases- 30
 375,Chennai,"Sri Balaji Hospital, guindy",7,7,0,4,4,0,0,0,0,3,3,0,0,0,0,2021-04-26 13:06:40,8838811601.0,Daily Data Base
 376,Chennai,"Radha Rajendran Hospital, Alandur",12,12,0,12,0,0,0,12,0,0,0,0,0,0,0,2021-04-24 11:09:50,9952920853.0,
-377,Chennai,"One health hospital, Vandalur",15,15,0,10,10,0,0,0,0,5,5,0,4,0,4,2021-04-26 14:26:26,9884218343.0,
+377,Chennai,"One health hospital, Vandalur",15,15,0,10,10,0,0,0,0,5,5,0,4,0,4,2021-04-26 16:34:50,9884218343.0,
 378,Chennai,"Srinivasa Hospital, Kodampakkam",54,54,0,31,31,0,13,13,0,10,10,0,2,2,0,2021-04-26 13:36:00,9840102493.0,
 379,Kanyakumari,"PPK hospital, Marthandam",29,3,26,18,3,15,4,0,4,7,0,7,3,0,3,2021-04-26 07:48:14,9442521919.0,.
 380,Salem,RK hospital,12,3,9,10,3,7,0,0,0,2,0,2,2,0,2,2021-04-26 13:32:10,0.0,Here with Updating our Hospital bed details
@@ -384,7 +384,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",10,5,5,0,0,0,10,5,5,0,0,0,0,0,0,2021-04-25 13:02:30,9443230269.0,
 384,Tirunelveli,VJ Hospital,20,20,0,10,10,0,5,5,0,5,5,0,5,5,0,2021-04-26 10:33:16,9843604611.0,25 Active cases
 385,Thiruchirappalli,Atlas Hospital,20,18,2,12,12,0,2,0,2,6,6,0,1,0,1,2021-04-26 10:34:45,7092980125.0,COVID-19-14 Sari Ili & Ct Chest Positive -4.
-386,Tiruppur,Velan Hospital,30,28,2,18,17,1,4,3,1,8,8,0,3,0,3,2021-04-26 11:47:20,8248725224.0,
+386,Tiruppur,Velan Hospital,30,27,3,18,16,2,4,3,1,8,8,0,3,0,3,2021-04-26 16:07:01,8248725224.0,
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,6,22,4,0,4,14,2,12,10,4,6,5,1,4,2021-04-26 08:32:27,9965534490.0,26.04.2021
 388,Chennai,Be well hospital T.Nagar,18,18,0,18,18,0,0,0,0,0,0,0,0,0,0,2021-04-26 08:27:21,7550203865.0,
 389,Chennai,Vijai's Nursing home,25,15,10,25,12,13,25,0,0,5,3,2,0,0,0,2021-04-19 15:22:28,,
@@ -444,13 +444,13 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 443,Chennai,Sri Ranga Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:34:36,,
 444,Chennai,"Susi Hospital, Thiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:35:17,,
 445,Madurai,"Thavam Hospital, K.Pudhur",15,10,5,6,2,4,6,5,1,3,3,0,0,0,0,2021-04-26 00:24:52,6381046461.0,UPDATE GIVEN
-446,Tiruppur,"Vel Hospital, Dharapuram",25,3,22,4,0,4,19,3,16,2,0,2,2,0,2,2021-04-26 11:11:27,8610931703.0,Nil
+446,Tiruppur,"Vel Hospital, Dharapuram",25,2,23,4,0,4,19,2,17,2,0,2,2,0,2,2021-04-26 16:21:01,8610931703.0,Nil
 447,Tiruppur,"Vel Hospital,Udumalpet",15,8,7,3,0,3,10,8,2,2,0,2,2,0,2,2021-04-26 14:37:52,9751766002.0,
 448,Madurai,Vijaya Hospital,10,4,6,7,4,3,0,0,0,3,0,3,1,0,1,2021-04-26 09:14:17,9003401778.0,
-449,Madurai,"Vikram Multispeciality hospital, Madurai",20,15,5,12,12,0,6,2,4,2,1,1,2,1,1,2021-04-26 09:47:19,9150891207.0,NIL
+449,Madurai,"Vikram Multispeciality hospital, Madurai",20,17,3,12,12,0,6,4,2,2,1,1,2,1,1,2021-04-26 16:30:55,9150891207.0,NIL
 450,Chennai,"Westminster HealthCare,Nungambakkam",10,10,0,8,8,0,0,0,0,2,2,0,0,0,0,2021-04-25 00:51:13,9003069693.0,
 451,Chennai,"Ashwin Fed Specialty Hospital, Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 16:02:59,,
-452,Tiruppur,"Bala Ortho Hospital, Dharapuram",20,2,18,14,2,12,0,0,0,6,0,6,3,0,3,2021-04-26 11:39:26,9843859353.0,Nil
+452,Tiruppur,"Bala Ortho Hospital, Dharapuram",20,4,16,14,4,10,0,0,0,6,0,6,3,0,3,2021-04-26 16:19:48,9843859353.0,Nil
 453,Madurai,"Iswarya Fertility Services Pvt Ltd,Ellis Nagar",10,1,9,3,0,3,4,1,3,3,0,3,0,0,0,2021-04-26 12:38:59,8883306695.0,1 patient under admission
 454,Chennai,"Hindu Mission Hospital,Tambaram",80,79,1,61,61,0,13,13,0,6,5,1,6,4,2,2021-04-26 12:50:03,9500065664.0,We have two liquid oxygen tanks with capacity of 875 ltrs per tank
 455,Salem,"Deepam Hospital,Salem",70,33,37,42,12,30,10,3,7,18,18,0,0,0,0,2021-04-26 13:46:48,6384003000.0,
