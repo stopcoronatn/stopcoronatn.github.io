@@ -45,7 +45,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 44,Chennai,Maya Nursing Home,40,40,0,15,15,0,20,20,0,5,5,0,4,0,4,2021-04-26 20:35:11,9841383989.0,UPDATED
 45,Chennai,Medway Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-26 09:19:51,7299057877.0,26.04.21
 46,Chennai,Meenakshi Medical College,80,2,78,31,0,31,42,2,40,7,0,7,7,0,7,2021-04-23 07:43:08,0.0,
-47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,250,162,88,30,28,2,175,89,86,45,45,0,16,16,0,2021-04-26 06:09:51,9787740890.0,26.04.2021
+47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,250,164,86,30,30,0,175,89,86,45,45,0,16,16,0,2021-04-26 21:04:25,9787740890.0,26.04.2021
 48,Chennai,Mint Hospital,30,30,0,22,22,0,4,4,0,4,4,0,2,1,1,2021-04-26 08:06:22,7338777444.0,26.4.2021 7.00am Updated
 49,Chennai,Miot Hospital,300,214,86,70,70,0,197,111,86,33,33,0,10,10,0,2021-04-26 16:46:00,7824060120.0,COVID EMERGENCY CALL 105710 DIRECT FROM MOBILE
 50,Chennai,MMRV Hospital,95,45,50,20,20,0,0,0,0,30,25,5,4,4,0,2021-04-24 18:04:27,9884926283.0,24/04/2021
@@ -153,7 +153,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 152,Namakkal,Aravinth Hospital,26,0,26,4,0,4,18,0,18,4,0,4,4,0,4,2021-04-26 06:14:14,9443221491.0,Reports submitted for 26.04.2021
 153,Namakkal,M.M.Hospital,44,34,10,35,33,2,4,0,4,5,1,4,4,0,4,2021-04-26 09:42:47,9585554551.0,M M HOSPITAL REPORT UPDATE FOR 26.04.2021
 154,Namakkal,Maharaja Speciality Hospital,25,11,14,18,11,7,5,0,5,2,0,2,2,0,2,2021-04-26 07:00:57,8778642130.0,Report submitted on : 26.04.2021
-155,Namakkal,Thangam Hospital,40,40,0,24,24,0,6,6,0,10,10,0,1,0,1,2021-04-26 04:49:17,9843230685.0,Submitted on 26.04.2021 on 7.16 AM
+155,Namakkal,Thangam Hospital,40,40,0,24,24,0,6,6,0,10,10,0,1,1,0,2021-04-26 21:02:40,9843230685.0,Submitted on 27.04.2021 on 7.15AM
 156,Namakkal,Vivekanandha Medical Care Hospital,100,51,49,20,1,19,75,47,28,5,3,2,5,0,5,2021-04-26 12:28:14,9566908225.0,Dat26.04.2021 time. 12.27pm
 157,TheNilgiris,Ashwini Gudalur Tribal Hospital,12,0,12,4,0,4,8,0,8,0,0,0,0,0,0,2021-04-26 09:58:08,9487257321.0,26.04.2021
 158,TheNilgiris,Nankam Hospital,15,8,7,5,1,4,5,5,0,5,2,3,2,0,2,2021-04-26 09:58:50,9442594733.0,26/04/21
@@ -180,7 +180,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 179,Salem,Kurinji Hospital,113,113,0,73,73,0,20,20,0,20,20,0,9,9,0,2021-04-26 10:25:53,9443244774.0,Nil
 180,Salem,Manipal Hospital,39,38,1,21,21,0,13,13,0,5,4,1,2,0,2,2021-04-26 09:54:12,4272346600.0,
 181,Salem,Priyam Speciality Hospitals,60,46,14,40,38,2,0,0,0,20,8,12,7,2,5,2021-04-26 11:09:30,7010708284.0,
-182,Salem,Shanmuga Hospital Cancer Institute,50,37,13,20,18,2,5,4,3,20,15,5,2,2,0,2021-04-24 21:28:47,8754033833.0,nil
+182,Salem,Shanmuga Hospital Cancer Institute,75,61,14,30,28,2,20,13,7,25,20,5,2,2,0,2021-04-26 21:07:57,8754033833.0,nil
 183,Salem,SKS Hospital,90,80,10,30,20,10,60,60,0,0,0,0,0,0,0,2021-04-26 11:19:54,4274033333.0,Nil
 184,Salem,Sri Gokulam Hospital,100,100,0,29,29,0,67,67,0,4,4,0,2,0,2,2021-04-26 14:41:10,4272338800.0,26-04-21
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,70,10,24,18,6,47,47,0,9,5,4,2,0,2,2021-04-26 10:33:22,9500182225.0,
@@ -189,7 +189,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 188,Thanjavur,KG Multi Speciality Hospital,75,50,25,50,30,20,0,0,0,25,20,5,12,0,12,2021-04-26 02:55:26,9842349875.0,TOTAL BED:75 occupied :50 vaccant bed :25
 189,Thanjavur,Meenakshi Multispeciality Hospital,122,122,0,25,25,0,67,67,0,30,30,0,2,2,0,2021-04-26 10:11:56,7373799855.0,"Positive-93, SARI-29"
 190,Tiruvallur,Aakash Hospital,70,65,5,64,59,5,0,0,0,6,6,0,3,1,2,2021-04-26 07:13:57,9940109567.0,26-04-2021
-191,Tiruvallur,ACS Medical College And Hospital,50,12,38,10,2,8,40,10,30,0,0,0,0,0,0,2021-04-26 06:47:52,9003060052.0,CT Positive -3 cases
+191,Tiruvallur,ACS Medical College And Hospital,50,24,26,5,2,3,40,17,23,5,5,0,0,0,0,2021-04-26 21:42:39,9003060052.0,CT positive -2 cases
 192,Tiruvallur,Peacock Hospitals Private Limited,45,39,6,35,33,2,4,0,4,6,6,0,1,1,0,2021-04-26 20:39:02,9629196441.0,update 24/04/2021
 193,Tiruvallur,Raj Nursing Home Mogappair East,34,32,2,21,20,1,2,2,0,11,10,1,7,5,2,2021-04-24 17:38:41,8921334594.0,24 / 04 / 2021 4 PM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,24,24,0,21,21,0,0,0,0,3,3,0,1,1,0,2021-04-24 10:47:52,9840036349.0,Updated
@@ -298,7 +298,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 297,Theni,"Theni Medical Centre, Nehruji Road",25,23,2,25,23,2,0,0,0,0,0,0,0,0,0,2021-04-26 08:04:36,9361917118.0,covid care centre
 298,Tirunelveli,"Royal Hospital, NGO Colony",14,13,1,11,11,0,0,0,0,3,2,1,3,2,1,2021-04-26 09:34:45,9487057857.0,
 299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",57,42,15,29,29,0,17,2,15,11,11,0,3,0,3,2021-04-26 08:44:19,9003073234.0,35 positive and 7 suspected cases
-300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,5,10,6,1,5,8,3,5,1,1,0,1,0,1,2021-04-26 13:54:53,9865779707.0,
+300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,5,10,6,2,4,8,3,5,1,0,1,1,0,1,2021-04-26 21:17:10,9865779707.0,
 301,Thiruchirappalli,Kavi Hospital & Neuro Foundation,30,27,3,24,23,1,4,4,0,2,0,2,2,0,2,2021-04-26 07:16:19,9843005288.0,
 302,Thiruchirappalli,Mangalam Hospital,14,13,1,11,10,1,3,3,0,0,0,0,0,0,0,2021-04-26 12:42:37,9092829992.0,
 303,Thiruchirappalli,MMM Multi Speciality Hospital,20,0,20,18,0,18,2,0,2,0,0,0,1,0,1,2021-04-26 07:10:24,9600340430.0,
@@ -338,8 +338,8 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,43,0,43,40,0,40,0,0,0,3,0,3,2,0,2,2021-04-26 10:45:46,9790441772.0,
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,35,25,40,28,12,7,7,0,13,0,13,3,0,3,2021-04-26 09:52:32,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,11,19,18,4,14,6,6,0,6,1,5,2,1,1,2021-04-26 11:00:03,9994050605.0,Nil
-340,Salem,Mohanraj Children's Hospital,70,3,67,70,0,70,0,0,0,10,3,7,0,0,0,2021-04-23 10:46:09,0.0,Nil case
-341,Salem,"Nathan Super Speciaty Hosptial, Salem",40,1,39,36,1,35,4,0,4,4,0,4,1,0,1,2021-04-19 12:04:36,,Nil
+340,Salem,Mohanraj Children's Hospital,70,3,67,60,0,60,0,0,0,10,3,7,0,0,0,2021-04-26 21:14:04,9843026086.0,Nil case
+341,Salem,"Nathan Super Speciaty Hosptial, Salem",40,25,15,20,20,0,10,1,9,10,4,6,1,0,1,2021-04-26 21:27:50,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,22,48,35,7,28,32,15,17,3,0,3,6,0,6,2021-04-26 09:26:08,9894264333.0,Sent on 26.04.2021 at 09:20AM
 343,Salem,Thiru Neuro And MultiSpecility Salem,45,41,4,35,35,0,0,0,0,10,6,4,2,0,2,2021-04-26 10:57:40,7708959395.0,Nil
 344,Erode,"Erode multispeciality Hospital, Erode",15,25,-10,2,0,0,20,25,0,3,0,0,0,0,0,2021-04-24 10:34:40,8248930767.0,NILL
@@ -422,7 +422,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 421,Chengalpattu,"Lakshmi Nursing Home, Pallavaram",17,15,2,17,15,2,0,0,0,0,0,0,1,0,1,2021-04-26 16:57:12,8610423355.0,
 422,Chennai,"Leela Specialty Hospital,Tiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:13:20,,
 423,Kancheepuram,Mahalakshmi Multispecialty Hospital,55,32,23,51,28,23,0,0,0,4,4,0,0,0,0,2021-04-26 13:21:46,8610485027.0,
-424,Chennai,"Nagamani Hospital,Old Washermenpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:14:53,,
+424,Chennai,"Nagamani Hospital,Old Washermenpet",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-04-26 21:48:09,9884661464.0,
 425,Chennai,Nalam Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:15:34,,
 426,Chennai,"Oxymed Hospital,Nandanam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:16:27,,
 427,Chennai,"Pavithra Hospital Pvt Ltd,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:17:03,,
@@ -460,4 +460,4 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 459,Theni,Krishnammal Memorial hospital.,30,17,13,20,17,3,5,0,5,5,0,5,0,0,0,2021-04-26 08:47:51,9786629040.0,
 460,Tiruppur,Sri Kumaran Hospital,78,68,10,48,48,0,20,20,0,10,0,10,2,0,2,2021-04-26 13:53:28,9843668880.0,
 461,Theni,NRT hospital,50,22,28,20,10,10,20,8,12,10,4,6,3,0,3,2021-04-26 09:58:29,9894447717.0,Theni
-462,Coimbatore,Manu Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-26 20:09:38,,
+462,Coimbatore,Manu Hospital,36,12,24,32,12,20,0,0,0,4,0,4,0,0,0,2021-04-26 20:59:23,9789324445.0,
