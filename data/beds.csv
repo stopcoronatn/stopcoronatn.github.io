@@ -318,7 +318,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 317,Mayiladuthurai,Vishnu hospital,15,8,7,6,5,1,6,3,3,3,0,3,1,0,1,2021-04-27 08:45:52,9489858034.0,Nil
 318,Sivagangai,Apollo,50,46,4,45,43,2,0,0,0,5,3,2,0,0,0,2021-04-27 10:27:42,7397591935.0,Updated 27.4.21
 319,Sivagangai,Senthil hospital,50,37,13,40,33,7,0,0,0,10,4,6,4,0,4,2021-04-27 08:35:44,8012519266.0,"Covid Positive : 30 ( O2 supported bed:26, ICU -4) Suspected :7 (O2 supported bed :4, ICU:3)"
-320,Chengalpet,KMS Health Centre,25,25,0,16,16,0,6,6,0,3,3,0,1,0,1,2021-04-27 07:35:36,9791197514.0,Nil
+320,Chengalpet,KMS Health Centre,25,25,0,16,16,0,6,6,0,3,3,0,1,0,1,2021-04-28 01:12:49,9791197514.0,Nil
 321,Salem,"Kamala Hospital,Agraharam",51,38,13,17,17,0,24,21,3,10,0,10,2,2,0,2021-04-27 14:03:50,9842719451.0,
 322,Coimbatore,"Coimbatore Diabetic Foundation,maruthamalai road",30,0,30,29,0,29,0,0,0,1,0,1,1,0,1,2021-04-27 10:35:26,9539004198.0,27.04.2021
 323,Kanyakumari,"Manuel Orthopedic Hospital, therekaalputhoor",25,8,17,20,8,12,0,0,0,5,0,5,2,0,2,2021-04-27 07:58:18,9750883676.0,.
@@ -442,7 +442,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 441,Thanjavur,Sri Kumaran Gastro Private Ltd,15,5,10,10,3,7,2,2,0,3,0,3,2,0,2,2021-04-27 11:33:37,9786006825.0,UPDATED
 442,Chennai,Sri Ranga Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:34:36,,
 443,Chennai,"Susi Hospital, Thiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:35:17,,
-444,Madurai,"Thavam Hospital, K.Pudhur",15,13,2,6,4,2,6,6,0,3,3,0,0,0,0,2021-04-27 09:17:33,6381046461.0,UPDATE GIVEN
+444,Madurai,"Thavam Hospital, K.Pudhur",15,12,3,6,4,2,6,6,0,3,2,1,0,0,0,2021-04-28 01:38:24,6381046461.0,UPDATE GIVEN
 445,Tiruppur,"Vel Hospital, Dharapuram",25,2,23,4,0,4,19,2,17,2,0,2,2,0,2,2021-04-27 17:08:47,8610931703.0,Nil
 446,Tiruppur,"Vel Hospital,Udumalpet",15,7,8,3,0,3,10,7,3,2,0,2,2,0,2,2021-04-27 15:45:33,9751766002.0,
 447,Madurai,Vijaya Hospital,10,6,4,7,6,1,0,0,0,3,0,3,1,0,1,2021-04-27 10:32:22,9003401778.0,
