@@ -132,20 +132,20 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 131,Karur,"Apollo Logo Hospital,Karur",20,20,0,12,12,0,6,6,0,2,2,0,2,2,0,2021-04-28 09:57:25,9524699211.0,28.04.2021
 132,Krishnagiri,Chandrasekara Hospital,45,45,0,45,45,0,0,0,0,0,0,0,0,0,0,2021-04-28 10:30:25,9655206585.0,
 133,Krishnagiri,"Kauvery Hospital, Hosur",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-04-28 09:55:56,7402733320.0,NILL
-134,Madurai,Apollo Hospital,87,85,2,81,79,2,0,0,0,6,6,0,4,0,4,2021-04-27 09:34:53,4524341187.0,updated.
+134,Madurai,Apollo Hospital,87,85,2,81,79,2,0,0,0,6,6,0,4,0,4,2021-04-28 21:04:08,4524341187.0,updated...
 135,Madurai,Bharathi Hospital,20,20,0,5,5,0,10,10,0,5,5,0,3,3,0,2021-04-28 08:53:46,8015638874.0,28.04.2021 Updated....
 136,Madurai,Devadoss Multispeciality Hospital,33,32,1,20,20,0,4,3,1,9,9,0,3,3,0,2021-04-28 18:04:58,8072738401.0,Updated
 137,Madurai,Guru Multispeciality Hospital,75,68,7,36,29,7,23,23,0,16,16,0,3,0,3,2021-04-28 10:58:28,9944485353.0,Update..
 138,Madurai,"Harshini Hospital,Sathamangalam",25,18,7,5,4,1,20,14,6,0,0,0,0,0,0,2021-04-28 11:34:44,9677736322.0,Updated 28.4.2021
 139,Madurai,"Harshitha Hospital, Avaniyapuram",75,60,15,55,50,5,10,0,10,10,10,0,2,2,0,2021-04-28 10:15:02,9865015729.0,UPDATED 28.04.2021.
-140,Madurai,Lakshmana Multispeciality Hospital,25,16,9,13,13,0,10,1,9,2,2,0,2,2,0,2021-04-27 01:11:23,7373072104.0,Updated on 27.4.2021
+140,Madurai,Lakshmana Multispeciality Hospital,25,16,9,13,13,0,10,1,9,2,2,0,2,2,0,2021-04-28 20:47:54,7373072104.0,Updated on 27.4.2021..
 141,Madurai,Meenakshi Mission Hospital and Research Centre,154,139,15,78,78,0,66,51,15,10,10,0,6,6,0,2021-04-28 16:35:17,9524128222.0,NIL>>>>
 142,Madurai,Rahavendhar Hospital,45,37,8,8,8,0,28,20,8,9,9,0,2,1,1,2021-04-28 20:40:08,8220044611.0,27.04.2021..
 143,Madurai,Saravana Hospital,30,30,0,15,15,0,9,9,0,6,6,0,4,0,4,2021-04-28 05:31:53,9894196876.0,28.04.2021 updated
 144,Madurai,Shenbagam Hospitals Pvt Ltd.,30,23,7,26,21,5,0,0,0,4,2,2,3,0,3,2021-04-28 08:40:18,9750951115.0,UPDATE ON 28.04.2021
-145,Madurai,"Sumathi Hospital & Fertility Center,Anna Nagar",18,17,1,15,15,0,1,0,1,2,2,0,1,0,1,2021-04-27 10:17:42,7358800889.0,updated on 27/04/2021
+145,Madurai,"Sumathi Hospital & Fertility Center,Anna Nagar",18,17,1,15,15,0,1,0,1,2,2,0,1,0,1,2021-04-28 20:42:08,7358800889.0,updated on 27/04/2021..
 146,Madurai,"Thembavani Hospital,Gnanaolipuram",20,20,0,3,3,0,14,14,0,3,3,0,1,0,1,2021-04-28 09:53:48,9047116145.0,28.04.2021....
-147,Madurai,Vadamalayan Hospital,60,59,1,53,52,1,0,0,0,7,7,0,4,4,0,2021-04-27 09:57:12,4522545400.0,Updated 27-04-2021.
+147,Madurai,Vadamalayan Hospital,60,59,1,53,52,1,0,0,0,7,7,0,4,4,0,2021-04-28 20:51:49,4522545400.0,Updated 27-04-2021..
 148,Madurai,Velammal Medical College Hospital and Research Institute,200,200,0,70,70,0,100,100,0,30,30,0,15,6,9,2021-04-28 08:30:50,8489900800.0,Updated....
 149,Mayiladuthurai,Cahoj Hospital,12,5,7,7,2,5,5,3,2,0,0,0,0,0,0,2021-04-28 16:16:30,9488755241.0,
 150,Mayiladuthurai,Ram Bone And Joint Hospial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 08:42:15,,Nil
@@ -180,7 +180,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 179,Salem,Kurinji Hospital,113,113,0,73,73,0,20,20,0,20,20,0,9,9,0,2021-04-28 06:35:21,9443244774.0,Nil
 180,Salem,Manipal Hospital,39,39,0,34,34,0,0,0,0,5,5,0,2,0,2,2021-04-28 10:54:20,4272346600.0,updated
 181,Salem,Priyam Speciality Hospitals,100,55,45,80,49,31,0,0,0,20,6,14,7,2,5,2021-04-28 10:26:55,7010708284.0,
-182,Salem,Shanmuga Hospital Cancer Institute,75,61,14,30,28,2,20,13,7,25,20,5,2,2,0,2021-04-28 11:02:33,8754033833.0,update by 28/04/2021 at 10.55AM
+182,Salem,Shanmuga Hospital Cancer Institute,75,61,14,30,28,2,20,13,7,25,20,5,2,2,0,2021-04-28 20:44:14,8754033833.0,update by 28/04/2021 at 8.35 PM
 183,Salem,SKS Hospital,100,100,0,30,30,0,70,70,0,0,0,0,0,0,0,2021-04-28 16:47:32,4274033333.0,Nil
 184,Salem,Sri Gokulam Hospital,110,107,3,29,29,0,77,74,3,4,4,0,2,0,2,2021-04-28 10:19:58,4272338800.0,28-04-21
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,77,3,24,23,1,47,47,0,9,7,2,2,0,2,2021-04-28 09:28:03,9500182225.0,
@@ -189,7 +189,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 188,Thanjavur,KG Multi Speciality Hospital,75,57,18,50,36,14,0,0,0,25,21,4,12,0,12,2021-04-28 08:38:29,9842349875.0,TOTAL BED:75 occupied :57 vacant beds :18
 189,Thanjavur,Meenakshi Multispeciality Hospital,122,118,4,20,18,2,72,70,2,30,30,0,1,1,0,2021-04-28 08:23:25,7373799855.0,Positive-84 SARI-34
 190,Tiruvallur,Aakash Hospital,70,65,5,64,59,5,0,0,0,6,6,0,3,1,2,2021-04-28 07:34:51,9087182644.0,27-04-2021
-191,Tiruvallur,ACS Medical College And Hospital,50,37,13,5,2,3,40,30,10,5,5,0,0,0,0,2021-04-28 07:18:17,9003060052.0,CT positive -2 cases
+191,Tiruvallur,ACS Medical College And Hospital,50,35,15,5,3,2,40,27,13,5,5,0,0,0,0,2021-04-28 21:30:00,9003060052.0,CT positive -1 cases
 192,Tiruvallur,Peacock Hospitals Private Limited,45,41,4,34,31,3,4,4,0,7,6,1,1,1,0,2021-04-28 08:51:09,9629196441.0,update 24/04/2021
 193,Tiruvallur,Raj Nursing Home Mogappair East,34,31,3,19,18,1,2,2,0,13,11,2,8,7,1,2021-04-28 20:11:09,8921334594.0,28 / 04 / 2021 7 PM
 194,Tiruvallur,Ravina Health Care Pvt Ltd,30,30,0,22,22,0,0,0,0,8,8,0,1,1,0,2021-04-28 08:11:37,9840036349.0,Updated
@@ -234,7 +234,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 233,Madurai,Bala Hospital Usilampatti,25,25,0,15,15,0,0,0,0,10,10,0,2,0,2,2021-04-28 11:22:28,9443548450.0,TWENTY FIVE
 234,Madurai,"KJS Speciality Hospital,K.Pudur",10,9,1,4,3,1,0,0,0,6,6,0,1,0,1,2021-04-28 08:35:41,9629373744.0,updated 28.04.2021...
 235,Madurai,Nithilaa Nursing Home Palanganatham,10,10,0,8,8,0,2,2,0,0,0,0,2,0,2,2021-04-28 06:07:10,9443744085.0,Covid - 19 patients today updated 28.04.2021. Thanking You !
-236,Madurai,NTC Hospitals Vaithiyanathapuram,25,23,2,5,3,2,0,0,0,20,20,0,2,2,0,2021-04-27 07:02:16,9894208601.0,NTC HOSPITALS MADURAI 26-04-2021 7 am
+236,Madurai,NTC Hospitals Vaithiyanathapuram,25,23,2,5,3,2,0,0,0,20,20,0,2,2,0,2021-04-28 20:55:00,9894208601.0,NTC HOSPITALS MADURAI 26-04-2021 7 am.
 237,Madurai,Raks Hospital Anna Nagar,19,19,0,15,15,0,0,0,0,4,4,0,5,0,5,2021-04-28 10:26:27,9003900364.0,as on 28.04.2021
 238,Chennai,Pon Malligai Hospital Adambakkam,52,49,3,44,43,1,3,1,2,5,5,0,2,2,0,2021-04-28 08:53:22,9884850982.0,Date 28/04/2021
 239,Chennai,Iswarya Fertility Centre Kilpauk,2,0,2,2,0,2,2,0,2,2,0,2,1,0,1,2021-04-23 11:42:47,0.0,Updated 25 23/04/2021
@@ -260,7 +260,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 259,Madurai,"Raksha Hospital, Anna Nagar",10,0,10,3,0,3,4,0,4,3,0,3,0,0,0,2021-04-28 11:08:42,8012222833.0,No changes 28.04.2021
 260,Madurai,Thirusenthilandavar Multispeciality Hospital,10,0,10,2,0,2,6,0,6,2,0,2,1,0,1,2021-04-28 15:14:13,7708773633.0,Updated on 28.04.2021 3.13 am
 261,Sivagangai,"Madha Hospital, Manamadurai",50,9,41,10,3,7,30,6,24,10,0,10,1,0,1,2021-04-28 10:11:57,7904443644.0,Covid positive-3 Covid Suspect-6 Total-9
-262,Madurai,"Ahana Hospital,11,Subramanian st,Annanagar,Madurai",45,45,0,44,44,0,0,0,0,1,1,0,1,1,0,2021-04-28 10:36:54,9659462722.0,Nil....
+262,Madurai,"Ahana Hospital,11,Subramanian st,Annanagar,Madurai",45,45,0,44,44,0,0,0,0,1,1,0,1,1,0,2021-04-28 20:59:07,9659462722.0,Nil......
 263,Chennai,"Apollo Hospital, OMR, Perungudi",20,20,0,10,10,0,0,0,0,10,10,0,4,4,0,2021-04-28 09:01:49,7299021425.0,Updated 28/4/2020
 264,Chennai,"K.G.J Hospitals, Korattur",20,20,0,20,20,0,0,0,0,5,0,5,2,0,2,2021-04-23 09:31:03,0.0,Updated 23/04/2021
 265,Chennai,"Padmapriya Hospital, Adyar",5,0,5,3,0,3,2,0,2,0,0,0,1,0,1,2021-04-28 11:51:25,9841122547.0,updated 28-04-2021
@@ -276,7 +276,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,30,20,20,6,14,25,22,3,5,2,3,3,0,3,2021-04-28 16:51:53,9443152469.0,.
 276,Karur,"ABS Hospital, Thanthonimalai",60,42,18,40,30,10,0,0,0,20,12,8,3,0,3,2021-04-28 08:39:09,8300393424.0,28.04.2021
 277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",80,80,0,80,80,0,0,0,0,0,0,0,0,0,0,2021-04-28 10:28:39,9655206592.0,Beds Occupied 80
-278,Madurai,"BGM Hospital, Iyer Bungalow",16,14,2,5,5,0,8,8,0,3,1,2,1,0,1,2021-04-27 08:13:01,9047075271.0,27.04.2021 ( covid - 19 four patients admission in our hospital )
+278,Madurai,"BGM Hospital, Iyer Bungalow",16,14,2,5,5,0,8,8,0,3,1,2,1,0,1,2021-04-28 20:56:23,9047075271.0,27.04.2021 ( covid - 19 four patients admission in our hospital ) ..
 279,Madurai,"Dr.Chidambaram Memorial Hospital, Jai Hind puram",11,11,0,11,11,0,0,0,0,0,0,0,0,0,0,2021-04-28 09:47:36,8122486160.0,28.04.2021 UPDATED...
 280,Madurai,"Gowri Nursing Home, Jeeva Nagar",10,6,4,10,6,4,0,0,0,0,0,0,0,0,0,2021-04-28 10:39:16,9944458354.0,Update . 28.04. 2021........
 281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",10,5,5,4,3,1,2,1,1,4,1,3,2,0,2,2021-04-28 09:00:22,9943450401.0,DISCHARGE - 1 ADMISSION - 1
