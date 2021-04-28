@@ -48,7 +48,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 47,Chennai,Melmaruvathur Aadhiparasakthi Medical College,250,169,81,30,30,0,175,94,81,45,45,0,16,16,0,2021-04-28 22:04:04,7904683997.0,28.04.2021 4 PM
 48,Chennai,Mint Hospital,30,29,1,22,22,0,4,3,1,4,4,0,2,1,1,2021-04-28 08:57:43,7338777444.0,28.4.2021 7.00am Updated
 49,Chennai,Miot Hospital,300,174,126,70,70,0,197,71,126,33,33,0,10,10,0,2021-04-28 09:28:52,7824060120.0,COVID EMERGENCY CALL 105710 DIRECT FROM MOBILE
-50,Chennai,MMRV Hospital,95,45,50,20,20,0,0,0,0,30,25,5,4,4,0,2021-04-24 18:04:27,9884926283.0,24/04/2021
+50,Chennai,MMRV Hospital,50,50,0,20,20,0,0,0,0,30,30,0,4,4,0,2021-04-28 23:28:55,9884926283.0,28/04/2021
 51,Chennai,Muthu hospital,35,35,0,15,15,0,10,10,0,10,10,0,2,0,2,2021-04-28 09:46:38,9962377477.0,28/4/2021
 52,Chennai,National Hospital,100,100,0,90,90,0,0,0,0,10,10,0,4,4,0,2021-04-28 15:53:32,9381166707.0,28-04-2021
 53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-04-28 06:40:40,9092967547.0,Extra beds 2 Occupied
@@ -307,7 +307,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,2,0,2,2021-04-28 16:36:35,9842011199.0,Nill
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",22,22,0,15,15,0,3,3,0,4,4,0,1,0,1,2021-04-28 17:03:44,9443141811.0,RT-PCR positive Cases: 22. Suspected SARI Cases: 0.
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
-309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,18,4,6,6,0,11,11,0,5,1,4,1,0,1,2021-04-28 17:04:58,9489659868.0,28.04.2021
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,5,1,11,11,0,5,0,5,1,0,1,2021-04-28 23:38:32,9489659868.0,29.04.2021
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,13,3,13,13,0,0,0,0,3,0,3,0,0,0,2021-04-28 17:05:47,9442130965.0,.
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,12,3,12,10,2,0,0,0,3,2,1,0,0,0,2021-04-28 19:22:52,8220705749.0,
 312,Virudhunagar,"VVVNC, Chatrarediapatti",40,18,22,20,8,12,0,0,0,20,10,10,1,0,1,2021-04-28 09:13:21,9940757475.0,
