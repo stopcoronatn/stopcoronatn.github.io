@@ -1,6 +1,6 @@
 S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant,OXYGEN SUPPORTED BEDS Total,OXYGEN SUPPORTED BEDS Occupied,OXYGEN SUPPORTED BEDS Vacant,NON-OXYGEN SUPPORTED BEDS Total,NON-OXYGEN SUPPORTED BEDS Occupied,NON-OXYGEN SUPPORTED BEDS Vacant,ICU BEDS Total,ICU BEDS Occupied,ICU BEDS Vacant,VENTILATOR Total,VENTILATOR Occupied,VENTILATOR Vacant,Last updated,Contact Number,Remarks
 1,Ariyalur,A.S Hospital,25,17,8,8,6,2,12,11,1,5,0,5,2,0,2,2021-04-28 10:22:10,9791295212.0,28.04.2021
-2,Ariyalur,Golden Hospital,31,14,17,23,10,13,3,0,3,5,4,1,5,0,5,2021-04-28 09:40:22,0.0,Report on 28.04.2021
+2,Ariyalur,Golden Hospital,31,14,17,23,11,12,3,0,3,5,3,2,5,0,5,2021-04-29 00:36:01,0.0,Report on 29.04.2021
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,2,2,0,2021-04-28 10:11:01,4471700700.0,28.04.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,11,11,0,8,8,0,3,3,0,0,0,0,0,0,0,2021-04-28 08:44:25,7358244662.0,28.04.2021
 5,Chengalpattu,Dr. Rela Institute,170,170,0,150,150,0,0,0,0,20,20,0,6,6,0,2021-04-27 21:26:06,4466667777.0,27-4-21
@@ -442,7 +442,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 441,Thanjavur,Sri Kumaran Gastro Private Ltd,15,8,7,10,5,5,2,2,0,3,1,2,2,0,2,2021-04-28 10:08:33,9786006825.0,UPDATED on 28
 442,Chennai,Sri Ranga Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:34:36,,
 443,Chennai,"Susi Hospital, Thiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:35:17,,
-444,Madurai,"Thavam Hospital, K.Pudhur",15,12,3,6,4,2,6,6,0,3,2,1,0,0,0,2021-04-28 01:38:24,6381046461.0,UPDATE GIVEN
+444,Madurai,"Thavam Hospital, K.Pudhur",15,13,2,6,4,2,6,6,0,3,3,0,0,0,0,2021-04-29 00:35:48,6381046461.0,UPDATED
 445,Tiruppur,"Vel Hospital, Dharapuram",25,3,22,4,0,4,19,3,16,2,0,2,2,0,2,2021-04-28 16:06:19,8610931703.0,NIL
 446,Tiruppur,"Vel Hospital,Udumalpet",15,10,5,3,0,3,10,10,0,2,0,2,2,0,2,2021-04-28 16:02:35,9751766002.0,Nil
 447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,0,1,2021-04-28 08:14:14,9003401778.0,Nil
