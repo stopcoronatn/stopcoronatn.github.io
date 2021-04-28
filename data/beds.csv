@@ -309,7 +309,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
 309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,18,4,6,6,0,11,11,0,5,1,4,1,0,1,2021-04-28 17:04:58,9489659868.0,28.04.2021
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,13,3,13,13,0,0,0,0,3,0,3,0,0,0,2021-04-28 17:05:47,9442130965.0,.
-311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:01:35,,Hospital closed
+311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,12,3,12,10,2,0,0,0,3,2,1,0,0,0,2021-04-28 19:22:52,8220705749.0,
 312,Virudhunagar,"VVVNC, Chatrarediapatti",40,18,22,20,8,12,0,0,0,20,10,10,1,0,1,2021-04-28 09:13:21,9940757475.0,
 313,Chennai,Dr. Mehtas Hospital,102,102,0,82,82,0,10,10,0,10,10,0,4,4,0,2021-04-28 06:49:35,9840080449.0,Updated on 28/04/2021
 314,Tirunelveli,Shifa Hospital,66,65,1,42,41,1,12,12,0,12,12,0,5,5,0,2021-04-28 08:28:59,9500974070.0,50 positive cases & 15 Suspected Cases 28/04/2021
@@ -349,7 +349,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",30,10,20,28,10,18,0,0,0,2,0,2,0,0,0,2021-04-25 10:13:02,9942251163.0,REPORT SUBMITTED ON 24.04.2021
 349,Karur,"GC Hospital, Karur Tn.",15,6,9,10,6,4,4,0,4,1,0,1,1,0,1,2021-04-28 09:34:55,9659974311.0,28.04.2021
 350,Chennai,"Vivekananda Hospital,mylapore",30,30,0,20,20,0,10,10,0,0,0,0,2,0,2,2021-04-28 13:49:30,7200648296.0,28-04-21
-351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,13,1,12,11,1,0,0,0,2,2,0,2,0,2,2021-04-28 10:47:00,9940632392.0,28/04/2021
+351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,14,0,12,12,0,0,0,0,2,2,0,2,0,2,2021-04-28 19:00:03,9940632392.0,28/04/2021
 352,Chengalpattu,AAYUSHMAAN HOLISTIC HEALTH CENTRE,30,30,0,5,5,0,25,25,0,0,0,0,0,0,0,2021-04-23 11:59:39,9962331777.0,23.03-2021
 353,Kanyakumari,"Catherinebooth hospital,Nagercoil",44,4,40,21,1,20,17,3,14,6,0,6,1,0,1,2021-04-28 09:48:23,9442282220.0,.
 354,Tenkasi,"Mathura Hospital, Surandai",8,0,8,4,0,4,4,0,4,0,0,0,1,0,1,2021-04-28 16:47:29,9486285464.0,
@@ -411,7 +411,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 410,Chennai,"Hindu Mission Health Services,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 12:08:20,,
 411,Chennai,"Iyyappa Hospitals and Diabetes Research Centre Pvt Ltd,Perambur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:02:48,,
 412,Kancheepuram,"Jaya Hospital,Sriperumbudhur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:03:34,,
-413,Thoothukudi,"Jayashri Hospital,Tuticorin",15,13,2,5,5,0,7,7,0,3,1,2,1,0,1,2021-04-28 17:07:59,9944393258.0,.
+413,Thoothukudi,"Jayashri Hospital,Tuticorin",15,14,1,5,5,0,7,7,0,3,2,1,1,0,1,2021-04-28 19:31:24,9944393258.0,
 414,Sivagangai,"Jedaiah Steve Hospital,Karaikudi",22,1,21,20,1,19,0,0,0,2,0,2,1,0,1,2021-04-28 09:59:55,8054484748.0,Suspect-13 Positive-1
 415,Chennai,"Jyoti Hospital,Old Washermenpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:06:05,,
 416,Thanjavur,"Kanakesa Thevar Memorial Hospital,Thanjavur",15,6,9,9,6,3,0,0,0,6,0,6,2,0,2,2021-04-28 08:17:36,9842741902.0,RTPCR Positive 4 Cases SARI 2 Cases Total 6 Cases
@@ -471,7 +471,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,9,13,17,6,11,3,1,2,2,2,0,1,0,1,2021-04-28 18:11:02,9842410780.0,NIL
 471,Thanjavur,"Dr.Vanchilingam Hospital Pvt Ltd,K.S Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-27 16:11:57,,
 472,Chennai,"Ezhil Hospital, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-27 16:12:39,,
-473,Coimbatore,"Fathima Hospital,Podanur",15,10,5,5,1,4,10,9,1,0,0,0,0,0,0,2021-04-28 11:08:54,8098011072.0,
+473,Coimbatore,"Fathima Hospital,Podanur",15,11,4,5,2,3,10,9,1,0,0,0,0,0,0,2021-04-28 19:12:04,8098011072.0,
 474,Thiruchirappalli,"Jagadha Hospital,Thillai Nagar",20,0,20,14,0,14,4,0,4,2,0,2,0,0,0,2021-04-28 14:39:08,9488333620.0,
 475,Thiruchirappalli,"Kanapathy Memorial Hospital, Musiri",16,2,14,8,2,6,2,0,2,6,0,6,2,0,2,2021-04-28 15:30:44,9566813205.0,
 476,TheNilgiris,"Kotagiri Medical Fellowship Hospital,Kotagiri",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-27 16:16:49,,
