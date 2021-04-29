@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,180,180,0,160,160,0,0,0,0,20,20,0,6,6,0,2021-04-29 09:32:17,4466667777.0,28-4-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,2,2,0,2021-04-29 09:19:46,9790883397.0,29.04.21
 7,Chengalpattu,"Sugam Hospital, Chromepet",50,50,0,48,48,0,0,0,0,2,2,0,2,2,0,2021-04-29 07:03:01,8585858550.0,29. 04.2021
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",38,37,1,5,5,0,33,32,1,0,0,0,0,0,0,2021-04-29 17:44:09,8300017171.0,29/04/2021 5pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",41,38,3,5,5,0,36,33,3,0,0,0,0,0,0,2021-04-30 01:08:57,8300017171.0,30/04/2021 1 am
 9,Chennai,"Apollo Hospital, Greams Road",124,124,0,44,44,0,35,35,0,45,45,0,45,45,0,2021-04-29 08:01:46,7397242423.0,29.04.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",100,100,0,86,86,0,0,0,0,14,14,0,12,12,0,2021-04-29 10:16:50,7824821042.0,29.04.2021- no beds available
 11,Chennai,Appasamy Hospital,73,73,0,68,68,0,0,0,0,5,5,0,4,4,0,2021-04-29 14:27:28,6379350953.0,April 29th
@@ -318,7 +318,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 317,Mayiladuthurai,Vishnu hospital,15,8,7,6,5,1,6,3,3,3,0,3,1,0,1,2021-04-29 08:18:30,9489858034.0,Nil
 318,Sivagangai,Apollo,50,48,2,45,45,0,0,0,0,5,3,2,0,0,0,2021-04-29 08:31:45,7397591935.0,Updated 28.4.21
 319,Sivagangai,Senthil hospital,55,51,4,35,35,0,8,7,1,12,9,3,4,0,4,2021-04-29 09:38:32,8012519266.0,"Covid Positive : 35 ( O2 supported bed:28, ICU -7) Suspected :16 (O2 supported bed :14, ICU:2)"
-320,Chengalpet,KMS Health Centre,25,25,0,16,16,0,6,6,0,3,3,0,1,0,1,2021-04-28 01:12:49,9791197514.0,Nil
+320,Chengalpet,KMS Health Centre,25,25,0,16,16,0,6,6,0,3,3,0,1,0,1,2021-04-30 01:33:25,9791197514.0,Nil
 321,Salem,"Kamala Hospital,Agraharam",51,47,4,17,17,0,24,24,0,10,6,4,2,2,0,2021-04-29 16:42:32,9842378252.0,
 322,Coimbatore,"Coimbatore Diabetic Foundation,maruthamalai road",30,7,23,29,7,22,0,0,0,1,0,1,0,0,0,2021-04-29 10:05:44,9539004198.0,29.04.2021
 323,Kanyakumari,"Manuel Orthopedic Hospital, therekaalputhoor",25,8,17,20,8,12,0,0,0,5,0,5,2,0,2,2021-04-29 06:49:49,9750883676.0,.
