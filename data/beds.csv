@@ -72,7 +72,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 71,Chennai,Sree Lakshmi Clinic and Maternity Centre,18,18,0,14,14,0,0,0,0,4,4,0,2,1,1,2021-05-01 11:53:34,9952900795.0,01/05/2021
 72,Chennai,"Sri Ramachandra Medical College Hospital, Porur",270,162,108,260,152,108,0,0,0,10,10,0,6,6,0,2021-05-01 09:02:36,8939433555.0,
 73,Chennai,Sri Sathya Sai Medical College & Research Institue,244,61,183,24,24,0,200,17,183,20,20,0,10,10,0,2021-05-01 16:24:14,9841714877.0,01.05.2021
-74,Chennai,Srinivas Priya Hospital Perambur,20,20,0,18,18,0,0,0,0,2,2,0,1,1,0,2021-04-30 14:02:02,7550057577.0,30.04.2021
+74,Chennai,Srinivas Priya Hospital Perambur,25,25,0,20,20,0,0,0,0,5,5,0,1,1,0,2021-05-01 19:29:03,7550057577.0,01.05.2021
 75,Chennai,Srinivasan Rajalakshmi Memorial Hospital,39,39,0,30,30,0,3,3,0,6,6,0,3,3,0,2021-05-01 13:07:25,9444896010.0,01.05.2021
 76,Chennai,Srm Medical College & Hospital,206,183,23,50,45,5,150,132,18,6,6,0,7,7,0,2021-05-01 09:00:34,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,94,94,0,15,15,0,69,69,0,10,10,0,6,6,0,2021-05-01 10:11:05,8126948524.0,01.05.2021
@@ -132,9 +132,9 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 131,Karur,"Apollo Logo Hospital,Karur",20,20,0,12,12,0,6,6,0,2,2,0,2,2,0,2021-05-01 18:32:00,9524699211.0,01.05.2021(06:30 PM)
 132,Krishnagiri,Chandrasekara Hospital,45,45,0,45,45,0,0,0,0,0,0,0,0,0,0,2021-05-01 13:47:38,9655206585.0,
 133,Krishnagiri,"Kauvery Hospital, Hosur",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-01 17:55:52,7402733320.0,Nil
-134,Madurai,Apollo Hospital,86,86,0,80,80,0,0,0,0,6,6,0,4,4,0,2021-05-01 14:34:43,4524341187.0,updated.
+134,Madurai,Apollo Hospital,86,86,0,80,80,0,0,0,0,6,6,0,4,4,0,2021-05-01 19:16:59,4524341187.0,updated..
 135,Madurai,Bharathi Hospital,20,20,0,5,5,0,10,10,0,5,5,0,3,3,0,2021-05-01 07:42:23,8015638874.0,01.05.2021 Updated....
-136,Madurai,Devadoss Multispeciality Hospital,45,44,1,25,25,0,10,9,1,10,10,0,3,3,0,2021-05-01 18:18:40,8072738401.0,Updated
+136,Madurai,Devadoss Multispeciality Hospital,45,45,0,25,25,0,10,10,0,10,10,0,3,3,0,2021-05-01 19:16:24,8072738401.0,Updated
 137,Madurai,Guru Multispeciality Hospital,85,80,5,36,34,2,33,30,3,16,16,0,3,1,2,2021-05-01 14:21:35,9944485353.0,Update..
 138,Madurai,"Harshini Hospital,Sathamangalam",40,23,17,30,20,10,10,3,7,0,0,0,0,0,0,2021-05-01 16:19:42,9677736322.0,Updated 01.05.2021.
 139,Madurai,"Harshitha Hospital, Avaniyapuram",75,75,0,55,55,0,10,10,0,10,10,0,2,2,0,2021-05-01 15:56:55,9865015729.0,UPDATED 01.05.2021.
@@ -342,7 +342,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,22,30,23,16,7,17,0,17,12,6,6,2,0,2,2021-05-01 10:05:35,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,48,22,35,25,10,32,23,9,3,0,3,6,0,6,2021-05-01 15:43:10,9894264333.0,Sent on 01.05.2021 at 03:45PM
 343,Salem,Thiru Neuro And MultiSpecility Salem,56,56,0,35,35,0,11,11,0,10,10,0,2,2,0,2021-05-01 08:05:46,7708959395.0,Nil
-344,Erode,"Erode multispeciality Hospital, Erode",25,25,0,2,2,0,20,20,0,3,3,0,2,0,2,2021-05-01 10:58:27,8248930767.0,NILL
+344,Erode,"Erode multispeciality Hospital, Erode",25,25,0,2,2,0,20,20,0,3,3,0,2,0,2,2021-05-01 19:28:26,8248930767.0,No
 345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,6,54,4,0,4,56,6,50,0,0,0,0,0,0,2021-05-01 13:26:19,9500967789.0,updated 01.05.2021
 346,Karur,"Abishek Hospital, Karur Tn.",15,6,9,10,4,6,5,2,3,0,0,0,0,0,0,2021-05-01 16:34:42,9790555151.0,01-05-2021
 347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",40,36,4,21,21,0,11,7,4,8,8,0,5,3,2,2021-05-01 15:15:20,9629492325.0,Report submitted on 01.05.2021
