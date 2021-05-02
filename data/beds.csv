@@ -98,8 +98,8 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 97,Coimbatore,Kovai Medical College Hospital,461,461,0,192,192,0,241,241,0,28,28,0,16,16,0,2021-05-02 08:12:29,9600400451.0,30.04.2021
 98,Coimbatore,One Care Medical Centre,38,38,0,32,32,0,0,0,0,6,6,0,3,3,0,2021-05-02 09:53:44,9894955990.0,02/05/2021
 99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",420,420,0,170,170,0,220,220,0,30,30,0,15,14,1,2021-05-02 12:59:13,9894798896.0,2nd MAY
-100,Coimbatore,Royal Care Super Speciality Hospital,90,90,0,84,84,0,0,0,0,6,6,0,3,3,0,2021-05-02 06:59:53,7397769343.0,Neelambur unit 02.05.2021
-101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,2021-05-02 07:00:23,7397769343.0,Gandhipuram unit - 02.05.2021
+100,Coimbatore,Royal Care Super Speciality Hospital,90,90,0,84,84,0,0,0,0,6,6,0,3,3,0,2021-05-03 01:40:45,7397769343.0,Neelambur unit 03.05.2021
+101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,2021-05-03 01:41:26,7397769343.0,Gandhipuram unit - 03.05.2021
 102,Coimbatore,Sri Ramakrishna Hospital,252,203,49,94,94,0,153,104,49,5,5,0,5,4,1,2021-05-02 07:58:46,9384086458.0,02.05.21
 103,Coimbatore,"KMCH Kovilampalayam Hospital, Sathy Road",50,50,0,50,50,0,0,0,0,0,0,0,0,0,0,2021-05-02 07:55:06,8754187551.0,0205.2021
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,125,101,92,18,74,124,106,18,10,1,9,2,0,2,2021-05-02 08:16:22,9486456293.0,"Ventilator beds are in ICU for Emergency sick patients,)"
@@ -186,7 +186,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,75,5,24,24,0,47,47,0,9,4,5,2,0,2,2021-05-02 08:49:34,9500182225.0,
 186,Salem,Vinyaga Mission Kirubanandha Variyar Medical College Hospital,145,145,0,45,45,0,90,90,0,10,10,0,5,5,0,2021-05-02 09:15:19,9751380971.0,
 187,Sivagangai,Kauvery Hospital Karaikudi,65,53,12,55,48,7,0,0,0,10,5,5,4,0,4,2021-05-02 14:39:09,6381456995.0,02/05/2021 at 4pm .0pm Positive - 17 Suspected-36 Total=65
-188,Thanjavur,KG Multi Speciality Hospital,75,59,16,50,36,14,0,0,0,25,23,2,12,0,12,2021-05-02 15:31:57,9842349875.0,TOTAL BED:75 occupied :59. vacant beds :16.
+188,Thanjavur,KG Multi Speciality Hospital,75,58,17,50,38,12,0,0,0,25,20,5,12,0,12,2021-05-03 02:05:11,9842349875.0,TOTAL BED:75 occupied :58 vacant beds :17
 189,Thanjavur,Meenakshi Multispeciality Hospital,122,119,3,39,39,0,53,50,3,30,30,0,1,0,1,2021-05-02 15:31:15,7373799855.0,CCC 20 normal beds available.
 190,Tiruvallur,Aakash Hospital,100,100,0,94,94,0,0,0,0,6,6,0,3,3,0,2021-05-03 00:54:09,9087182644.0,03-05-2021
 191,Tiruvallur,ACS Medical College And Hospital,60,41,19,10,10,0,45,26,19,5,5,0,2,2,0,2021-05-02 07:29:08,9003060052.0,CT positive -3 cases
@@ -413,7 +413,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 412,Kancheepuram,"Jaya Hospital,Sriperumbudhur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:03:34,,
 413,Thoothukudi,"Jayashri Hospital,Tuticorin",15,15,0,5,5,0,7,7,0,3,3,0,1,0,1,2021-05-02 17:06:16,9944393258.0,Status on 2.5.21 afternoon.
 414,Sivagangai,"Jedaiah Steve Hospital,Karaikudi",32,32,0,26,26,0,6,6,0,0,0,0,1,0,1,2021-05-02 14:12:10,8054484748.0,Suspect-18 Positive-14
-415,Chennai,"Jyoti Hospital,Old Washermenpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:06:05,,
+415,Chennai,"Jyoti Hospital,Old Washermenpet",18,0,18,11,0,11,5,0,5,2,0,2,1,0,1,2021-05-03 01:57:29,8778393657.0,
 416,Thanjavur,"Kanakesa Thevar Memorial Hospital,Thanjavur",30,18,12,24,18,6,0,0,0,6,0,6,2,0,2,2021-05-02 15:31:02,9842741902.0,RTPCR Positive. 14 cases SARI. 4 Cases Total 18 Cases
 417,Chengalpattu,"Kathir Memorial Hospital,Chengalpattu",10,10,0,10,10,0,0,0,0,0,0,0,1,0,1,2021-05-01 16:11:20,9566572277.0,01/05/2021 04:10pm
 418,Salem,"Kavin Hospital,Omalur",15,12,3,10,9,1,3,3,0,2,0,2,1,0,1,2021-05-02 15:42:50,9944332762.0,
