@@ -144,7 +144,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 143,Madurai,Saravana Hospital,50,37,13,24,15,9,10,7,3,16,15,1,4,0,4,2021-05-02 16:53:17,9894196876.0,Updated now
 144,Madurai,Shenbagam Hospitals Pvt Ltd.,40,28,12,36,26,10,0,0,0,4,2,2,3,0,3,2021-05-02 07:31:03,9750951115.0,UPDATE ON 02.05.2021
 145,Madurai,"Sumathi Hospital & Fertility Center,Anna Nagar",18,18,0,15,15,0,1,1,0,2,2,0,1,0,1,2021-05-02 08:58:04,7358800889.0,updated on 2/5/2021
-146,Madurai,"Thembavani Hospital,Gnanaolipuram",20,20,0,3,3,0,14,14,0,3,3,0,1,0,1,2021-05-02 09:28:34,9047116145.0,02.05.2021
+146,Madurai,"Thembavani Hospital,Gnanaolipuram",20,20,0,3,3,0,14,14,0,3,3,0,1,1,0,2021-05-02 21:19:14,9047116145.0,02.05.2021
 147,Madurai,Vadamalayan Hospital,91,91,0,84,84,0,0,0,0,7,7,0,4,4,0,2021-05-02 12:11:49,4522545400.0,Updated 02-05-2021..
 148,Madurai,Velammal Medical College Hospital and Research Institute,250,230,20,70,70,0,150,130,20,30,30,0,15,6,9,2021-05-02 08:18:42,8489900800.0,Updated.
 149,Mayiladuthurai,Cahoj Hospital,12,2,10,7,2,5,5,0,5,0,0,0,0,0,0,2021-05-02 14:28:05,9488755241.0,Nil
@@ -307,7 +307,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,2,0,2,2021-05-02 15:59:30,9842011199.0,Nil.
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",22,22,0,15,15,0,3,3,0,4,4,0,1,0,1,2021-05-02 17:21:14,9443141811.0,"RT-PCR positive Cases: 22 Suspected SARI Cases: 0 ..,"
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
-309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,13,9,6,4,2,11,9,2,5,0,5,1,0,1,2021-05-02 17:56:26,9489659868.0,02.05.2021.
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,15,7,6,6,0,11,9,2,5,0,5,1,0,1,2021-05-02 20:42:30,9489659868.0,03.05.2021.
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,13,3,13,13,0,0,0,0,3,0,3,0,0,0,2021-05-02 17:20:27,9442130965.0,..
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-02 17:26:12,8220705749.0,
 312,Virudhunagar,"VVVNC, Chatrarediapatti",40,14,26,20,6,14,0,0,0,20,8,12,1,0,1,2021-05-02 15:09:11,9940757475.0,
@@ -375,7 +375,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 374,Chennai,"st. Isabels hospital, Maylapore",34,31,3,19,19,0,15,12,3,0,0,0,2,2,0,2021-05-02 15:59:03,9585965330.0,Positive cases- 31
 375,Chennai,"Sri Balaji Hospital, guindy",7,6,1,4,3,1,0,0,0,3,3,0,0,0,0,2021-04-29 11:45:47,8838811601.0,Daily Data Base
 376,Chennai,"Radha Rajendran Hospital, Alandur",12,12,0,12,0,0,0,12,0,0,0,0,0,0,0,2021-04-24 11:09:50,9952920853.0,
-377,Chennai,"One health hospital, Vandalur",25,23,2,15,15,0,0,0,0,10,8,2,4,4,0,2021-05-02 15:30:52,9445025558.0,
+377,Chennai,"One health hospital, Vandalur",25,25,0,15,15,0,0,0,0,10,10,0,4,4,0,2021-05-02 21:16:37,9445025558.0,
 378,Chennai,"Srinivasa Hospital, Kodampakkam",54,54,0,31,31,0,13,13,0,10,10,0,2,1,1,2021-05-01 11:56:25,9840102493.0,
 379,Kanyakumari,"PPK hospital, Marthandam",29,6,23,18,5,13,4,0,4,7,1,6,3,1,2,2021-05-02 18:44:10,9442521919.0,.
 380,Salem,RK hospital,15,15,0,10,10,0,3,3,0,2,2,0,2,0,2,2021-05-02 13:04:16,7373004777.0,Here with Updating our Hospital bed details
@@ -549,7 +549,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 548,Erode,"Senthil Multi Speciality Hospital, Perundurai Road",25,20,5,15,12,3,7,5,2,3,3,0,2,2,0,2021-05-02 16:01:44,9043165444.0,nil
 549,Chennai,"SenthilPriya Hospital,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:33:56,,
 550,Krishnagiri,"Shree Arunachala Hospital,Krishnagiri",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:34:37,,
-551,Chennai,"Sri Pooja Maternity Clinic, Kodungaiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:35:10,,
+551,Chennai,"Sri Pooja Maternity Clinic, Kodungaiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-02 21:42:49,8778979336.0,
 552,Tiruvallur,"Sri Sundharsanam Hospital, Avadi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:37:02,,
 553,Chennai,"Srushti Hospital, Ramapuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:37:43,,
 554,Krishnagiri,"St.Peter’s Medical College Hospital & Research Institute, Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:38:43,,
