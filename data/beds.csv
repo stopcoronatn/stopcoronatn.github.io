@@ -197,7 +197,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 196,Tiruvallur,Sugam Hospital,47,47,0,45,45,0,0,0,0,2,2,0,2,2,0,2021-05-02 08:26:23,9551979777.0,updated 02.05.2021
 197,Tiruvannamalai,Ramana Maharishi Hospital,100,85,15,25,25,0,55,40,15,20,20,0,2,0,2,2021-05-02 09:13:36,9486047737.0,All covid positive patients 85 admitted in non oxygen supported patients.
 198,Thoothukudi,Sacred Heart Hospital,35,35,0,28,28,0,5,5,0,2,2,0,1,0,1,2021-05-02 17:29:38,9443260714.0,02..05.2021
-199,Thoothukudi,Sri Hospital,25,15,10,21,12,9,0,0,0,4,3,1,1,0,1,2021-05-02 16:36:56,9442667069.0,SRI HOSPITALS
+199,Thoothukudi,Sri Hospital,25,15,10,21,12,9,0,0,0,4,3,1,1,0,1,2021-05-02 18:52:10,9442667069.0,NIL
 200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",44,44,0,25,25,0,15,15,0,4,4,0,2,2,0,2021-05-02 18:16:41,7540094100.0,Positive - 42 Suspected - 2 2-5-2021 8.13 updated .
 201,Tirunelveli,Ponra Multispeciality Hospital,25,24,1,25,24,1,0,0,0,0,0,0,2,0,2,2021-05-02 18:17:30,8300508737.0,.
 202,Tirunelveli,Rosemary mission hospital and research centre,40,40,0,28,28,0,12,12,0,0,0,0,0,0,0,2021-05-02 18:19:07,7598264064.0,.
@@ -508,7 +508,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 507,Chennai,"Anand Hospital,Manali",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:45:29,,
 508,Chennai,"Anbu Hospital, Velachery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:48:05,,
 509,Chennai,"ARK Hospital, Velachery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:50:24,,
-510,Chennai,"Arokya Hospital, West K.K Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:51:08,,
+510,Chennai,"Arokya Hospital, West K.K Nagar",21,21,0,14,14,0,0,0,0,7,7,0,1,1,0,2021-05-02 19:18:55,9791198781.0,
 511,Tiruvannamalai,"Arunai Hospital,Thenmathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:51:58,,
 512,Chennai,"AVS Cardiac Centre,Triplicane",15,10,5,6,5,1,4,2,2,5,3,2,0,0,0,2021-05-02 11:02:16,9965530302.0,only 2 beds available without o2 support
 513,Chennai,"B.M Hospital,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:53:14,,
@@ -523,7 +523,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 522,Chennai,"DRJ Hospitals(P) Ltd,Kolathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:07:27,,
 523,Erode,"Erode Emergency Care Hospital, Veerappampalayam",20,16,4,20,16,4,0,0,0,0,0,0,0,0,0,2021-05-02 16:03:04,9842730574.0,nil
 524,Chennai,"Eswar Medical Foundation, Kolathur",11,11,0,7,7,0,2,2,0,2,2,0,2,0,2,2021-05-02 16:20:09,9843182112.0,02.05.2021 4.20PM
-525,Tirunelveli,"Gold Child & Chest Hospital,Vannarpettai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:10:29,,
+525,Tirunelveli,"Gold Child & Chest Hospital,Vannarpettai",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-02 19:16:49,9488071754.0,
 526,Chennai,"K.C.Hospital, Avadi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:11:15,,
 527,Salem,K.M Natraj's Nursing Home,20,0,20,10,0,10,8,0,8,2,0,2,0,0,0,2021-05-02 10:00:57,9025004345.0,
 528,Cuddalore,"Kalyaan Speciality Hospital, Alpet",18,1,17,1,1,0,17,0,17,0,0,0,0,0,0,2021-05-02 13:05:39,9025720095.0,
