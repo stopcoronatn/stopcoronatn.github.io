@@ -290,7 +290,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 289,Tenkasi,"Meeran Hospital, Tenkasi",43,43,0,38,38,0,1,1,0,4,4,0,1,0,1,2021-05-03 16:08:11,9600692323.0,Centralized Oxygen
 290,Tenkasi,"Santhi Hospital, Vaikkalpalam, Tenkasi",40,35,5,20,20,0,15,14,1,5,1,4,2,1,1,2021-05-03 16:08:16,7305009427.0,Centralized oxygen
 291,Thanjavur,Our Lady Hospital,59,54,5,20,20,0,30,30,0,9,4,5,2,0,2,2021-05-03 15:55:58,8489906295.0,Total positive case - 21 Total sari case - 31
-292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,27,13,25,18,7,10,7,3,5,2,3,3,2,1,2021-05-03 15:42:27,9942104455.0,9 POSITIVE / 18 SARI CASES
+292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,27,13,25,18,7,10,7,3,5,2,3,3,2,1,2021-05-03 23:17:28,9942104455.0,
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-03 15:25:31,8870011952.0,may 3
 294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-03 14:26:18,9443328375.0,03.05.2021 Evening
 295,Theni,"Nalam Hospital, Allinagaram",15,14,1,12,11,1,3,3,0,0,0,0,0,0,0,2021-05-03 14:40:35,8870007450.0,Nalam Hospital 3pm Evening
@@ -307,7 +307,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,2,0,2,2021-05-03 16:47:47,9842011199.0,NILL.
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",27,25,2,15,15,0,8,6,2,4,4,0,1,0,1,2021-05-03 21:18:16,9443141811.0,RT-PCR positive Cases: 25 Suspected SARI Cases: 0
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
-309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,15,7,6,6,0,11,9,2,5,0,5,1,0,1,2021-05-03 16:14:04,9489659868.0,03.05.2021.
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,20,2,6,6,0,11,11,0,5,3,2,1,0,1,2021-05-03 23:15:04,9489659868.0,04.05.2021
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,13,3,13,13,0,0,0,0,3,0,3,0,0,0,2021-05-03 15:54:39,9442130965.0,..
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-03 16:11:54,8220705749.0,Positive case 9. Suspected case 6.
 312,Virudhunagar,"VVVNC, Chatrarediapatti",40,14,26,20,7,13,0,0,0,20,7,13,1,0,1,2021-05-03 15:24:47,9940757475.0,
@@ -445,7 +445,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 444,Madurai,"Thavam Hospital, K.Pudhur",15,13,2,6,6,0,6,6,0,3,1,2,0,0,0,2021-05-03 09:03:43,6381046461.0,UPDATED
 445,Tiruppur,"Vel Hospital, Dharapuram",25,16,9,4,0,4,19,15,4,2,1,1,2,1,1,2021-05-03 15:41:34,8610931703.0,Nil
 446,Tiruppur,"Vel Hospital,Udumalpet",20,19,1,5,5,0,12,12,0,3,2,1,2,0,2,2021-05-03 16:00:47,9751766002.0,Nil
-447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,0,1,2021-05-03 07:49:47,9003401778.0,03.05.2021
+447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,0,1,2021-05-03 23:28:37,9003401778.0,03.05.2021
 448,Madurai,"Vikram Multispeciality hospital, Madurai",40,32,8,16,16,0,9,8,1,15,8,7,2,0,2,2021-05-03 17:18:14,9150891207.0,
 449,Chennai,"Westminster HealthCare,Nungambakkam",10,10,0,8,8,0,0,0,0,2,2,0,0,0,0,2021-05-03 18:45:35,7550045100.0,
 450,Chennai,"Ashwin Fed Specialty Hospital, Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 16:02:59,,
