@@ -4,7 +4,7 @@ _This site is crowdsourced by citizens. Please follow various links for official
 
 ![](https://pbs.twimg.com/profile_banners/1387427581847171076/1619762977/1500x500)
 
-### COVID bed vacancy data: [ncovidbeds.tnega.org](https://stopcoronatn.github.io) | [https://stopcorona.tn.gov.in](https://stopcorona.tn.gov.in/beds.php)
+### COVID bed vacancy data: [tncovidbeds.tnega.org](https://tncovidbeds.tnega.org) | [https://stopcorona.tn.gov.in](https://stopcorona.tn.gov.in/beds.php)
 
 ## Crowdsourced data
 
