@@ -273,7 +273,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
 273,Kancheepuram,"TCS, Sirucherry",30,28,2,0,0,0,30,28,2,0,0,0,0,0,0,2021-05-03 13:23:44,7904569873.0,UPDATED TILL 03/05/2021 09:00AM
 274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,33,7,24,24,0,9,9,0,7,0,7,2,0,2,2021-05-03 17:34:55,9566519491.0,.
-275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-03 17:34:21,9443152469.0,.
+275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-03 20:20:38,9443152469.0,03.05.2021
 276,Karur,"ABS Hospital, Thanthonimalai",60,52,8,40,38,2,0,0,0,20,14,6,3,0,3,2021-05-03 15:17:53,8300393424.0,03.05.2021
 277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",82,82,0,82,82,0,0,0,0,0,0,0,0,0,0,2021-05-03 14:19:43,9655206592.0,Beds Occupied 80
 278,Madurai,"BGM Hospital, Iyer Bungalow",16,16,0,5,5,0,8,8,0,3,3,0,1,0,1,2021-05-03 07:01:00,9047075271.0,03.05.2021
@@ -400,7 +400,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 399,Salem,AP Medical Centre,40,36,4,25,25,0,15,11,4,0,0,0,0,0,0,2021-05-03 16:34:41,9994930184.0,UPDATED ON 03.05.2021
 400,Chennai,Fortis healthcare – Vadapalani,20,20,0,15,15,0,0,0,0,5,5,0,1,1,0,2021-05-03 18:30:15,9940141573.0,
 401,Chennai,"City Tower Hospital,Anna Nagar",28,15,13,28,15,0,0,0,0,6,0,0,1,0,0,2021-04-30 16:47:34,9790985752.0,
-402,Tiruppur,"CNS Hospitals, Palangarai",22,22,0,10,10,0,10,10,0,2,2,0,2,2,0,2021-05-03 16:27:53,9994655886.0,NIL
+402,Tiruppur,"CNS Hospitals, Palangarai",22,22,0,10,10,0,10,10,0,2,2,0,2,2,0,2021-05-03 20:21:53,9994655886.0,nil
 403,Chengalpattu,"Das Nursing Home,Chengalpattu",10,6,4,4,4,0,2,2,0,4,0,4,2,0,2,2021-05-03 10:16:50,7200084041.0,ICU CLOSED FOR FUMIGATION
 404,Kanyakumari,"Dr. Kumaraswami Health Centre, Perumalpuram",32,6,26,8,1,7,22,5,17,2,0,2,1,0,1,2021-05-03 17:40:29,7397617648.0,
 405,Chennai,"Esha Hospital,Old Washermenpet",10,5,5,7,5,2,3,0,3,0,0,0,0,0,0,2021-05-03 14:57:00,9962562594.0,
