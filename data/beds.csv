@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,190,185,5,170,165,5,0,0,0,20,20,0,6,6,0,2021-05-05 09:34:19,4466667777.0,05-5-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-05 11:19:05,9790883397.0,05.05.2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",71,71,0,68,68,0,0,0,0,3,3,0,3,3,0,2021-05-05 16:19:41,8585858550.0,05. 5.2021 4PM
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",42,38,4,6,6,0,36,32,4,0,0,0,0,0,0,2021-05-05 09:35:29,8300017171.0,05/05/2021 9am
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",42,42,0,6,6,0,36,36,0,0,0,0,0,0,0,2021-05-05 22:06:27,8300017171.0,05/05/2021 10 pm
 9,Chennai,"Apollo Hospital, Greams Road",185,185,0,45,45,0,70,70,0,70,70,0,70,70,0,2021-05-05 20:03:03,7397242423.0,05.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,116,0,97,97,0,0,0,0,19,19,0,14,14,0,2021-05-05 16:08:32,7824821042.0,05.05.202 no beds available
 11,Chennai,Appasamy Hospital,83,83,0,72,72,0,6,6,0,5,5,0,4,4,0,2021-05-05 08:43:50,6379350953.0,May 5th
@@ -66,7 +66,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 65,Chennai,Sakthi Hospital Research Centre Triplicane,76,76,0,24,24,0,45,45,0,7,7,0,1,1,0,2021-05-05 10:44:36,9840264444.0,05.05.2021
 66,Chennai,Saveetha Medical College,500,483,17,250,250,0,200,183,17,50,50,0,30,30,0,2021-05-05 08:55:10,4466726672.0,05.05.2021
 67,Chennai,SIMS Hospital Vadapalani,332,332,0,140,140,0,160,160,0,32,32,0,20,20,0,2021-05-05 09:12:55,7397783719.0,
-68,Chennai,"Sivam Hospitals, Ullagaram",25,17,8,10,5,5,10,7,3,5,5,0,3,3,0,2021-05-05 18:47:01,9787859841.0,04.05.2021
+68,Chennai,"Sivam Hospitals, Ullagaram",25,25,0,10,10,0,10,10,0,5,5,0,3,3,0,2021-05-05 22:10:39,9787859841.0,04.05.2021
 69,Chennai,Sooriya Hospital,75,75,0,63,63,0,0,0,0,12,12,0,5,5,0,2021-05-05 09:13:38,9500085477.0,05.05.21 status. No bed available.
 70,Chennai,Sree Balaji Medical College & Hospital,200,136,64,60,60,0,130,66,64,10,10,0,7,7,0,2021-05-05 08:49:35,4442911000.0,
 71,Chennai,Sree Lakshmi Clinic and Maternity Centre,18,18,0,14,14,0,0,0,0,4,4,0,2,1,1,2021-05-05 11:25:58,9952900795.0,05/05/2021
@@ -222,7 +222,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 221,Vellore,Sri Narayani Hospital and Research Centre,94,94,0,79,79,0,0,0,0,15,15,0,15,6,9,2021-05-05 09:31:25,7358387146.0,Nil 05.05.2021
 222,Virudhunagar,Meenakshi Memorial Hospital,20,20,0,10,10,0,5,5,0,5,5,0,2,2,0,2021-05-05 15:02:41,9025461813.0,20 - patient Admitted
 223,Virudhunagar,Sri Krishna Hospital,30,29,1,25,25,0,0,0,0,5,4,1,2,0,2,2021-05-05 14:56:33,9159098003.0,Nil
-224,Chengalpattu,"Sai Fertility Centre & Hospital, Vedhachalam Nagar",28,19,9,12,4,8,15,15,0,1,0,1,1,0,1,2021-05-05 13:48:19,9380667083.0,05.05.2021 Oxygen Cylinders Management is very difficult.
+224,Chengalpattu,"Sai Fertility Centre & Hospital, Vedhachalam Nagar",28,19,9,12,12,0,15,6,9,1,1,0,1,0,1,2021-05-05 22:49:59,9380667083.0,05.05.2021 Oxygen Cylinders Management is very difficult.
 225,Dindigul,City Hospital Gandhi Nagar,40,36,4,30,26,4,6,6,0,4,4,0,1,0,1,2021-05-05 15:39:42,9150127822.0,05/05/2021.
 226,Dindigul,"Raja Rajeswari Hospital, Spence Nagar",40,38,2,35,35,0,0,0,0,5,3,2,1,0,1,2021-05-05 15:44:09,8870504662.0,05/05/21
 227,Madurai,"Santhya Speciality Hospital, Arappalaiyam Main Road",25,10,15,14,10,4,5,0,5,6,0,6,2,0,2,2021-05-05 13:22:55,6381589553.0,05.05.2021
@@ -233,7 +233,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 232,Madurai,"Asirvatham Speciality Hospital, Gandhi Nagar",20,0,20,3,0,3,15,0,15,2,0,2,2,0,2,2021-05-05 17:28:41,9500440696.0,Nil 05.05.2021
 233,Madurai,Bala Hospital Usilampatti,25,25,0,15,15,0,0,0,0,10,10,0,2,0,2,2021-05-05 07:13:12,9443548450.0,25
 234,Madurai,"KJS Speciality Hospital,K.Pudur",20,13,7,4,4,0,10,3,7,6,6,0,1,0,1,2021-05-05 07:59:41,9629373744.0,updated 05.05.2021...
-235,Madurai,Nithilaa Nursing Home Palanganatham,17,15,2,17,15,2,0,0,0,0,0,0,2,0,2,2021-05-05 15:52:56,9443744085.0,Covid - 19 patients today updated 05.05.2021. Thanking You !
+235,Madurai,Nithilaa Nursing Home Palanganatham,17,17,0,17,17,0,0,0,0,0,0,0,2,0,2,2021-05-05 22:30:15,9443744085.0,Covid - 19 patients today updated 05.05.2021. Thanking You !
 236,Madurai,NTC Hospitals Vaithiyanathapuram,30,30,0,5,5,0,0,0,0,25,25,0,2,2,0,2021-05-05 06:53:14,9894208601.0,0505.2021
 237,Madurai,Raks Hospital Anna Nagar,25,19,6,21,15,6,0,0,0,4,4,0,5,0,5,2021-05-05 09:06:34,9003900364.0,as on 05.05.2021
 238,Chennai,Pon Malligai Hospital Adambakkam,50,50,0,42,42,0,3,3,0,5,5,0,2,2,0,2021-05-05 09:31:14,9884850982.0,Date 05/05/2021
