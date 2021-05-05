@@ -3,7 +3,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 2,Ariyalur,Golden Hospital,31,16,15,23,12,11,3,0,3,5,4,1,5,0,5,2021-05-06 00:32:06,0.0,Report on 06.05.2021.
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,2021-05-05 09:56:48,4471700700.0,05.05.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,12,12,0,4,4,0,0,0,0,0,0,0,2021-05-05 12:00:41,7358244662.0,05.05.2021
-5,Chengalpattu,Dr. Rela Institute,190,185,5,170,165,5,0,0,0,20,20,0,6,6,0,2021-05-05 09:34:19,4466667777.0,05-5-21
+5,Chengalpattu,Dr. Rela Institute,190,190,0,170,170,0,0,0,0,20,20,0,6,6,0,2021-05-06 03:04:58,4466667777.0,06-5-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-05 11:19:05,9790883397.0,05.05.2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",71,71,0,68,68,0,0,0,0,3,3,0,3,3,0,2021-05-05 16:19:41,8585858550.0,05. 5.2021 4PM
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",42,42,0,6,6,0,36,36,0,0,0,0,0,0,0,2021-05-05 22:06:27,8300017171.0,05/05/2021 10 pm
@@ -186,7 +186,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 185,Salem,Vinayaka Mission Super Specialty Hospitals Pvt Ltd,80,75,5,24,24,0,47,47,0,9,4,5,2,0,2,2021-05-05 10:30:15,9500182225.0,NIL
 186,Salem,Vinyaga Mission Kirubanandha Variyar Medical College Hospital,160,160,0,45,45,0,105,105,0,10,10,0,5,5,0,2021-05-05 10:32:51,9751380971.0,nil
 187,Sivagangai,Kauvery Hospital Karaikudi,65,61,4,55,55,0,0,0,0,10,6,4,4,0,4,2021-05-05 17:30:02,6381456995.0,05/05/2021 at 04:00pm .Positive - 16 Suspected-45 Total=61
-188,Thanjavur,KG Multi Speciality Hospital,86,56,30,56,37,19,0,0,0,30,19,11,12,0,12,2021-05-05 15:47:37,8526402373.0,TOTAL BED:86 occupied :56. vacant beds :30
+188,Thanjavur,KG Multi Speciality Hospital,86,57,29,56,37,19,0,0,0,30,20,10,12,0,12,2021-05-06 02:59:05,7094409938.0,TOTAL BED:86 occupied :57. vacant beds :29
 189,Thanjavur,Meenakshi Multispeciality Hospital,126,126,0,47,47,0,49,49,0,30,30,0,1,1,0,2021-05-05 15:48:38,7373799855.0,CCC 15 normal beds available.
 190,Tiruvallur,Aakash Hospital,100,100,0,94,94,0,0,0,0,6,6,0,3,3,0,2021-05-05 09:22:13,9087182644.0,05-05-2021
 191,Tiruvallur,ACS Medical College And Hospital,60,48,12,10,10,0,45,33,12,5,5,0,2,2,0,2021-05-05 06:48:22,9003060052.0,CT positive -6 cases
@@ -515,7 +515,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 514,Erode,"Bewell Hospitals, Gandhiji Road",23,21,2,8,8,0,13,11,2,2,2,0,1,0,1,2021-05-05 16:57:41,9445882236.0,nil
 515,Erode,"C.K.Hospital, Balasubbrayalu Street",30,18,12,10,6,4,20,12,8,0,0,0,0,0,0,2021-05-05 16:30:40,9994500470.0,Nil
 516,Chennai,"Care and Cure Speciality Hospital,Ayanavaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:55:52,,
-517,Tiruvallur,"Chennai Health Foundation, Ambatur",27,27,0,21,21,0,4,4,0,2,2,0,0,0,0,2021-05-05 15:16:43,9094762761.0,05/05/2021
+517,Tiruvallur,"Chennai Health Foundation, Ambatur",32,26,6,26,23,3,4,1,3,2,2,0,0,0,0,2021-05-06 03:09:49,9094762761.0,06/05/2021
 518,Chennai,"Chennai National Hospital,Ernavoor",15,15,0,13,13,0,0,0,0,2,2,0,2,2,0,2021-05-05 08:08:06,9840874528.0,
 519,Erode,"CSI Hospital, Brough Road",50,44,6,15,13,2,30,30,0,5,1,4,0,0,0,2021-05-05 13:28:34,9095294663.0,NIL
 520,Karur,"Deepa Kannan Hospital, Muthu Nagar",15,14,1,5,4,1,9,9,0,1,1,0,1,0,1,2021-05-05 15:59:14,9047785417.0,05.05.2021
