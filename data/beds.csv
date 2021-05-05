@@ -1,6 +1,6 @@
 S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant,OXYGEN SUPPORTED BEDS Total,OXYGEN SUPPORTED BEDS Occupied,OXYGEN SUPPORTED BEDS Vacant,NON-OXYGEN SUPPORTED BEDS Total,NON-OXYGEN SUPPORTED BEDS Occupied,NON-OXYGEN SUPPORTED BEDS Vacant,ICU BEDS Total,ICU BEDS Occupied,ICU BEDS Vacant,VENTILATOR Total,VENTILATOR Occupied,VENTILATOR Vacant,Last updated,Contact Number,Remarks
 1,Ariyalur,A.S Hospital,25,24,1,8,8,0,12,12,0,5,4,1,2,0,2,2021-05-05 09:52:56,0.0,04.05.2021
-2,Ariyalur,Golden Hospital,31,17,14,23,14,9,3,0,3,5,3,2,5,0,5,2021-05-05 17:19:49,0.0,Report on 05.05.2021.
+2,Ariyalur,Golden Hospital,31,16,15,23,12,11,3,0,3,5,4,1,5,0,5,2021-05-06 00:32:06,0.0,Report on 06.05.2021.
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,2021-05-05 09:56:48,4471700700.0,05.05.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,12,12,0,4,4,0,0,0,0,0,0,0,2021-05-05 12:00:41,7358244662.0,05.05.2021
 5,Chengalpattu,Dr. Rela Institute,190,185,5,170,165,5,0,0,0,20,20,0,6,6,0,2021-05-05 09:34:19,4466667777.0,05-5-21
@@ -285,7 +285,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,2021-05-05 16:40:58,9443190986.0,No Change
 285,Salem,"Geeth Raghunath Hospital, Attur",40,31,9,36,31,5,0,0,0,4,0,4,2,0,2,2021-05-05 18:30:46,9842750556.0,grand total - 31
 286,Salem,"Karthik Medical Centre, Idappadi",22,19,3,16,16,0,6,3,3,0,0,0,1,0,1,2021-05-05 16:43:44,9600380076.0,
-287,Salem,"Shivasurya Polyclinic, Salem",30,27,3,15,15,0,15,12,3,0,0,0,0,0,0,2021-05-05 13:23:16,9443173270.0,Nil
+287,Salem,"Shivasurya Polyclinic, Salem",30,29,1,15,15,0,15,14,1,0,0,0,0,0,0,2021-05-06 00:11:43,9443173270.0,Nil
 288,Salem,"Sree Vasantham Hospital, Gugai",25,25,0,8,8,0,12,12,0,5,5,0,3,0,3,2021-05-05 16:05:59,9514399992.0,Update
 289,Tenkasi,"Meeran Hospital, Tenkasi",43,43,0,38,38,0,1,1,0,4,4,0,1,0,1,2021-05-05 16:39:41,9600692323.0,.
 290,Tenkasi,"Santhi Hospital, Vaikkalpalam, Tenkasi",40,27,13,20,14,6,15,11,4,5,2,3,1,0,1,2021-05-05 16:14:24,7305009427.0,
