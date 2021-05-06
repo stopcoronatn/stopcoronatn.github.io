@@ -1,6 +1,6 @@
 S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant,OXYGEN SUPPORTED BEDS Total,OXYGEN SUPPORTED BEDS Occupied,OXYGEN SUPPORTED BEDS Vacant,NON-OXYGEN SUPPORTED BEDS Total,NON-OXYGEN SUPPORTED BEDS Occupied,NON-OXYGEN SUPPORTED BEDS Vacant,ICU BEDS Total,ICU BEDS Occupied,ICU BEDS Vacant,VENTILATOR Total,VENTILATOR Occupied,VENTILATOR Vacant,Last updated,Contact Number,Remarks
 1,Ariyalur,A.S Hospital,25,25,0,8,8,0,12,12,0,5,5,0,2,0,2,2021-05-06 11:10:53,0.0,04.05.2021
-2,Ariyalur,Golden Hospital,31,16,15,23,12,11,3,0,3,5,4,1,5,0,5,2021-05-06 10:51:33,9487576493.0,Report on 06.05.2021.
+2,Ariyalur,Golden Hospital,31,18,13,23,13,10,3,0,3,5,5,0,5,0,5,2021-05-07 00:06:21,9487576493.0,Report on 07.05.2021.
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,2021-05-06 10:13:58,4471700700.0,06.05.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,12,12,0,4,4,0,0,0,0,0,0,0,2021-05-06 09:45:13,7358244662.0,06.05.2021
 5,Chengalpattu,Dr. Rela Institute,190,190,0,170,170,0,0,0,0,20,20,0,6,6,0,2021-05-06 03:04:58,4466667777.0,06-5-21
@@ -285,7 +285,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,2021-05-06 15:34:34,9443190986.0,No Change
 285,Salem,"Geeth Raghunath Hospital, Attur",40,30,10,36,30,6,0,0,0,4,0,4,2,0,2,2021-05-06 09:34:19,9842750556.0,grand total - 30
 286,Salem,"Karthik Medical Centre, Idappadi",22,17,5,16,16,0,6,1,5,0,0,0,1,0,1,2021-05-06 17:17:43,9600380076.0,
-287,Salem,"Shivasurya Polyclinic, Salem",30,29,1,15,15,0,15,14,1,0,0,0,0,0,0,2021-05-06 00:11:43,9443173270.0,Nil
+287,Salem,"Shivasurya Polyclinic, Salem",30,30,0,15,15,0,15,15,0,0,0,0,0,0,0,2021-05-07 00:24:37,9443173270.0,Nil
 288,Salem,"Sree Vasantham Hospital, Gugai",25,25,0,8,8,0,12,12,0,5,5,0,3,0,3,2021-05-06 16:37:06,9514399992.0,Update
 289,Tenkasi,"Meeran Hospital, Tenkasi",32,10,22,27,10,17,1,0,1,4,0,4,1,0,1,2021-05-06 16:06:36,9600692323.0,
 290,Tenkasi,"Santhi Hospital, Vaikkalpalam, Tenkasi",40,21,19,20,8,12,15,13,2,5,0,5,1,0,1,2021-05-06 16:00:56,7305009427.0,
