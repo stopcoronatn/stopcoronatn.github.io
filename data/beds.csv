@@ -4,11 +4,11 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,2021-05-05 09:56:48,4471700700.0,05.05.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,12,12,0,4,4,0,0,0,0,0,0,0,2021-05-05 12:00:41,7358244662.0,05.05.2021
 5,Chengalpattu,Dr. Rela Institute,190,190,0,170,170,0,0,0,0,20,20,0,6,6,0,2021-05-06 03:04:58,4466667777.0,06-5-21
-6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-05 11:19:05,9790883397.0,05.05.2021
+6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-06 07:48:10,9790883397.0,06.05.2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",71,71,0,68,68,0,0,0,0,3,3,0,3,3,0,2021-05-05 16:19:41,8585858550.0,05. 5.2021 4PM
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",42,42,0,6,6,0,36,36,0,0,0,0,0,0,0,2021-05-05 22:06:27,8300017171.0,05/05/2021 10 pm
 9,Chennai,"Apollo Hospital, Greams Road",185,185,0,45,45,0,70,70,0,70,70,0,70,70,0,2021-05-05 20:03:03,7397242423.0,05.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,116,0,97,97,0,0,0,0,19,19,0,14,14,0,2021-05-05 16:08:32,7824821042.0,05.05.202 no beds available
+10,Chennai,"Apollo Hospitals, Vanagaram",116,116,0,97,97,0,0,0,0,19,19,0,14,14,0,2021-05-06 07:56:54,7824821042.0,06.05.202 no beds available
 11,Chennai,Appasamy Hospital,83,83,0,72,72,0,6,6,0,5,5,0,4,4,0,2021-05-05 08:43:50,6379350953.0,May 5th
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-05 14:20:10,6380760063.0,05.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,20,0,14,14,0,2,2,0,4,4,0,1,1,0,2021-05-05 11:51:50,9677311333.0,05.05.2021
@@ -38,7 +38,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 37,Chennai,Kumaran Hospital Pvt ltd,78,78,0,65,65,0,0,0,0,13,13,0,6,6,0,2021-05-05 17:30:03,9791144090.0,5/05/2021
 38,Chennai,"KVT Speciality Hospital, Erukanchery",44,44,0,37,37,0,0,0,0,7,7,0,1,1,0,2021-05-05 10:01:47,7358330026.0,05.05.2021
 39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,2021-05-01 09:12:08,9500054797.0,01.5.2021
-40,Chennai,Life Care Hospital,17,17,0,10,10,0,4,4,0,3,3,0,2,2,0,2021-05-05 09:07:30,9003260244.0,5. 5.21
+40,Chennai,Life Care Hospital,17,17,0,10,10,0,4,4,0,3,3,0,2,2,0,2021-05-06 07:44:30,9003260244.0,6. 5.21
 41,Chennai,Lifeline Hospitals,50,50,0,20,20,0,20,20,0,10,10,0,1,1,0,2021-05-05 11:40:36,9500073959.0,05.05.2021
 42,Chennai,M G M Health Care Pvt Ltd,110,110,0,0,0,0,88,88,0,22,22,0,22,22,0,2021-05-05 11:43:45,9384002406.0,05-05-2021
 43,Chennai,M.R Hospital,22,20,2,16,16,0,0,0,0,6,4,2,2,2,0,2021-05-04 10:51:50,7305650107.0,04.05.2021
@@ -50,7 +50,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 49,Chennai,Miot Hospital,300,271,29,70,70,0,197,168,29,33,33,0,10,10,0,2021-05-05 09:13:43,7824060120.0,COVID EMERGENCY CALL 105710 DIRECT FROM MOBILE
 50,Chennai,MMRV Hospital,50,50,0,20,20,0,0,0,0,30,30,0,4,4,0,2021-05-05 11:53:54,9884926283.0,05/05/2021
 51,Chennai,Muthu hospital,55,55,0,25,25,0,20,20,0,10,10,0,2,0,2,2021-05-05 09:34:51,9445330478.0,05.05.2021
-52,Chennai,National Hospital,100,100,0,90,90,0,0,0,0,10,10,0,4,4,0,2021-05-05 07:40:58,9381166707.0,05-05-2021
+52,Chennai,National Hospital,100,100,0,90,90,0,0,0,0,10,10,0,4,4,0,2021-05-06 08:03:35,9381166707.0,06-05-2021
 53,Chennai,"New Hope Multi Speciality Hospital, Kilpauk",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-05-06 06:58:38,9092967547.0,
 54,Chennai,"Medway Hospital,Mugappair",30,30,0,26,26,0,0,0,0,4,4,0,2,2,0,2021-05-05 10:03:59,9888888888.0,05-05-21
 55,Chennai,New Lifemed Hospital,45,45,0,15,15,0,26,26,0,4,4,0,1,0,1,2021-05-05 09:27:15,9840021112.0,05/5/2021
@@ -73,14 +73,14 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 72,Chennai,"Sri Ramachandra Medical College Hospital, Porur",215,215,0,200,200,0,0,0,0,15,15,0,6,6,0,2021-05-04 16:15:32,8939433555.0,
 73,Chennai,Sri Sathya Sai Medical College & Research Institue,345,62,283,24,24,0,275,0,275,46,38,8,10,10,0,2021-05-05 13:21:28,9841714877.0,5.5.2021
 74,Chennai,Srinivas Priya Hospital Perambur,25,25,0,20,20,0,0,0,0,5,5,0,1,1,0,2021-05-05 09:47:02,7550057577.0,5.05.2021
-75,Chennai,Srinivasan Rajalakshmi Memorial Hospital,37,34,3,28,28,0,3,0,3,6,6,0,3,3,0,2021-05-05 08:56:05,9444896010.0,05.05.2021
+75,Chennai,Srinivasan Rajalakshmi Memorial Hospital,37,35,2,28,28,0,3,1,2,6,6,0,3,3,0,2021-05-06 07:38:25,9444896010.0,06.05.2021
 76,Chennai,Srm Medical College & Hospital,210,210,0,50,50,0,154,154,0,6,6,0,7,7,0,2021-05-05 09:39:00,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,86,86,0,15,15,0,61,61,0,10,10,0,6,6,0,2021-05-05 17:30:55,8126948524.0,05.05.2021
 78,Chennai,Sundaram Medical Foundation,33,32,1,24,23,1,0,0,0,9,9,0,5,5,0,2021-05-05 16:58:08,9884245646.0,-
 79,Chennai,Tagore Medical College & Hospital,254,75,179,30,15,15,208,50,158,16,10,6,7,7,0,2021-05-05 14:37:56,4430101111.0,05/05/2021
 80,Chennai,"The Guest Hospital, Kilpauk",45,45,0,23,23,0,20,20,0,2,2,0,1,1,0,2021-05-05 18:08:46,8056333495.0,05/05/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,43,38,5,37,37,0,6,1,5,0,0,0,0,0,0,2021-05-05 17:15:59,9894467903.0,05-05-2021
-82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-05 07:42:23,8056621324.0,05 /05/2021
+82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-06 07:40:24,8056621324.0,06/05/2021
 83,Chennai,"Vasantha Subramanian Hospitals Pvt Ltd, Chetpet",49,49,0,33,33,0,10,10,0,6,6,0,6,6,0,2021-05-05 13:11:04,9884875111.0,05/05/2021@1PM
 84,Chennai,Venkateswara Hospital,120,120,0,100,100,0,0,0,0,20,20,0,10,10,0,2021-05-05 18:47:52,9841275552.0,05.05.2021 at 4pm
 85,Chennai,"Vhs, Adayar",70,70,0,46,46,0,0,0,0,24,24,0,11,11,0,2021-05-05 10:01:20,4422542971.0,04/05/2021 at 6.50am
@@ -116,7 +116,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 115,Kallakurichi,I Med Super Speciality Hospital,34,34,0,34,34,0,0,0,0,0,0,0,1,0,1,2021-05-05 09:08:05,9751344576.0,04
 116,Kallakurichi,Lotus Paediatric Emergency Centre,30,17,13,20,13,7,5,0,5,5,4,1,0,0,0,2021-05-05 17:18:21,9677605096.0,Lotus hospital. 04.05.2021...
 117,Kallakurichi,Maragadam Hospital,15,0,15,6,0,6,7,0,7,2,0,2,1,0,1,2021-05-05 10:13:40,9443234056.0,06.05.21
-118,Kallakurichi,S A Hospital,5,0,5,3,0,3,2,0,2,0,0,0,1,0,1,2021-05-05 16:06:13,9600523290.0,
+118,Kallakurichi,S A Hospital,5,0,5,3,0,3,2,0,2,0,0,0,1,0,1,2021-05-06 07:47:30,9600523290.0,
 119,Kallakurichi,Sri Sanjeevi Hospital,78,78,0,50,50,0,13,13,0,15,15,0,9,9,0,2021-05-05 10:09:18,9750999352.0,Updated..03.05.2021
 120,Kancheepuram,Bon Secuors Hospital,30,10,20,5,2,3,25,8,17,0,0,0,0,0,0,2021-05-05 18:01:03,9943271810.0,Updated 05-05-2021
 121,Kancheepuram,Chennai Urology & Robotics Institute Hospital Thoraippakkam,40,39,1,35,34,1,0,0,0,5,5,0,2,2,0,2021-05-05 16:36:48,9894791989.0,05.05.2021
@@ -133,10 +133,10 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 132,Krishnagiri,Chandrasekara Hospital,45,45,0,45,45,0,0,0,0,0,0,0,0,0,0,2021-05-05 10:18:04,9655206585.0,
 133,Krishnagiri,"Kauvery Hospital, Hosur",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-05 10:01:55,7402733320.0,NILL
 134,Madurai,Apollo Hospital,86,86,0,80,80,0,0,0,0,6,6,0,4,4,0,2021-05-06 06:42:35,4524341187.0,updated....
-135,Madurai,Bharathi Hospital,20,20,0,5,5,0,10,10,0,5,5,0,3,3,0,2021-05-05 07:34:06,8015638874.0,05.05.2021 Updated....
+135,Madurai,Bharathi Hospital,20,20,0,5,5,0,10,10,0,5,5,0,3,3,0,2021-05-06 07:25:33,8015638874.0,06.05.2021 Updated....
 136,Madurai,Devadoss Multispeciality Hospital,45,35,10,25,24,1,10,1,9,10,10,0,3,3,0,2021-05-06 06:53:10,8072738401.0,Update
 137,Madurai,Guru Multispeciality Hospital,85,78,7,36,36,0,33,26,7,16,16,0,3,1,2,2021-05-06 06:53:04,9944485353.0,Update..
-138,Madurai,"Harshini Hospital,Sathamangalam",40,35,5,30,30,0,10,5,5,0,0,0,0,0,0,2021-05-05 16:05:09,9677736322.0,Updated 05.05.2021
+138,Madurai,"Harshini Hospital,Sathamangalam",40,35,5,30,30,0,10,5,5,0,0,0,0,0,0,2021-05-06 07:24:36,9677736322.0,Updated 06.05.2021
 139,Madurai,"Harshitha Hospital, Avaniyapuram",75,75,0,55,55,0,10,10,0,10,10,0,2,2,0,2021-05-05 13:32:25,9865015729.0,UPDATED 05.05.2021..
 140,Madurai,Lakshmana Multispeciality Hospital,50,40,10,25,25,0,10,0,10,15,15,0,2,2,0,2021-05-05 01:57:13,7373072104.0,Updated 05.05.21
 141,Madurai,Meenakshi Mission Hospital and Research Centre,214,195,19,68,68,0,106,87,19,40,40,0,6,6,0,2021-05-06 06:54:17,9524128222.0,nil.... nil.......
@@ -147,14 +147,14 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 146,Madurai,"Thembavani Hospital,Gnanaolipuram",25,25,0,5,5,0,17,17,0,3,3,0,1,1,0,2021-05-05 16:01:06,9047116145.0,05.05.2021....
 147,Madurai,Vadamalayan Hospital,91,91,0,84,84,0,0,0,0,7,7,0,4,4,0,2021-05-05 09:09:54,4522545400.0,Updated 05-05-2021.
 148,Madurai,Velammal Medical College Hospital and Research Institute,250,225,25,100,100,0,120,95,25,30,30,0,15,8,7,2021-05-05 08:54:47,8489900800.0,Updated...
-149,Mayiladuthurai,Cahoj Hospital,12,3,9,7,0,7,5,3,2,0,0,0,0,0,0,2021-05-05 16:06:16,9488755241.0,Nil
+149,Mayiladuthurai,Cahoj Hospital,12,3,9,7,0,7,5,3,2,0,0,0,0,0,0,2021-05-06 07:57:48,9488755241.0,
 150,Mayiladuthurai,Ram Bone And Joint Hospial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 08:42:15,,Nil
 151,Mayiladuthurai,Shanthi Nursing Home,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 08:35:16,,Nil
 152,Namakkal,Aravinth Hospital,38,26,12,12,10,2,22,16,6,4,0,4,4,0,4,2021-05-06 06:56:11,9443221491.0,Reports submitted for 06.05.2021 time 07.00am
 153,Namakkal,M.M.Hospital,75,75,0,66,66,0,4,4,0,5,5,0,4,0,4,2021-05-06 04:17:18,9585554551.0,M M HOSPITAL REPORT UPDATE FOR 06.05.2021 5.00pm
 154,Namakkal,Maharaja Speciality Hospital,35,35,0,26,26,0,5,5,0,4,4,0,2,0,2,2021-05-06 06:50:00,8778642130.0,Report submitted on : 06.05.2021 7 AM
 155,Namakkal,Thangam Hospital,50,40,10,24,20,4,16,15,1,10,5,5,1,1,0,2021-05-06 06:57:39,9843230685.0,Submitted on 06.05.2021 at7.00 AM
-156,Namakkal,Vivekanandha Medical Care Hospital,100,90,10,20,20,0,75,65,10,5,5,0,5,5,0,2021-05-05 16:44:49,9489059104.0,4.44pm
+156,Namakkal,Vivekanandha Medical Care Hospital,100,75,25,20,20,0,75,50,25,5,5,0,5,5,0,2021-05-06 07:25:07,9489059104.0,
 157,TheNilgiris,Ashwini Gudalur Tribal Hospital,12,0,12,4,0,4,8,0,8,0,0,0,0,0,0,2021-05-05 13:55:24,9487257321.0,05/05/2021
 158,TheNilgiris,Nankam Hospital,15,15,0,5,5,0,5,5,0,5,5,0,2,0,2,2021-05-05 16:10:31,9488834087.0,5/5/21
 159,TheNilgiris,Sagayamatha Hospital,10,0,10,2,0,2,8,0,8,0,0,0,0,0,0,2021-05-05 16:10:59,9447276304.0,5/5/21
@@ -198,32 +198,32 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 197,Tiruvannamalai,Ramana Maharishi Hospital,100,100,0,25,25,0,55,55,0,20,20,0,2,0,2,2021-05-05 08:58:00,9486047737.0,All covid positive patients 100admitted in non oxygen supported patients.
 198,Thoothukudi,Sacred Heart Hospital,35,35,0,28,28,0,5,5,0,2,2,0,1,0,1,2021-05-05 15:42:25,9443260714.0,05.05.2021 3:00 PM
 199,Thoothukudi,Sri Hospital,18,17,1,14,14,0,0,0,0,4,3,1,1,1,0,2021-05-05 17:52:17,9442667069.0,SRI HOSPITALS
-200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",44,42,2,25,25,0,15,13,2,4,4,0,2,2,0,2021-05-05 16:43:01,7540094100.0,"Positive - 40, Suspected - 4 5-5-2021 : 8.58 am updated"
+200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",44,44,0,25,25,0,15,15,0,4,4,0,2,2,0,2021-05-06 07:57:59,7540094100.0,"Positive - 41, Suspected - 3 6-5-2021 : 7.57 am updated"
 201,Tirunelveli,Ponra Multispeciality Hospital,29,28,1,29,28,1,0,0,0,0,0,0,2,0,2,2021-05-06 06:59:28,8300508737.0,.
 202,Tirunelveli,Rosemary mission hospital and research centre,40,37,3,28,28,0,12,9,3,0,0,0,0,0,0,2021-05-06 06:57:07,7598264064.0,...
 203,Dindigul,Shifa Hospital,46,30,16,30,20,10,10,6,4,6,4,2,0,0,0,2021-05-05 16:58:32,9952495710.0,05.05.2021...
 204,Tiruppur,Revathi Medical Centre,65,65,0,38,38,0,17,17,0,10,10,0,4,1,3,2021-05-05 16:35:25,8072570015.0,Nil
 205,Thiruvarur,Navajeevan Hospital,30,30,0,20,20,0,0,0,0,10,10,0,1,0,1,2021-05-05 08:20:04,7339603757.0,Updated on 05.05.2021
-206,Thiruvarur,Thiruvarur Medical Centre,40,23,17,40,23,17,0,0,0,0,0,0,1,0,1,2021-05-05 08:15:13,9788188177.0,Update 05.05.2021
+206,Thiruvarur,Thiruvarur Medical Centre,40,34,6,40,34,6,0,0,0,0,0,0,1,0,1,2021-05-06 07:59:01,9788188177.0,Update 06.05.2021
 207,Thiruchirappalli,"Neuro One Hospital, Karur Bye Pass Road",35,27,8,14,11,3,13,8,5,8,8,0,5,0,5,2021-05-05 18:59:38,9095579303.0,"NON OXYGEN PATIENTS 11,OXYGEN PATIENTS 13,HFNC-1."
 208,Thiruchirappalli,Apollo Speciality Hospital,80,80,0,40,40,0,28,28,0,12,12,0,2,2,0,2021-05-05 15:56:20,9842164211.0,Updated done..
 209,Thiruchirappalli,G V N Hospital Pvt Ltd,15,0,15,0,0,0,13,0,13,2,0,2,2,0,2,2021-05-05 16:35:32,9095505550.0,Nil
 210,Thiruchirappalli,"Kavery Medical Centre And Hospital, Trichy",110,110,0,40,40,0,45,45,0,25,25,0,8,8,0,2021-05-05 19:58:39,9626767945.0,Nil
 211,Thiruchirappalli,Maruti Hospital,60,55,5,40,35,5,10,10,0,10,10,0,4,3,1,2021-05-05 18:46:23,9944920163.0,Update done
-212,Thiruchirappalli,Sinduja Hospital,80,80,0,26,26,0,35,35,0,19,19,0,6,3,3,2021-05-06 06:13:05,9442009956.0,Nill
+212,Thiruchirappalli,Sinduja Hospital,80,76,4,26,26,0,35,31,4,19,19,0,0,3,0,2021-05-06 07:52:48,9442009956.0,Nill
 213,Thiruchirappalli,"SRM Medical College Hospital And Research Centre, Trichy",200,164,36,40,40,0,140,104,36,20,20,0,10,10,0,2021-05-05 16:21:48,8939999269.0,Closing LMO = 0.439 KL The Vehicle is expected (to be filled at anytime)
 214,Thiruchirappalli,Dr.G.Viswanathan Hospital Mambalasalai,35,35,0,23,23,0,7,7,0,5,5,0,2,2,0,2021-05-05 18:05:31,9344270185.0,Nil.
 215,Thiruchirappalli,Pankajam Sitaram Nursing Home (A Unit Of GVN Hospital),33,28,5,29,24,5,0,0,0,4,4,0,2,0,2,2021-05-05 17:56:22,9095505550.0,Nil..
-216,Thiruchirappalli,"Sundaram Hospital, Pudhur",56,54,2,36,36,0,10,8,2,10,10,0,4,0,4,2021-05-05 18:23:58,8903679900.0,
+216,Thiruchirappalli,"Sundaram Hospital, Pudhur",56,54,2,36,36,0,10,8,2,10,10,0,4,0,4,2021-05-06 07:24:59,8903679900.0,Nill
 217,Thoothukudi,"Kamala Speciality Hospitals Pvt Ltd, Kovilpatti",21,21,0,14,14,0,4,4,0,3,3,0,1,0,1,2021-05-05 18:43:56,9487576077.0,.
 218,Vellore,Apollo KH Hospital Ranipet,31,21,10,16,10,6,15,11,4,0,0,0,0,0,0,2021-05-05 16:15:59,9500458786.0,
 219,Vellore,Christian Medical College,615,603,12,518,506,12,0,0,0,97,97,0,74,74,0,2021-05-05 11:45:17,9385285970.0,
 220,Vellore,Christian Medical College Kannigipuram campus,56,5,51,56,5,51,0,0,0,0,0,0,0,0,0,2020-11-03 07:34:58,,
 221,Vellore,Sri Narayani Hospital and Research Centre,94,94,0,79,79,0,0,0,0,15,15,0,15,6,9,2021-05-05 09:31:25,7358387146.0,Nil 05.05.2021
-222,Virudhunagar,Meenakshi Memorial Hospital,20,20,0,10,10,0,5,5,0,5,5,0,2,2,0,2021-05-05 15:02:41,9025461813.0,20 - patient Admitted
-223,Virudhunagar,Sri Krishna Hospital,30,29,1,25,25,0,0,0,0,5,4,1,2,0,2,2021-05-05 14:56:33,9159098003.0,Nil
+222,Virudhunagar,Meenakshi Memorial Hospital,20,19,1,10,10,0,5,5,0,5,4,1,2,2,0,2021-05-06 08:00:02,9025461813.0,19 - patient Admitted only
+223,Virudhunagar,Sri Krishna Hospital,30,30,0,25,25,0,0,0,0,5,5,0,2,0,2,2021-05-06 07:53:15,9159098003.0,Nil
 224,Chengalpattu,"Sai Fertility Centre & Hospital, Vedhachalam Nagar",28,19,9,12,12,0,15,6,9,1,1,0,1,0,1,2021-05-05 22:49:59,9380667083.0,05.05.2021 Oxygen Cylinders Management is very difficult.
-225,Dindigul,City Hospital Gandhi Nagar,40,36,4,30,26,4,6,6,0,4,4,0,1,0,1,2021-05-05 15:39:42,9150127822.0,05/05/2021.
+225,Dindigul,City Hospital Gandhi Nagar,40,38,2,30,28,2,6,6,0,4,4,0,1,0,1,2021-05-06 07:39:31,9150127822.0,06/05/2021
 226,Dindigul,"Raja Rajeswari Hospital, Spence Nagar",36,34,2,31,31,0,0,0,0,5,3,2,1,0,1,2021-05-06 06:47:03,8870504662.0,"05/05/2021,,"
 227,Madurai,"Santhya Speciality Hospital, Arappalaiyam Main Road",25,10,15,14,10,4,5,0,5,6,0,6,2,0,2,2021-05-06 06:25:41,6381589553.0,06.05.2021
 228,Ramanathapuram,"Arogya Hospital, Kenikarai",70,60,10,52,50,2,10,10,0,8,0,8,1,0,1,2021-05-05 16:39:52,7810084283.0,No Change
@@ -232,7 +232,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 231,Madurai,Aristo Speciality Hospital Ponmeni,28,28,0,18,18,0,8,8,0,2,2,0,0,0,0,2021-05-05 07:54:30,8940222211.0,updated... 05.05.21
 232,Madurai,"Asirvatham Speciality Hospital, Gandhi Nagar",20,0,20,3,0,3,15,0,15,2,0,2,2,0,2,2021-05-05 17:28:41,9500440696.0,Nil 05.05.2021
 233,Madurai,Bala Hospital Usilampatti,25,25,0,15,15,0,0,0,0,10,10,0,2,0,2,2021-05-05 07:13:12,9443548450.0,25
-234,Madurai,"KJS Speciality Hospital,K.Pudur",20,13,7,4,4,0,10,3,7,6,6,0,1,0,1,2021-05-05 07:59:41,9629373744.0,updated 05.05.2021...
+234,Madurai,"KJS Speciality Hospital,K.Pudur",20,9,11,4,3,1,10,0,10,6,6,0,1,0,1,2021-05-06 07:57:13,9629373744.0,updated 06.05.2021...
 235,Madurai,Nithilaa Nursing Home Palanganatham,17,17,0,17,17,0,0,0,0,0,0,0,2,0,2,2021-05-06 06:00:41,9443744085.0,Covid - 19 patients today updated 06.05.2021. Thanking You !
 236,Madurai,NTC Hospitals Vaithiyanathapuram,30,30,0,5,5,0,0,0,0,25,25,0,2,2,0,2021-05-06 06:27:04,9894208601.0,06.05.2021
 237,Madurai,Raks Hospital Anna Nagar,25,19,6,21,15,6,0,0,0,4,4,0,5,0,5,2021-05-05 09:06:34,9003900364.0,as on 05.05.2021
@@ -243,9 +243,9 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 242,Chengalpattu,"Parvathy Hospital Chrompet,",45,44,1,12,12,0,15,14,1,18,18,0,5,5,0,2021-05-05 17:54:33,7825830723.0,05.05.2021
 243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,2021-05-03 09:51:40,4443229641.0,03.05.2021
 244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,2021-05-05 11:07:59,7010229157.0,05.05.2021
-245,Coimbatore,Atlas Pain Care Sowripalayam,40,25,15,0,0,0,40,25,15,0,0,0,0,0,0,2021-05-05 08:47:12,9865509999.0,04.05.2021
+245,Coimbatore,Atlas Pain Care Sowripalayam,40,28,12,0,0,0,40,28,12,0,0,0,0,0,0,2021-05-06 07:49:17,9865509999.0,06.05.2020
 246,Dindigul,"JCB Hospitals Palani Road,",50,50,0,48,48,0,0,0,0,2,2,0,2,0,2,2021-05-06 06:39:52,9150758413.0,06.05.21
-247,Dindigul,"Shree SathyaSubha Hospital, New Agaraharam",70,67,3,67,67,0,0,0,0,3,0,3,3,0,3,2021-05-05 15:09:21,6381781885.0,05/05/2021
+247,Dindigul,"Shree SathyaSubha Hospital, New Agaraharam",70,67,3,67,67,0,0,0,0,3,0,3,3,0,3,2021-05-06 07:25:16,6381781885.0,06/05/2021
 248,Dindigul,"Van Allen Hospital, Kodaikanal",8,1,7,6,1,5,1,0,1,1,0,1,1,0,1,2021-05-05 15:53:58,6374042759.0,
 249,Kanyakumari,Swamiyarmadam Rathna Memorial Hospital,40,40,0,15,15,0,16,16,0,9,9,0,0,0,0,2021-05-06 07:04:02,9750973290.0,
 250,Krishnagiri,Vijay Sai Health Care Pvt Ltd,51,51,0,51,51,0,0,0,0,0,0,0,0,0,0,2021-05-05 14:14:49,9791938235.0,.
@@ -253,8 +253,8 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 252,Salem,"Universal Cancer Hospital, Kondalampatty",37,32,5,15,12,3,20,20,0,2,0,2,2,0,2,2021-05-05 10:02:45,9842048356.0,
 253,Sivagangai,Devaki Multi Speciality Hospital,29,18,11,23,18,5,0,0,0,6,0,6,1,0,1,2021-05-05 14:45:25,7824950986.0,05-05-2021 03.00PM POSITIVE:18
 254,Sivagangai,Karthick Multi Speciality Hospital,17,0,17,10,0,10,6,0,6,1,0,1,1,0,1,2021-05-05 15:04:34,8883894416.0,05.05.2021 01.00
-255,Thiruchirappalli,"Velan Speciality Hospital, Highways Colony",25,25,0,22,22,0,0,0,0,3,3,0,1,0,1,2021-05-05 18:25:50,7339565444.0,nill.
-256,Thoothukudi,Public Welfare Hospital Kovilpatti,18,14,4,6,6,0,11,7,4,1,1,0,1,0,1,2021-05-05 16:15:53,9080025238.0,Nil.
+255,Thiruchirappalli,"Velan Speciality Hospital, Highways Colony",25,25,0,22,22,0,0,0,0,3,3,0,1,0,1,2021-05-06 07:25:41,7339565444.0,.
+256,Thoothukudi,Public Welfare Hospital Kovilpatti,18,14,4,6,6,0,11,7,4,1,1,0,1,0,1,2021-05-06 07:56:32,9080025238.0,Nil
 257,Chennai,"Medway Women Centre, Kodambakkam",30,30,0,26,26,0,0,0,0,4,4,0,4,4,0,2021-05-05 10:03:13,7299057877.0,05-05-2021
 258,Dindigul,"K T Hospitals, Palani Bye pass Junction",95,75,20,60,43,17,15,15,0,20,17,3,5,0,5,2021-05-05 15:11:17,9344222202.0,05.05.2021
 259,Madurai,"Raksha Hospital, Anna Nagar",10,0,10,2,0,2,4,0,4,4,0,4,0,0,0,2021-05-05 08:53:15,8012222833.0,No changes 05.05.2021
@@ -276,12 +276,12 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-06 07:01:32,9443152469.0,
 276,Karur,"ABS Hospital, Thanthonimalai",60,55,5,40,40,0,0,0,0,20,15,5,3,0,3,2021-05-05 14:48:17,8300393424.0,05.05.2021.
 277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",80,80,0,80,80,0,0,0,0,0,0,0,0,0,0,2021-05-05 10:17:33,9655206592.0,Beds Occupied 80
-278,Madurai,"BGM Hospital, Iyer Bungalow",32,14,18,12,7,5,17,7,10,3,0,3,1,0,1,2021-05-05 09:49:21,9047075271.0,05.05.2021
+278,Madurai,"BGM Hospital, Iyer Bungalow",32,14,18,12,7,5,17,7,10,3,0,3,1,0,1,2021-05-06 08:02:22,9047075271.0,06.05.2021
 279,Madurai,"Dr.Chidambaram Memorial Hospital, Jai Hind puram",15,15,0,15,15,0,0,0,0,0,0,0,0,0,0,2021-05-05 07:24:35,8122486160.0,05.05.2021 at UPDATED..
 280,Madurai,"Gowri Nursing Home, Jeeva Nagar",27,15,12,15,15,0,12,0,12,0,0,0,0,0,0,2021-05-05 07:23:02,9944458354.0,Update 0 05..05. 2021...
-281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",15,9,6,10,6,4,0,0,0,5,3,2,3,2,1,2021-05-05 16:07:14,9943450401.0,ADMISSION - 1 DISCHARGE - 1.
-282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",33,20,13,5,2,3,5,0,5,23,18,5,8,2,6,2021-05-06 06:39:37,9003900349.0,06-05-2021
-283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",15,0,15,15,0,15,0,0,0,0,0,0,0,0,0,2021-05-05 16:33:45,9159999914.0,Nil
+281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",15,9,6,10,6,4,0,0,0,5,3,2,3,2,1,2021-05-06 07:25:51,9943450401.0,ADMISSION - 1 DISCHARGE - 1..
+282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",33,20,13,5,2,3,5,0,5,23,18,5,8,2,6,2021-05-06 07:38:19,9003900349.0,06-05-2021
+283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",15,0,15,15,0,15,0,0,0,0,0,0,0,0,0,2021-05-06 07:54:12,9159999914.0,
 284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,2021-05-05 16:40:58,9443190986.0,No Change
 285,Salem,"Geeth Raghunath Hospital, Attur",40,31,9,36,31,5,0,0,0,4,0,4,2,0,2,2021-05-05 18:30:46,9842750556.0,grand total - 31
 286,Salem,"Karthik Medical Centre, Idappadi",22,19,3,16,16,0,6,3,3,0,0,0,1,0,1,2021-05-05 16:43:44,9600380076.0,
@@ -292,13 +292,13 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 291,Thanjavur,Our Lady Hospital,59,57,2,20,20,0,30,30,0,9,7,2,2,0,2,2021-05-05 15:55:15,8489906295.0,Total positive case - 35 Total sari case - 22
 292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,27,13,25,18,7,10,7,3,5,2,3,3,2,1,2021-05-06 06:35:04,9942104455.0,27 patients.
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-06 06:41:45,8870011952.0,may 6
-294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-05 14:56:25,9443328375.0,04.05.2021 Evening
-295,Theni,"Nalam Hospital, Allinagaram",15,11,4,12,10,2,3,1,2,0,0,0,0,0,0,2021-05-05 14:53:33,8870007450.0,05.05.2021 Evening report
+294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-06 07:58:20,9443328375.0,06.05.2021
+295,Theni,"Nalam Hospital, Allinagaram",15,11,4,12,10,2,3,1,2,0,0,0,0,0,0,2021-05-06 07:44:08,8870007450.0,06.05.2021 morning report
 296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,3,12,2,0,2,11,2,9,2,1,1,1,0,1,2021-05-05 17:11:14,9003398211.0,Evening update
-297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-05 14:58:37,9361917118.0,05.05.2021 Evening
-298,Tirunelveli,"Royal Hospital, NGO Colony",14,14,0,11,11,0,0,0,0,3,3,0,3,3,0,2021-05-05 16:39:01,9487057857.0,.
-299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",57,43,14,29,29,0,17,3,14,11,11,0,3,0,3,2021-05-05 19:03:15,8946079430.0,40 positive and 3 suspected cases
-300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,15,0,6,6,0,8,8,0,1,1,0,1,0,1,2021-05-05 18:21:40,9865779707.0,nill.
+297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-06 07:59:52,9361917118.0,06.05.2021
+298,Tirunelveli,"Royal Hospital, NGO Colony",14,14,0,11,11,0,0,0,0,3,3,0,3,3,0,2021-05-06 07:34:35,9487057857.0,
+299,Tirunelveli,"Sudharson Platinum Hospitals, Vannarpettai",57,48,9,29,29,0,17,8,9,11,11,0,3,0,3,2021-05-06 07:45:29,8946079430.0,40 positive and 8 suspected cases .
+300,Thiruchirappalli,"Athma Hospitals, Thillai Nagar",15,15,0,6,6,0,8,8,0,1,1,0,1,0,1,2021-05-06 07:24:13,9865779707.0,
 301,Thiruchirappalli,Kavi Hospital & Neuro Foundation,30,27,3,24,23,1,4,4,0,2,0,2,2,0,2,2021-05-05 17:51:53,9843005288.0,NIL.
 302,Thiruchirappalli,Mangalam Hospital,14,9,5,11,6,5,3,3,0,0,0,0,6,0,6,2021-05-05 17:27:40,9092829992.0,nil..
 303,Thiruchirappalli,MMM Multi Speciality Hospital,20,0,20,15,0,15,0,0,0,5,0,5,1,0,1,2021-05-05 17:53:03,9600340430.0,Update done..
@@ -307,15 +307,15 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,2,2,0,2021-05-05 18:20:50,9842011199.0,NIL
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",27,27,0,15,15,0,8,8,0,4,4,0,1,1,0,2021-05-05 21:33:26,9443141811.0,RT-PCR positive Cases: 22 Suspected SARI Cases: 5
 308,Thoothukudi,"City Hospital, Tuticorin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-21 09:02:18,,Temporarily stopped as per JDHS Instruction.
-309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,5,1,11,11,0,5,0,5,1,0,1,2021-05-05 23:28:29,9489659868.0,06.05.2021.
+309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,5,1,11,11,0,5,0,5,1,0,1,2021-05-06 07:49:01,9489659868.0,06.05.2021.
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,13,3,13,13,0,0,0,0,3,0,3,0,0,0,2021-05-05 16:50:51,9442130965.0,
-311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-05 15:44:00,8220705749.0,3:00PM
+311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-06 07:56:30,8220705749.0,.
 312,Virudhunagar,"VVVNC, Chatrarediapatti",40,26,14,20,11,9,0,0,0,20,15,5,1,0,1,2021-05-06 07:16:57,9940757475.0,
 313,Chennai,Dr. Mehtas Hospital,102,102,0,82,82,0,10,10,0,10,10,0,4,4,0,2021-05-05 09:14:59,9840080449.0,Updated on 05/05/2021
-314,Tirunelveli,Shifa Hospital,90,88,2,58,57,1,20,19,1,12,12,0,5,5,0,2021-05-05 16:41:58,9952795456.0,Updated 05/05/2021
-315,Chennai,Annai Multispeciality Hospital,25,21,4,10,8,2,7,5,2,8,8,0,4,4,0,2021-05-06 06:54:37,7092820884.0,05/05/2021 Covid care helpline - 8778501016/9894686088 ..
+314,Tirunelveli,Shifa Hospital,90,76,14,58,48,10,20,17,3,12,11,1,5,5,0,2021-05-06 07:56:20,9952795456.0,Updated 06/05/2021
+315,Chennai,Annai Multispeciality Hospital,25,21,4,10,8,2,7,5,2,8,8,0,4,4,0,2021-05-06 07:56:45,7092820884.0,06/05/2021 Covid care helpline - 8778501016/9894686088 ..
 316,Thiruchirappalli,Royal Pearl Hospital,15,0,15,10,0,10,3,0,3,2,0,2,2,0,2,2021-05-05 18:26:56,8300244928.0,NIL
-317,Mayiladuthurai,Vishnu hospital,15,11,4,6,6,0,6,5,1,3,0,3,1,0,1,2021-05-05 17:01:37,9489858034.0,
+317,Mayiladuthurai,Vishnu hospital,15,9,6,6,5,1,6,4,2,3,0,3,1,0,1,2021-05-06 07:55:38,9489858034.0,Nil
 318,Sivagangai,Apollo,50,27,23,30,17,13,15,5,10,5,5,0,0,0,0,2021-05-05 14:51:46,7397591935.0,"Updated 5.5.2021@4AM [positive 15,negative,12"
 319,Sivagangai,Senthil hospital,70,67,3,45,45,0,13,13,0,12,9,3,4,0,4,2021-05-05 14:49:41,8012519266.0,Covid Positive : 32 Suspected :35 Updated Updated UPDATED Updated updated updated UPDATED
 320,Chengalpet,KMS Health Centre,25,25,0,15,15,0,7,7,0,3,3,0,1,1,0,2021-05-05 17:02:24,9791197514.0,05May21 5.00 pm
@@ -325,7 +325,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 324,Kanyakumari,"Joseph Sahayam Speciality Hospital, Nagerkoil",68,3,65,31,0,31,31,3,28,6,0,6,4,0,4,2021-05-06 07:05:42,9566301338.0,
 325,Kanyakumari,"Thasiah Medical centre, Marthandam",30,7,23,13,4,9,7,3,4,10,0,10,2,0,2,2021-05-06 07:06:43,9952249470.0,.
 326,Thanjavur,"MVK Hospital, Thanjavur",30,30,0,10,10,0,5,5,0,15,15,0,2,0,2,2021-05-06 06:46:02,9566201833.0,patients all are stables
-327,Thanjavur,Vinodhagan Memorial Hospital,55,54,1,20,20,0,30,30,0,5,4,1,2,0,2,2021-05-06 06:38:36,4362234885.0,Updated 06/05/2021.
+327,Thanjavur,Vinodhagan Memorial Hospital,55,43,12,20,11,9,30,28,2,5,4,1,2,0,2,2021-05-06 07:49:34,4362234885.0,Updated 06/05/2021.
 328,Coimbatore,"Chennai Hospitals Pvt Ltd, Gandhipuram",37,0,37,37,0,37,0,0,0,7,0,7,0,0,0,2020-12-10 09:08:46,,Report Submitted 10.12.2020
 329,Coimbatore,"CSR Nursing Home, Gandhipuram",41,41,0,14,14,0,26,26,0,1,1,0,1,1,0,2021-05-05 17:49:29,8300128777.0,COVID CARE CENTER
 330,Coimbatore,"Dr.Muthus Hospital, Saravanampatti",120,120,0,80,80,0,0,0,0,40,40,0,29,29,0,2021-05-05 07:02:08,8012312000.0,05/05/2021
@@ -345,23 +345,23 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 344,Erode,"Erode multispeciality Hospital, Erode",25,25,0,2,2,0,20,20,0,3,3,0,2,0,2,2021-05-05 09:41:02,8248930767.0,NO
 345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,13,47,4,1,3,56,12,44,0,0,0,0,0,0,2021-05-05 18:04:15,9500967789.0,updated 05.05.2021
 346,Karur,"Abishek Hospital, Karur Tn.",20,16,4,15,11,4,5,5,0,0,0,0,0,0,0,2021-05-05 16:25:51,9790555151.0,05-05-2021
-347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",40,36,4,21,21,0,11,7,4,8,8,0,4,4,0,2021-05-05 17:31:56,9629492325.0,Report submitted on 05.05.2021 at 05:31 Pm
+347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",40,35,5,21,21,0,11,6,5,8,8,0,4,4,0,2021-05-06 07:34:07,9629492325.0,Report submitted on 06.05.2021
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",40,39,1,35,34,1,0,0,0,5,5,0,1,0,1,2021-05-06 07:12:16,9942251163.0,REPORT SUBMITTED ON 06.05.2021 at 7:10AM
 349,Karur,"GC Hospital, Karur Tn.",15,9,6,10,7,3,4,2,2,1,0,1,1,0,1,2021-05-05 15:54:38,9659974311.0,05.05.2021 -3.55 pm
 350,Chennai,"Vivekananda Hospital,mylapore",40,40,0,20,20,0,10,10,0,10,10,0,2,2,0,2021-05-05 03:11:16,7200648296.0,05-05-21
-351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,14,0,12,12,0,0,0,0,2,2,0,2,2,0,2021-05-05 07:16:50,9940632392.0,05/05/2021
+351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,14,0,12,12,0,0,0,0,2,2,0,2,2,0,2021-05-06 07:34:40,9940632392.0,06/05/2021
 352,Chengalpattu,AAYUSHMAAN HOLISTIC HEALTH CENTRE,30,30,0,5,5,0,25,25,0,0,0,0,0,0,0,2021-05-05 11:16:35,9962331777.0,05-05-2021
 353,Kanyakumari,"Catherinebooth hospital,Nagercoil",55,36,19,21,10,11,28,26,2,6,0,6,1,0,1,2021-05-06 07:07:14,9442282220.0,.
 354,Tenkasi,"Mathura Hospital, Surandai",8,0,8,0,0,0,8,0,8,0,0,0,1,0,1,2021-05-05 15:56:22,9486285464.0,
 355,Chennai,"K.M Speciality Hospital, K.K Nagar",22,22,0,13,13,0,9,9,0,0,0,0,0,0,0,2021-05-05 16:35:46,9944903256.0,(05/5/2021) evening
-356,Tiruvallur,SKS HOSPITAL,15,15,0,12,12,0,0,0,0,3,3,0,1,0,1,2021-05-05 08:06:47,9841091403.0,05.05.2021
+356,Tiruvallur,SKS HOSPITAL,15,15,0,12,12,0,0,0,0,3,3,0,1,0,1,2021-05-06 08:02:51,9841091403.0,06.05.2021
 357,Thiruvarur,"P.K.T Nursing Home, Thiruthuraipoondi",15,0,15,15,0,15,0,0,0,4,0,4,0,0,0,2021-04-26 18:12:05,,updated 21.04.2021
 358,Dindigul,Vadamalayan Hospital,75,37,38,57,32,25,9,0,9,9,5,4,5,4,1,2021-05-05 15:59:01,9444444534.0,updated 05.05.21 4pm
 359,Chennai,"MOHAN NURSING HOME, VILLIVAKKAM",8,0,8,4,0,4,4,0,4,0,0,0,0,0,0,2021-05-05 11:34:05,9976819987.0,04:05:2021
 360,Chennai,"Best Hospitals,Kodambakkam",40,37,3,14,14,0,25,22,3,1,1,0,2,0,2,2021-05-05 19:23:15,9677050567.0,05.05.2021
 361,Thiruvarur,"Raj Hospital, Mannargudi",20,19,1,10,10,0,10,9,1,0,0,0,0,0,0,2021-05-05 08:19:30,9487701007.0,05.05.2021
 362,Chengalpattu,"Kasthuri Hospital , Thambaram",32,32,0,29,29,0,0,0,0,3,3,0,3,0,3,2021-05-05 17:04:17,7299009287.0,"05-05-2021, 04:00 PM"
-363,Chennai,"Sri Singhvi Health Centre, Purasaivakkam",20,20,0,15,15,0,5,5,0,0,0,0,0,0,0,2021-05-05 08:07:41,7871081082.0,05.05.2021
+363,Chennai,"Sri Singhvi Health Centre, Purasaivakkam",20,20,0,15,15,0,5,5,0,0,0,0,0,0,0,2021-05-06 07:51:56,7871081082.0,06.05.2021
 364,Namakkal,Visaalam Hospital,55,38,17,14,11,3,40,27,13,1,0,1,1,0,1,2021-05-06 07:18:45,8072734246.0,Report Submitted 06.05.2021
 365,Krishnagiri,"Gunam super speciality hospital,Hosur",71,71,0,10,10,0,61,61,0,0,0,0,0,0,0,2021-05-05 10:32:18,9566652143.0,nill
 366,Salem,Sree jeyam ortho & multispeciality Hospital,40,40,0,10,10,0,20,20,0,10,10,0,0,0,0,2021-05-05 10:08:01,9597982434.0,05/05/21
@@ -369,7 +369,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 368,Vellore,Naruvi Hospitals(A Unit of m/s.Sanco ),196,196,0,169,169,0,0,0,0,27,27,0,27,8,19,2021-05-05 15:48:55,8754016970.0,updated on 05/05/2021 at 3:48pm
 369,Krishnagiri,Nathan’s Speciality Hospital,30,28,2,20,19,1,10,9,1,0,0,0,1,1,0,2021-05-05 10:08:56,8248586758.0,NIL nil. NIL
 370,Chennai,"Sudha Hospital, Royapuram",8,8,0,6,6,0,0,0,0,2,2,0,1,1,0,2021-05-05 13:30:13,9444031230.0,05/05/2021 at 1 PM
-371,Tirunelveli,Peace Health Centre,24,24,0,11,11,0,7,7,0,6,6,0,2,2,0,2021-05-05 16:00:17,8754950234.0,Today 05.05.21 4.00pm
+371,Tirunelveli,Peace Health Centre,24,24,0,11,11,0,7,7,0,6,6,0,2,2,0,2021-05-06 07:35:36,8754950234.0,Today 6.05.21 8 .00am
 372,Chennai,Jolen Hospital,22,22,0,8,8,0,10,10,0,4,4,0,0,0,0,2021-05-04 17:34:05,7305855991.0,04/05/2021
 373,Chennai,Sen Hospital,25,25,0,19,19,0,0,0,0,6,6,0,2,0,2,2021-05-05 17:12:36,9600899382.0,
 374,Chennai,"st. Isabels hospital, Maylapore",98,60,38,67,30,37,23,23,0,8,7,1,4,3,1,2021-05-05 16:19:57,9585965330.0,Positive cases- 60
@@ -382,10 +382,10 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 381,Karur,Nachimuthu hospital,20,20,0,16,16,0,0,0,0,4,4,0,1,0,1,2021-05-06 06:52:54,9566854364.0,06.05.2021
 382,Virudhunagar,Amar hospital,41,41,0,36,36,0,0,0,0,5,5,0,2,0,2,2021-05-05 14:41:44,8608638184.0,05/05/2021 02.41 Pm
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",5,5,0,0,0,0,5,5,0,0,0,0,0,0,0,2021-05-03 06:35:32,9443230269.0,
-384,Tirunelveli,VJ Hospital,28,28,0,15,15,0,8,8,0,5,5,0,5,5,0,2021-05-05 16:37:44,9843604611.0,28 Active cases
+384,Tirunelveli,VJ Hospital,28,28,0,15,15,0,8,8,0,5,5,0,5,5,0,2021-05-06 07:35:48,9843604611.0,28 Active cases
 385,Thiruchirappalli,Atlas Hospital,40,25,15,28,16,12,2,2,0,10,7,3,1,1,0,2021-05-05 18:29:06,7092980125.0,NIL
-386,Tiruppur,Velan Hospital,30,27,3,18,17,1,4,2,2,8,8,0,3,0,3,2021-05-05 16:17:10,8248725224.0,Nill
-387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,12,16,4,4,0,14,4,10,10,4,6,5,2,3,2021-05-05 15:53:09,9965534490.0,05.05.2021 at 04.00pm
+386,Tiruppur,Velan Hospital,30,24,6,18,14,4,4,2,2,8,8,0,3,0,3,2021-05-06 07:53:56,8248725224.0,Nill
+387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,12,16,4,4,0,14,4,10,10,4,6,5,2,3,2021-05-06 07:59:54,9965534490.0,06.05.2021
 388,Chennai,Be well hospital T.Nagar,19,18,1,19,18,1,0,0,0,0,0,0,0,0,0,2021-04-27 15:20:34,7550203865.0,
 389,Chennai,Vijai's Nursing home,25,25,0,15,15,0,5,5,0,5,5,0,0,0,0,2021-05-05 11:04:51,8822882285.0,9 AM
 390,Chennai,Prime Indian Hospitals,19,19,0,10,10,0,7,7,0,2,2,0,0,0,0,2021-04-28 09:55:58,9941011680.0,
@@ -422,7 +422,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 421,Chengalpattu,"Lakshmi Nursing Home, Pallavaram",17,12,5,17,12,5,0,0,0,0,0,0,1,0,1,2021-05-05 09:18:47,8939633433.0,
 422,Chennai,"Leela Specialty Hospital,Tiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:13:20,,
 423,Kancheepuram,Mahalakshmi Multispecialty Hospital,45,45,0,37,37,0,3,3,0,5,5,0,4,4,0,2021-05-05 12:14:13,8610485027.0,
-424,Chennai,"Nagamani Hospital,Old Washermenpet",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-05-05 09:47:47,9884661464.0,
+424,Chennai,"Nagamani Hospital,Old Washermenpet",20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-05-06 07:24:44,9884661464.0,
 425,Chennai,Nalam Hospital Pvt Ltd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:15:34,,
 426,Chennai,"Oxymed Hospital,Nandanam",20,20,0,14,14,0,0,0,0,6,6,0,0,0,0,2021-05-05 14:28:40,9840834352.0,"05.05.2021 , NO BEDS AVAILABLE"
 427,Chennai,"Pavithra Hospital Pvt Ltd,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 13:17:03,,
@@ -445,12 +445,12 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 444,Madurai,"Thavam Hospital, K.Pudhur",15,12,3,6,5,1,6,6,0,3,1,2,0,0,0,2021-05-06 01:04:09,6381046461.0,
 445,Tiruppur,"Vel Hospital, Dharapuram",25,9,16,4,0,4,19,8,11,2,1,1,2,1,1,2021-05-05 16:34:57,8610931703.0,Nil
 446,Tiruppur,"Vel Hospital,Udumalpet",20,20,0,5,5,0,12,12,0,3,3,0,2,0,2,2021-05-05 16:05:03,9751766002.0,nil
-447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,0,1,2021-05-05 07:42:18,9003401778.0,05.05.2021
+447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,0,1,2021-05-06 07:50:39,9003401778.0,06.05.2021
 448,Madurai,"Vikram Multispeciality hospital, Madurai",40,30,10,16,16,0,9,5,4,15,9,6,2,0,2,2021-05-05 17:44:52,9150891207.0,
 449,Chennai,"Westminster HealthCare,Nungambakkam",10,10,0,8,8,0,0,0,0,2,2,0,0,0,0,2021-05-05 17:53:14,7550045100.0,Pt are stable
 450,Chennai,"Ashwin Fed Specialty Hospital, Anna Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-22 16:02:59,,
-451,Tiruppur,"Bala Ortho Hospital, Dharapuram",37,27,10,22,22,0,9,5,4,6,0,6,3,0,3,2021-05-05 18:18:42,9843859353.0,nO
-452,Madurai,"Iswarya Fertility Services Pvt Ltd,Ellis Nagar",10,2,8,3,2,1,4,0,4,3,0,3,0,0,0,2021-05-05 16:11:21,8883306695.0,2 patients under admission under oxygen support..
+451,Tiruppur,"Bala Ortho Hospital, Dharapuram",37,27,10,22,22,0,9,5,4,6,0,6,3,0,3,2021-05-06 07:24:49,9843859353.0,Null
+452,Madurai,"Iswarya Fertility Services Pvt Ltd,Ellis Nagar",10,2,8,3,2,1,4,0,4,3,0,3,0,0,0,2021-05-06 07:23:54,8883306695.0,2 patients under admission under oxygen support.
 453,Chennai,"Hindu Mission Hospital,Tambaram",120,120,0,91,91,0,21,21,0,8,8,0,8,8,0,2021-05-05 12:45:19,9500065664.0,May 5th bed status is nil as of 12pm
 454,Salem,"Deepam Hospital,Salem",45,40,5,20,20,0,21,16,5,4,4,0,0,0,0,2021-05-05 17:29:04,6384003000.0,
 455,Tiruvallur,RIMS Hospital,48,41,7,43,36,7,0,0,0,5,5,0,4,3,1,2021-05-05 09:07:58,6383183388.0,
@@ -460,7 +460,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 459,Theni,Krishnammal Memorial hospital.,30,19,11,20,19,1,5,0,5,5,0,5,0,0,0,2021-05-05 14:12:57,9786629040.0,Ok
 460,Tiruppur,Sri Kumaran Hospital,98,98,0,68,68,0,20,20,0,10,10,0,2,2,0,2021-05-05 16:17:34,9842399300.0,nill
 461,Theni,NRT hospital,50,25,25,20,15,5,20,3,17,10,7,3,3,0,3,2021-05-05 14:42:36,9894447717.0,Evening update
-462,Coimbatore,Manu Hospital,36,26,10,32,26,6,0,0,0,4,0,4,0,0,0,2021-05-05 15:40:04,9789324445.0,
+462,Coimbatore,Manu Hospital,36,27,9,32,27,5,0,0,0,4,0,4,0,0,0,2021-05-06 08:01:16,9789324445.0,
 463,Chennai,"Aditya Kamaraja Hospital Pvt Ltd,Virugambakkam",15,15,0,10,10,0,3,3,0,2,2,0,0,0,0,2021-05-05 16:08:19,8015101809.0,
 464,Salem,"Appu Venkatachalam Medical Research Centre (P) Ltd, Kattur",20,11,9,12,8,4,6,3,3,2,0,2,0,0,0,2021-05-05 11:35:39,9894940904.0,NIL
 465,Thiruchirappalli,Assured Best Care Hospital(P) Ltd (ABC Hospital) Annamalai Nagar,32,18,14,19,9,10,9,5,4,4,4,0,0,0,0,2021-05-05 16:25:48,9655240724.0,Nil....
@@ -489,7 +489,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 488,Thiruchirappalli,"SMS Hospital,Salai Road",41,25,16,21,16,5,14,7,7,6,2,4,3,1,2,2021-05-05 16:06:33,9750958305.0,"Dr.N. Duraisamy MD.,DM., 9842465414 (Chairman)...."
 489,Ariyalur,"SR Hospital,Ariyalur",10,3,7,0,0,0,5,0,5,5,3,2,1,0,1,2021-05-05 10:33:54,9361362038.0,Nil.
 490,Thiruchirappalli,Sri Kumaran Hospital Manapparai,30,7,23,10,2,8,14,5,9,6,0,6,2,0,2,2021-05-06 06:10:38,9003772250.0,nill
-491,Karur,"Sri Rathina Hospital,Muthu Nagar",9,9,0,5,5,0,0,0,0,4,4,0,0,0,0,2021-05-05 14:44:34,9047077345.0,05/05/2021..
+491,Karur,"Sri Rathina Hospital,Muthu Nagar",9,9,0,5,5,0,0,0,0,4,4,0,0,0,0,2021-05-06 07:47:08,9047077345.0,06/05/2021..
 492,Salem,"Sundaram Multispecialty Hospital,Salem",15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-05 09:21:24,8807661168.0,Nill
 493,Coimbatore,"V.G Hospital,Thudiyalur",20,20,0,6,6,0,12,12,0,2,2,0,0,0,0,2021-05-05 07:48:55,9894288514.0,05.05.2021
 494,TheNilgiris,"Shiva Shakthi Hospital,Udagamandalam",8,0,8,4,0,4,4,0,4,0,0,0,0,0,0,2021-05-05 19:03:39,9486253427.0,
@@ -498,12 +498,12 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 497,Virudhunagar,MSB Hospital,12,9,3,9,8,1,0,0,0,3,1,2,1,0,1,2021-05-06 07:18:12,9842717831.0,
 498,Chennai,"New Life Hospital,Rajakilpakkam",10,8,2,10,8,2,0,0,0,0,0,0,3,1,2,2021-05-04 16:42:15,6385816255.0,
 499,Tiruppur,"Sakthi Nursing Home,Tiruppur",35,35,0,22,22,0,10,10,0,3,3,0,0,0,0,2021-05-05 16:24:51,9597413083.0,nil
-500,Virudhunagar,"Sri Ram Hospital - Sugasthala,Aruppukottai",7,5,2,5,5,0,0,0,0,2,0,2,1,0,1,2021-05-05 14:52:41,9443961888.0,NIL
+500,Virudhunagar,"Sri Ram Hospital - Sugasthala,Aruppukottai",7,5,2,5,5,0,0,0,0,2,0,2,1,0,1,2021-05-06 08:01:11,9443961888.0,NIL
 501,Chennai,"Kasthuri Hospital,West Tambaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-30 16:21:06,,
-502,Tiruppur,OMS Hospital Tiruppur,50,46,4,10,10,0,32,28,4,8,8,0,2,2,0,2021-05-05 10:48:02,8586894306.0,
+502,Tiruppur,OMS Hospital Tiruppur,50,46,4,10,10,0,32,28,4,8,8,0,2,2,0,2021-05-06 07:40:31,8586894306.0,Contact Dr.V.Aruljothi for admission
 503,Tiruppur,Malarpriya Hospital,25,8,17,8,5,3,12,2,10,5,1,4,3,1,2,2021-05-05 11:04:57,9626264800.0,Nil
 504,Erode,"Veena hospital, nasiyanur",50,43,7,30,27,3,10,6,4,10,10,0,2,2,0,2021-05-05 05:30:29,9952493428.0,
-505,Erode,"Abirami Kidney Care Dr.Thangavelu Hospital, Brough Road",30,26,4,10,10,0,13,9,4,7,7,0,3,3,0,2021-05-05 16:20:55,9500794485.0,05.05.2021
+505,Erode,"Abirami Kidney Care Dr.Thangavelu Hospital, Brough Road",50,43,7,0,0,0,43,36,7,7,7,0,3,3,0,2021-05-06 07:32:29,9500794485.0,06.05.2021
 506,Thiruchirappalli,"Aiyshwariya Hospital, Woraiyur",20,6,14,13,4,9,2,0,2,5,2,3,1,0,1,2021-05-05 18:30:39,9791498865.0,nil.
 507,Chennai,"Anand Hospital,Manali",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:45:29,,
 508,Chennai,"Anbu Hospital, Velachery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:48:05,,
@@ -512,16 +512,16 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 511,Tiruvannamalai,"Arunai Hospital,Thenmathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:51:58,,
 512,Chennai,"AVS Cardiac Centre,Triplicane",13,11,2,6,5,1,2,2,0,5,4,1,0,0,0,2021-05-03 16:20:06,9965530302.0,
 513,Chennai,"B.M Hospital,Nanganallur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:53:14,,
-514,Erode,"Bewell Hospitals, Gandhiji Road",23,21,2,8,8,0,13,11,2,2,2,0,1,0,1,2021-05-05 16:57:41,9445882236.0,nil
+514,Erode,"Bewell Hospitals, Gandhiji Road",23,21,2,8,8,0,13,11,2,2,2,0,1,0,1,2021-05-06 07:30:58,9445882236.0,Nil
 515,Erode,"C.K.Hospital, Balasubbrayalu Street",30,18,12,10,6,4,20,12,8,0,0,0,0,0,0,2021-05-06 07:04:59,9994500470.0,nil
 516,Chennai,"Care and Cure Speciality Hospital,Ayanavaram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 19:55:52,,
 517,Tiruvallur,"Chennai Health Foundation, Ambatur",32,26,6,26,23,3,4,1,3,2,2,0,0,0,0,2021-05-06 03:09:49,9094762761.0,06/05/2021
 518,Chennai,"Chennai National Hospital,Ernavoor",15,15,0,13,13,0,0,0,0,2,2,0,2,2,0,2021-05-05 08:08:06,9840874528.0,
-519,Erode,"CSI Hospital, Brough Road",50,44,6,15,13,2,30,30,0,5,1,4,0,0,0,2021-05-05 13:28:34,9095294663.0,NIL
+519,Erode,"CSI Hospital, Brough Road",50,48,2,15,14,1,30,30,0,5,4,1,0,0,0,2021-05-06 07:26:57,9095294663.0,nil
 520,Karur,"Deepa Kannan Hospital, Muthu Nagar",15,14,1,5,4,1,9,9,0,1,1,0,1,0,1,2021-05-05 15:59:14,9047785417.0,05.05.2021
 521,Chennai,"Dr.Shahs Clinic,T.Nagar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:05:47,,
 522,Chennai,"DRJ Hospitals(P) Ltd,Kolathur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:07:27,,
-523,Erode,"Erode Emergency Care Hospital, Veerappampalayam",30,26,4,20,20,0,10,6,4,0,0,0,0,0,0,2021-05-05 16:11:31,9842730574.0,nil
+523,Erode,"Erode Emergency Care Hospital, Veerappampalayam",30,27,3,20,20,0,10,7,3,0,0,0,0,0,0,2021-05-06 07:32:17,9842730574.0,nil
 524,Chennai,"Eswar Medical Foundation, Kolathur",11,10,1,7,7,0,2,1,1,2,2,0,2,2,0,2021-05-04 11:52:28,9843182112.0,04.05.2021 11.50 AM
 525,Tirunelveli,"Gold Child & Chest Hospital,Vannarpettai",13,2,11,13,2,11,0,0,0,0,0,0,0,0,0,2021-05-06 07:12:16,9488071754.0,11 beds vacant..(06/05/21)
 526,Chennai,"K.C.Hospital, Avadi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:11:15,,
@@ -549,7 +549,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 548,Erode,"Senthil Multi Speciality Hospital, Perundurai Road",25,25,0,15,15,0,7,7,0,3,3,0,2,2,0,2021-05-06 06:50:44,9043165444.0,nil
 549,Chennai,"SenthilPriya Hospital,Teynampet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:33:56,,
 550,Krishnagiri,"Shree Arunachala Hospital,Krishnagiri",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:34:37,,
-551,Chennai,"Sri Pooja Maternity Clinic, Kodungaiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-02 21:42:49,8778979336.0,
+551,Chennai,"Sri Pooja Maternity Clinic, Kodungaiyur",5,4,1,4,4,0,1,0,1,0,0,0,0,0,0,2021-05-06 07:50:00,8778979336.0,
 552,Tiruvallur,"Sri Sundharsanam Hospital, Avadi",13,13,0,12,12,0,0,0,0,1,1,0,1,0,1,2021-05-05 15:45:37,8754265555.0,No Vacant.
 553,Chennai,"Srushti Hospital, Ramapuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:37:43,,
 554,Krishnagiri,"St.Peter’s Medical College Hospital & Research Institute, Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:38:43,,
@@ -562,7 +562,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 561,Chennai,"Vasantha Hospital, Thiruvottiyur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:45:13,,
 562,Kanyakumari,"Vijayakumar Hospital,Swamiyarmadam",22,6,16,6,0,6,11,3,8,5,3,2,3,0,3,2021-05-06 07:09:48,9442928648.0,.
 563,Kanyakumari,"William Hospital,Nagercoil",10,10,0,9,9,0,0,0,0,1,1,0,0,0,0,2021-05-06 07:10:19,9443331977.0,.
-564,Chennai,"Singhvi Health Center, Mint Street",10,10,0,8,8,0,2,2,0,0,0,0,0,0,0,2021-05-05 08:17:36,9962618755.0,05.05.2021
+564,Chennai,"Singhvi Health Center, Mint Street",10,10,0,8,8,0,2,2,0,0,0,0,0,0,0,2021-05-06 07:53:23,9962618755.0,06.05.2021
 565,Madurai,"Hannah Joseph Hospital Pvt Ltd, Chinthamani",75,65,10,23,23,0,35,25,10,17,17,0,10,10,0,2021-05-05 17:08:38,9385353352.0,No new admissions..
 566,Chennai,"M/s Apollo Hospitals, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-03 14:05:27,,
 567,Chennai,"Anjakha Hospital, Madipakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-03 14:08:45,,
