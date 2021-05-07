@@ -1,6 +1,6 @@
 S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant,OXYGEN SUPPORTED BEDS Total,OXYGEN SUPPORTED BEDS Occupied,OXYGEN SUPPORTED BEDS Vacant,NON-OXYGEN SUPPORTED BEDS Total,NON-OXYGEN SUPPORTED BEDS Occupied,NON-OXYGEN SUPPORTED BEDS Vacant,ICU BEDS Total,ICU BEDS Occupied,ICU BEDS Vacant,VENTILATOR Total,VENTILATOR Occupied,VENTILATOR Vacant,Last updated,Contact Number,Remarks
 1,Ariyalur,A.S Hospital,25,25,0,8,8,0,12,12,0,5,5,0,2,2,0,2021-05-07 09:46:06,0.0,04.05.2021
-2,Ariyalur,Golden Hospital,31,26,5,23,21,2,3,0,3,5,5,0,5,5,0,2021-05-07 18:04:23,9487576493.0,Report on 07.05.2021
+2,Ariyalur,Golden Hospital,31,25,6,23,20,3,3,0,3,5,5,0,5,5,0,2021-05-07 23:28:35,9487576493.0,Report on 08.05.2021
 3,Chengalpattu,Annai Arul Hospital,40,40,0,30,30,0,5,5,0,5,5,0,3,3,0,2021-05-07 09:41:41,4471700700.0,07.05.2021
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,12,12,0,4,4,0,0,0,0,0,0,0,2021-05-07 11:51:32,7358244662.0,07.05.2021
 5,Chengalpattu,Dr. Rela Institute,160,160,0,135,135,0,0,0,0,25,25,0,10,10,0,2021-05-07 07:44:41,4466667777.0,07-5-21
@@ -174,7 +174,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 173,Ramanathapuram,Aasi Multi Speciality Hospital,60,31,29,56,31,25,0,0,0,4,0,4,1,0,1,2021-05-07 15:35:47,7708287735.0,No Change
 174,Ramanathapuram,Kanagamani Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-26 09:09:55,9965281061.0,No Change
 175,Ramanathapuram,Vel Hospital Ramanathapuram,45,45,0,30,30,0,0,0,0,15,15,0,2,0,2,2021-05-07 15:34:10,9487804442.0,No Change
-176,Salem,Annapoorna Medical College and Hospital,120,42,78,25,9,16,90,28,62,5,5,0,5,2,3,2021-05-07 10:29:22,9585938970.0,B
+176,Salem,Annapoorna Medical College and Hospital,120,40,80,25,25,0,90,10,80,5,5,0,5,4,1,2021-05-07 23:06:09,9585938970.0,B
 177,Salem,Dharan Hospital,155,155,0,86,86,0,61,61,0,8,8,0,2,2,0,2021-05-07 10:27:16,9047079990.0,NIL
 178,Salem,"Kauvery Hospital, Salem",50,50,0,40,40,0,0,0,0,10,10,0,5,5,0,2021-05-07 13:43:38,7094337172.0,Nil
 179,Salem,Kurinji Hospital,125,125,0,75,75,0,20,20,0,30,30,0,10,10,0,2021-05-07 10:05:58,7867044355.0,NIL
@@ -272,7 +272,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 271,Coimbatore,"Sree Abirami Hospital, Coimbatore TN.",60,60,0,40,40,0,10,10,0,10,10,0,3,3,0,2021-05-07 09:03:40,9952200057.0,Grand total 60. 07/5/ 2021
 272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
 273,Kancheepuram,"TCS, Sirucherry",40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,2021-05-07 09:37:40,0.0,UPDATED TILL 07/05/2021 09:00AM
-274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,33,7,24,24,0,9,9,0,7,0,7,2,0,2,2021-05-07 15:34:28,9566519491.0,
+274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,40,0,24,24,0,9,9,0,7,7,0,2,0,2,2021-05-07 23:11:05,9566519491.0,
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-07 15:34:04,9443152469.0,07.05.2021.
 276,Karur,"ABS Hospital, Thanthonimalai",80,75,5,55,55,0,0,0,0,25,20,5,3,0,3,2021-05-07 14:16:55,8300393424.0,07.05.2021..
 277,Krishnagiri,"Sri Chandrasekaran Hospital unit -2, Hosur",84,84,0,82,82,0,2,2,0,0,0,0,0,0,0,2021-05-07 10:29:16,9655206592.0,
