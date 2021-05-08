@@ -10,6 +10,11 @@ def beds(url="https://stopcorona.tn.gov.in/beds.php"):
     df = df[0]
     df.columns = [c[0] if c[0] == c[1] else " ".join(c) for c in df.columns]
     df.to_csv(STORE / "beds.csv", index=False)
+    
+    # store JSON version for API
+    with open(STORE / "beds.json", "w") as f:
+        f.write(df.to_json(orient="records"))
+
     # archive hourly
     now = pd.to_datetime('now').tz_localize('UTC').tz_convert('Asia/Calcutta')
     now = now.strftime("%Y-%m-%d--%H")
