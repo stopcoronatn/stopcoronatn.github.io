@@ -154,7 +154,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 153,Namakkal,M.M.Hospital,75,75,0,66,66,0,4,4,0,5,5,0,4,0,4,2021-05-10 16:53:55,9585554551.0,M M HOSPITAL REPORT UPDATE FOR 10.05.2021 05.00 pm
 154,Namakkal,Maharaja Speciality Hospital,35,35,0,26,26,0,5,5,0,4,4,0,2,2,0,2021-05-10 17:23:35,8778642130.0,Report submitted on : 10.05.2021 5.30 PM
 155,Namakkal,Thangam Hospital,50,42,8,24,21,3,16,16,0,10,5,5,1,1,0,2021-05-10 17:03:05,9843230685.0,Submitted on 10.05.2021 at 05.00 PM
-156,Namakkal,Vivekanandha Medical Care Hospital,100,92,8,30,30,0,60,52,8,10,10,0,10,10,0,2021-05-10 14:35:52,9489059104.0,2.35pm
+156,Namakkal,Vivekanandha Medical Care Hospital,100,92,8,30,30,0,60,52,8,10,10,0,10,10,0,2021-05-10 21:00:16,9489059104.0,9pm
 157,TheNilgiris,Ashwini Gudalur Tribal Hospital,12,0,12,4,0,4,8,0,8,0,0,0,0,0,0,2021-05-10 16:04:48,9487257321.0,10/05/21
 158,TheNilgiris,Nankam Hospital,15,15,0,5,5,0,5,5,0,5,5,0,2,0,2,2021-05-10 15:40:38,9488834087.0,10/05/21
 159,TheNilgiris,Sagayamatha Hospital,10,0,10,2,0,2,8,0,8,0,0,0,0,0,0,2021-05-10 15:41:20,9447276304.0,10/5/21
@@ -384,7 +384,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",5,5,0,0,0,0,5,5,0,0,0,0,0,0,0,2021-05-07 16:43:19,9443230269.0,No oxygen supply
 384,Tirunelveli,VJ Hospital,28,28,0,15,15,0,8,8,0,5,5,0,5,5,0,2021-05-10 14:58:31,9843604611.0,28 Active cases..
 385,Thiruchirappalli,Atlas Hospital,40,40,0,26,26,0,8,8,0,6,6,0,1,1,0,2021-05-10 16:12:16,7092980125.0,NIL.
-386,Tiruppur,Velan Hospital,30,23,7,18,15,3,4,0,4,8,8,0,0,0,0,2021-05-10 17:48:43,8248725224.0,Nill
+386,Tiruppur,Velan Hospital,30,24,6,18,16,2,4,0,4,8,8,0,0,0,0,2021-05-10 20:45:09,8248725224.0,Nill
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",28,25,3,4,4,0,14,11,3,10,10,0,5,3,2,2021-05-10 15:41:35,9965534490.0,10.05.2021
 388,Chennai,Be well hospital T.Nagar,19,19,0,19,19,0,0,0,0,0,0,0,0,0,0,2021-05-07 08:46:56,7550203865.0,
 389,Chennai,Vijai's Nursing home,25,25,0,15,15,0,5,5,0,5,5,0,0,0,0,2021-05-06 21:01:13,8822882285.0,4PM
@@ -392,7 +392,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 391,Thanjavur,Dravidian Hospital,40,39,1,31,31,0,0,0,0,9,8,1,1,0,1,2021-05-10 14:43:14,7550372088.0,Sari cases 23  Positive cases 16 UPDATED
 392,Coimbatore,Gem Hospital and Research centre,55,55,0,35,35,0,20,20,0,0,0,0,0,0,0,2021-05-10 10:35:25,9003932323.0,
 393,Coimbatore,"N.M. Hospital, Annur",64,64,0,40,40,0,12,12,0,12,12,0,2,2,0,2021-05-10 10:33:36,9944376111.0,
-394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,2021-05-10 17:27:39,9489059104.0,05.27PM 10.05.2021
+394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,2021-05-10 21:01:01,9489059104.0,9pm
 395,Tiruvallur,"Be well , Ponamallee",35,35,0,15,15,0,20,20,0,0,0,0,0,0,0,2021-05-10 15:17:25,7092937252.0,
 396,Thanjavur,National pharma,50,33,17,10,10,0,35,18,17,5,5,0,2,2,0,2021-05-10 14:40:41,9524241241.0,Positive cases- 18 updated.
 397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,20,5,9,9,0,11,7,4,5,4,1,2,2,0,2021-05-10 13:34:04,9566683380.0,
@@ -467,7 +467,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 466,Chengalpattu,"Christudas Orthopaedic Speciality Hospital,East Tambaram",25,25,0,11,11,0,12,12,0,2,2,0,2,2,0,2021-05-10 10:28:57,9840799398.0,
 467,Thiruchirappalli,"City Medical Center, Thennur",25,9,16,10,6,4,10,3,7,5,0,5,0,0,0,2021-05-10 15:44:16,7397271129.0,alternate number : 9790420251..
 468,Coimbatore,"Coimbatore Child Trust Hospital,Singanallur",25,25,0,7,7,0,16,16,0,2,2,0,2,2,0,2021-05-10 09:54:42,7708682666.0,
-469,Cuddalore,"Cuddalore Specialty Hospital,Manjakuppam",25,25,0,15,15,0,6,6,0,4,4,0,2,0,2,2021-05-10 06:44:26,9543447359.0,As on 10-05-2021 06:45 am all 25 beds occupied
+469,Cuddalore,"Cuddalore Specialty Hospital,Manjakuppam",25,25,0,15,15,0,6,6,0,4,4,0,2,0,2,2021-05-10 21:16:53,9543447359.0,As on 10-05-2021 09:15 pm all 25 beds occupied
 470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,22,0,17,17,0,3,3,0,2,2,0,2,0,2,2021-05-10 15:50:14,9842410780.0,nil...
 471,Thanjavur,"Dr.Vanchilingam Hospital Pvt Ltd,K.S Nagar",18,12,6,8,7,1,7,3,4,3,2,1,0,0,0,2021-05-10 08:47:21,9626425681.0,.
 472,Chennai,"Ezhil Hospital, Tondiarpet",25,18,7,12,9,3,13,9,4,0,0,0,0,0,0,2021-05-10 10:50:56,9444116336.0,7 BEDS AVAILABLE 10-05-2021
