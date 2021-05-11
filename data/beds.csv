@@ -444,7 +444,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 443,Chennai,"Susi Hospital, Thiruvottiyur",15,12,3,8,8,0,5,2,3,2,2,0,1,1,0,2021-05-11 11:44:56,8754811453.0,
 444,Madurai,"Thavam Hospital, K.Pudhur",15,14,1,6,6,0,6,5,1,3,3,0,0,0,0,2021-05-11 16:35:40,6381046461.0,UPDATED 11.05.2021 4.20 AM
 445,Tiruppur,"Vel Hospital, Dharapuram",25,24,1,4,4,0,19,18,1,2,2,0,2,2,0,2021-05-11 15:51:06,8610931703.0,NIL
-446,Tiruppur,"Vel Hospital,Udumalpet",20,20,0,5,5,0,12,12,0,3,3,0,2,0,2,2021-05-11 16:11:43,9751766002.0,nil
+446,Tiruppur,"Vel Hospital,Udumalpet",20,20,0,5,5,0,12,12,0,3,3,0,2,0,2,2021-05-11 19:38:37,9751766002.0,Nil
 447,Madurai,Vijaya Hospital,10,10,0,7,7,0,0,0,0,3,3,0,1,1,0,2021-05-11 09:40:35,9003401778.0,11.05.2021
 448,Madurai,"Vikram Multispeciality hospital, Madurai",40,40,0,16,16,0,9,9,0,15,15,0,2,0,2,2021-05-11 06:26:13,9150891207.0,Nil
 449,Chennai,"Westminster HealthCare,Nungambakkam",23,19,4,12,12,0,9,5,4,2,2,0,0,0,0,2021-05-11 17:15:30,7550045100.0,Pt are doing better
@@ -475,7 +475,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 474,Thiruchirappalli,"Jagadha Hospital,Thillai Nagar",20,11,9,14,9,5,4,0,4,2,2,0,0,0,0,2021-05-11 16:00:14,9488333620.0,Nil.
 475,Thiruchirappalli,"Kanapathy Memorial Hospital, Musiri",16,8,8,8,4,4,2,0,2,6,4,2,2,0,2,2021-05-11 17:15:55,9566813205.0,NIL.
 476,TheNilgiris,"Kotagiri Medical Fellowship Hospital,Kotagiri",16,8,8,8,3,5,6,4,2,2,1,1,1,0,1,2021-05-11 09:23:35,9585259479.0,
-477,Ariyalur,"KVS Hospital Pvt Ltd,Valaja Nagaram",26,22,4,22,18,4,0,0,0,4,4,0,1,0,1,2021-05-11 16:21:18,9585288077.0,Nil
+477,Ariyalur,"KVS Hospital Pvt Ltd,Valaja Nagaram",26,22,4,22,18,4,0,0,0,4,4,0,1,0,1,2021-05-11 19:48:25,9585288077.0,Nil.
 478,Salem,"Malar Hospital,Vazhapadi",38,36,2,15,15,0,18,16,2,5,5,0,1,0,1,2021-05-11 16:20:57,8270562733.0,
 479,Thiruchirappalli,"Max Care Hospital, Annamalai Nagar",23,23,0,10,10,0,10,10,0,3,3,0,1,0,1,2021-05-11 16:16:54,9600073580.0,NIL.
 480,Chennai,"Metro Male Clinic a unit of Gunasekaran Hospitals Pvt Ltd,Porur",22,22,0,18,18,0,0,0,0,4,4,0,2,2,0,2021-05-11 08:27:13,8056912666.0,11.05.2021 Morning report
@@ -505,7 +505,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 504,Erode,"Veena hospital, nasiyanur",55,55,0,34,34,0,15,15,0,6,6,0,2,0,2,2021-05-11 07:57:04,9952493428.0,NIL
 505,Erode,"Abirami Kidney Care Dr.Thangavelu Hospital, Brough Road",50,50,0,0,0,0,43,43,0,7,7,0,3,3,0,2021-05-11 12:51:01,9500794485.0,11.05.2021..1pm
 506,Thiruchirappalli,"Aiyshwariya Hospital, Woraiyur",12,10,2,4,4,0,2,1,1,6,5,1,1,0,1,2021-05-11 13:12:57,9791498865.0,
-507,Chennai,"Anand Hospital,Manali",14,11,3,6,5,1,4,2,2,4,4,0,0,0,0,2021-05-08 17:59:12,9094006311.0,we need for patient use inj.remedisivir (100mg)
+507,Chennai,"Anand Hospital,Manali",14,14,0,6,6,0,4,4,0,4,4,0,0,0,0,2021-05-11 19:56:56,9094006311.0,we need for patient use inj.remedisivir (100mg)
 508,Chennai,"Anbu Hospital, Velachery",23,15,8,3,3,0,17,9,8,3,3,0,0,0,0,2021-05-11 11:16:11,9941356395.0,
 509,Chennai,"ARK Hospital, Velachery",15,12,3,3,2,1,12,10,2,0,0,0,0,0,0,2021-05-09 21:01:08,8056095393.0,
 510,Chennai,"Arokya Hospital, West K.K Nagar",21,21,0,14,14,0,0,0,0,7,7,0,1,1,0,2021-05-05 09:21:53,9791198781.0,
