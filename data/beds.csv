@@ -37,7 +37,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 36,Chennai,Kauvery Hospital,100,100,0,40,40,0,40,40,0,20,20,0,10,10,0,2021-05-17 09:02:52,7825809004.0,17/05/2021
 37,Chennai,Kumaran Hospital Pvt ltd,75,75,0,62,62,0,0,0,0,13,13,0,6,6,0,2021-05-12 09:25:41,9791144090.0,12/05/2021
 38,Chennai,"KVT Speciality Hospital, Erukanchery",24,24,0,16,16,0,0,0,0,8,8,0,1,0,1,2021-05-17 09:49:06,7358330026.0,17.05.2021
-39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,2021-05-15 09:43:06,9500054797.0,15.5.2021
+39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,2021-05-17 11:48:38,9500054797.0,17.5.2021
 40,Chennai,Life Care Hospital,25,25,0,15,15,0,5,5,0,5,5,0,2,2,0,2021-05-16 09:33:24,8939396762.0,16.5.2021
 41,Chennai,Lifeline Hospitals,55,55,0,15,15,0,30,30,0,10,10,0,2,2,0,2021-05-15 11:54:51,9500073959.0,15.05.2021
 42,Chennai,M G M Health Care Pvt Ltd,110,110,0,0,0,0,88,88,0,22,22,0,22,22,0,2021-05-12 11:09:08,9384002406.0,12-05-2021
@@ -105,7 +105,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,2021-05-14 09:09:25,9486456293.0,1.Ventilator beds are in ICU for Emergency sick patients 2.In ICU WE HAVE Non-invasive ventilation & NRM Ventilation only
 105,Dindigul,Christian Fellow Community Centre,50,9,41,12,2,10,38,7,31,0,0,0,0,0,0,2021-05-12 17:02:26,7598001644.0,
 106,Dindigul,Christian Fellowship Hospital,129,120,9,30,21,9,99,99,0,0,0,0,0,0,0,2021-05-16 08:42:18,8903002554.0,15.05.21
-107,Dindigul,Leonard Hospital,100,41,59,10,9,1,90,32,58,0,0,0,0,0,0,2021-05-17 08:25:00,8754680378.0,17.05.2021
+107,Dindigul,Leonard Hospital,100,41,59,10,8,2,90,33,57,0,0,0,0,0,0,2021-05-17 12:43:02,8754680378.0,17.05.21
 108,Dindigul,St.Joseph Hospital,100,60,40,5,5,0,95,55,40,0,0,0,1,0,1,2021-05-13 17:06:10,9842044447.0,12.05.2021
 109,Dindigul,Vel Multispeciality Hospital,50,50,0,20,20,0,20,20,0,10,10,0,4,4,0,2021-05-17 07:55:56,9942466002.0,
 110,Erode,Erode Medical Centre,60,60,0,31,31,0,25,25,0,4,4,0,2,0,2,2021-05-12 17:09:21,7373097188.0,
@@ -395,7 +395,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,2021-05-14 07:44:20,9489059104.0,7.43am
 395,Tiruvallur,"Be well , Ponamallee",35,35,0,15,15,0,20,20,0,0,0,0,0,0,0,2021-05-12 16:17:55,7092937252.0,
 396,Thanjavur,National pharma,50,23,27,5,5,0,43,16,27,2,2,0,2,2,0,2021-05-17 10:12:23,9524241241.0,Positive cases- 7
-397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,17,8,9,6,3,11,11,0,5,0,5,2,0,2,2021-05-17 09:13:16,9566683380.0,
+397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,17,8,9,4,5,11,11,0,5,2,3,2,0,2,2021-05-17 12:43:39,9566683380.0,
 398,Chennai,"Amrit Medical Centre,Purasawakkam",20,17,3,2,2,0,17,14,3,1,1,0,0,0,0,2021-05-12 16:00:59,8122119835.0,
 399,Salem,AP Medical Centre,40,40,0,25,25,0,15,15,0,0,0,0,0,0,0,2021-05-13 11:47:36,9994930184.0,Updated on 13.05.21
 400,Chennai,Fortis healthcare – Vadapalani,20,20,0,15,15,0,0,0,0,5,5,0,1,1,0,2021-05-12 16:14:03,9940141573.0,
