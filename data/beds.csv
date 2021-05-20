@@ -95,7 +95,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 94,Coimbatore,Karpagam Faculty Medical College And Hospital,325,316,9,46,46,0,271,262,9,8,8,0,8,8,0,2021-05-20 09:01:57,9566760490.0,316 occupied
 95,Coimbatore,KG Hospital,127,127,0,102,102,0,0,0,0,25,25,0,25,25,0,2021-05-12 10:27:23,4222212121.0,
 96,Coimbatore,Kongunad Hospital,250,250,0,165,165,0,70,70,0,15,15,0,15,15,0,2021-05-18 06:53:19,7094316000.0,
-97,Coimbatore,Kovai Medical College Hospital,461,461,0,192,192,0,241,241,0,28,28,0,28,28,0,2021-05-16 08:52:17,9600400451.0,
+97,Coimbatore,Kovai Medical College Hospital,502,502,0,212,212,0,245,245,0,45,45,0,28,28,0,2021-05-20 17:44:34,9600400451.0,
 98,Coimbatore,One Care Medical Centre,58,58,0,41,41,0,0,0,0,17,17,0,4,4,0,2021-05-15 08:28:40,9894955990.0,"15-3-21 Every 24 hours we need 1 KL liquid gas requirement, TODAY STOCK WILL. NEED FILLING BY 7.00 PM"
 99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",470,460,10,180,180,0,245,235,10,45,45,0,25,25,0,2021-05-20 16:11:50,9894798896.0,20th MAY
 100,Coimbatore,Royal Care Super Speciality Hospital,100,100,0,94,94,0,0,0,0,6,6,0,3,3,0,2021-05-13 07:17:35,7397769343.0,Neelambur unit 13.05.2021
@@ -134,7 +134,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 133,Krishnagiri,"Kauvery Hospital, Hosur",65,65,0,60,60,0,0,0,0,5,5,0,0,0,0,2021-05-20 09:52:56,7402733320.0,NILL
 134,Madurai,Apollo Hospital,125,125,0,101,101,0,0,0,0,24,24,0,4,4,0,2021-05-12 16:36:01,4524341187.0,updated...
 135,Madurai,Bharathi Hospital,25,25,0,5,5,0,10,10,0,10,10,0,3,3,0,2021-05-12 06:39:18,8015638874.0,12.05.2021 Updated.... 05:00 PM
-136,Madurai,Devadoss Multispeciality Hospital,50,34,16,20,20,0,20,4,16,10,10,0,4,4,0,2021-05-20 13:41:52,8072738401.0,Update
+136,Madurai,Devadoss Multispeciality Hospital,50,34,16,20,20,0,20,4,16,10,10,0,4,4,0,2021-05-20 18:35:46,8072738401.0,Updated
 137,Madurai,Guru Multispeciality Hospital,103,92,11,36,36,0,51,40,11,16,16,0,4,4,0,2021-05-12 16:32:26,9944485353.0,Update..
 138,Madurai,"Harshini Hospital,Sathamangalam",40,40,0,30,30,0,10,10,0,0,0,0,0,0,0,2021-05-13 06:42:00,9677736322.0,Updated 13.05.2021
 139,Madurai,"Harshitha Hospital, Avaniyapuram",75,70,5,55,55,0,10,5,5,10,10,0,2,2,0,2021-05-12 16:25:58,9865015729.0,UPDATED 12.05.2021..
@@ -271,7 +271,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 270,Coimbatore,Abinand Hospital,65,52,13,30,30,0,30,17,13,5,5,0,3,3,0,2021-05-12 08:52:46,8838689898.0,As on 12.05.2021
 271,Coimbatore,"Sree Abirami Hospital, Coimbatore TN.",75,75,0,45,45,0,15,15,0,15,15,0,3,3,0,2021-05-20 09:00:58,9952200057.0,20/5/2021
 272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
-273,Kancheepuram,"TCS, Sirucherry",45,28,17,0,0,0,45,28,17,0,0,0,0,0,0,2021-05-20 13:16:43,0.0,UPDATED TILL 20/05/2021 01:00PM
+273,Kancheepuram,"TCS, Sirucherry",45,28,17,0,0,0,45,28,17,0,0,0,0,0,0,2021-05-20 17:54:53,0.0,UPDATED TILL 20/05/2021 05:00PM
 274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,40,0,24,24,0,9,9,0,7,7,0,2,2,0,2021-05-12 17:06:20,9566519491.0,.
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-18 17:14:04,9443152469.0,18.05.2021 EVENING
 276,Karur,"ABS Hospital, Thanthonimalai",80,75,5,55,53,2,0,0,0,25,22,3,3,0,3,2021-05-12 13:27:15,8300393424.0,12.05.2021..
@@ -382,7 +382,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 381,Karur,Nachimuthu hospital,25,25,0,21,21,0,0,0,0,4,4,0,1,0,1,2021-05-12 15:49:09,9566854364.0,12.05.2021 nil
 382,Virudhunagar,Amar hospital,41,39,2,36,36,0,0,0,0,5,3,2,2,0,2,2021-05-12 15:14:38,8608638184.0,12/05/2021 03.13 pm
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",5,5,0,0,0,0,5,5,0,0,0,0,0,0,0,2021-05-07 16:43:19,9443230269.0,No oxygen supply
-384,Tirunelveli,VJ Hospital,26,24,2,10,10,0,11,9,2,5,5,0,5,5,0,2021-05-20 08:05:51,9843604611.0,24 Active cases....
+384,Tirunelveli,VJ Hospital,26,24,2,10,10,0,11,9,2,5,5,0,5,5,0,2021-05-20 18:43:44,9843604611.0,24 Active cases....
 385,Thiruchirappalli,Atlas Hospital,40,40,0,26,26,0,8,8,0,6,6,0,1,1,0,2021-05-14 08:19:17,7092980125.0,
 386,Tiruppur,Velan Hospital,30,30,0,18,18,0,4,4,0,8,8,0,2,2,0,2021-05-13 15:49:35,8248725224.0,Nil
 387,Dindigul,"Sakthi Vinayagar Multispeciality Hospital, Guziliamparai",30,30,0,10,10,0,10,10,0,10,10,0,5,3,2,2021-05-15 16:04:07,9965534490.0,15.05.2021
