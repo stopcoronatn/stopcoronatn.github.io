@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-22 09:54:23,9710446115.0,22/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",70,70,0,65,65,0,0,0,0,5,5,0,5,5,0,2021-05-22 16:04:56,8585858550.0,22. 5.2021 4PM⁰
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,60,0,20,20,0,40,40,0,0,0,0,0,0,0,2021-05-22 17:17:12,8300017171.0,21/05/2021 5 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,60,0,20,20,0,40,40,0,0,0,0,0,0,0,2021-05-22 22:43:03,8300017171.0,21/05/2021 10 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,150,0,125,125,0,0,0,0,25,25,0,16,16,0,2021-05-22 17:08:57,7824821042.0,22.05.202 no beds available
 11,Chennai,Appasamy Hospital,91,91,0,81,81,0,5,5,0,5,5,0,2,2,0,2021-05-22 12:31:16,6379350953.0,May 22nd @ 12:30 Noon
@@ -134,7 +134,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 133,Krishnagiri,"Kauvery Hospital, Hosur",65,65,0,60,60,0,0,0,0,5,5,0,0,0,0,2021-05-22 10:10:06,7402733320.0,nill
 134,Madurai,Apollo Hospital,125,125,0,101,101,0,0,0,0,24,24,0,4,4,0,2021-05-12 16:36:01,4524341187.0,updated...
 135,Madurai,Bharathi Hospital,25,25,0,5,5,0,10,10,0,10,10,0,3,3,0,2021-05-12 06:39:18,8015638874.0,12.05.2021 Updated.... 05:00 PM
-136,Madurai,Devadoss Multispeciality Hospital,50,45,5,25,25,0,15,10,5,10,10,0,4,4,0,2021-05-22 17:07:27,8072738401.0,Update
+136,Madurai,Devadoss Multispeciality Hospital,50,50,0,25,25,0,15,15,0,10,10,0,4,4,0,2021-05-22 22:41:42,8072738401.0,Update
 137,Madurai,Guru Multispeciality Hospital,103,92,11,36,36,0,51,40,11,16,16,0,4,4,0,2021-05-12 16:32:26,9944485353.0,Update..
 138,Madurai,"Harshini Hospital,Sathamangalam",40,40,0,30,30,0,10,10,0,0,0,0,0,0,0,2021-05-13 06:42:00,9677736322.0,Updated 13.05.2021
 139,Madurai,"Harshitha Hospital, Avaniyapuram",75,70,5,55,55,0,10,5,5,10,10,0,2,2,0,2021-05-12 16:25:58,9865015729.0,UPDATED 12.05.2021..
