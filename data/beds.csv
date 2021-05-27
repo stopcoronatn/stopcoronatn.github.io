@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",70,70,0,65,65,0,0,0,0,5,5,0,5,5,0,2021-05-27 16:03:26,8585858550.0,27. 5.2021 4PM
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,57,3,50,49,1,10,8,2,0,0,0,0,0,0,2021-05-27 15:10:20,8300017171.0,27/05/2021 3 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,57,3,50,49,1,10,8,2,0,0,0,0,0,0,2021-05-27 18:51:59,8300017171.0,27/05/2021 7 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,150,0,125,125,0,0,0,0,25,25,0,16,16,0,2021-05-27 16:51:24,7824821042.0,27.05.202 no beds available
 11,Chennai,Appasamy Hospital,86,79,7,79,72,7,0,0,0,7,7,0,2,2,0,2021-05-27 09:24:55,6379350953.0,May 27th @ 9:00 AM
@@ -37,7 +37,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 36,Chennai,Kauvery Hospital,100,100,0,40,40,0,40,40,0,20,20,0,10,10,0,2021-05-20 09:51:38,7825809004.0,20/05/2021
 37,Chennai,Kumaran Hospital Pvt ltd,75,75,0,62,62,0,0,0,0,13,13,0,6,6,0,2021-05-12 09:25:41,9791144090.0,12/05/2021
 38,Chennai,"KVT Speciality Hospital, Erukanchery",24,24,0,16,16,0,0,0,0,8,8,0,1,0,1,2021-05-17 09:49:06,7358330026.0,17.05.2021
-39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,2021-05-17 11:48:38,9500054797.0,17.5.2021
+39,Chennai,Laksha Hospital Royapettah,48,48,0,14,14,0,25,25,0,9,9,0,2,2,0,2021-05-27 17:55:50,9500054797.0,27.5.2021
 40,Chennai,Life Care Hospital,25,25,0,15,15,0,5,5,0,5,5,0,2,2,0,2021-05-21 18:52:39,8939396762.0,21.5.2021
 41,Chennai,Lifeline Hospitals,55,55,0,15,15,0,30,30,0,10,10,0,2,2,0,2021-05-25 08:58:36,9500073959.0,25.05.2021
 42,Chennai,M G M Health Care Pvt Ltd,110,110,0,0,0,0,88,88,0,22,22,0,22,22,0,2021-05-12 11:09:08,9384002406.0,12-05-2021
@@ -240,7 +240,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 239,Chennai,Iswarya Fertility Centre Kilpauk,20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-05-12 10:09:19,8883350666.0,12-05-2021
 240,Chennai,Iswarya Fertility Centre Adyar,10,0,10,3,0,3,5,0,5,2,0,2,1,0,1,2021-05-12 09:10:19,9842115123.0,12/05/2021
 241,Chennai,Iswarya Fertility Centre Ambattur,5,0,5,2,0,2,2,0,2,1,0,1,2,0,2,2021-05-11 17:03:32,8883381666.0,11/05/2021
-242,Chengalpattu,"Parvathy Hospital Chrompet,",76,43,33,32,12,20,26,16,10,18,15,3,12,8,4,2021-05-27 15:57:16,7825830723.0,27.05.2021
+242,Chengalpattu,"Parvathy Hospital Chrompet,",76,42,34,32,12,20,26,16,10,18,14,4,12,6,6,2021-05-27 18:56:13,7825830723.0,27.05.2021
 243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,2021-05-17 07:43:35,4443229641.0,17.05.2021
 244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,2021-05-26 09:34:14,7010229157.0,26.05.2021
 245,Coimbatore,Atlas Pain Care Sowripalayam,40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,2021-05-12 08:53:53,9865509999.0,09.05.2020
