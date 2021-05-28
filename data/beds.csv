@@ -293,7 +293,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,40,0,25,25,0,10,10,0,5,5,0,3,3,0,2021-05-13 01:14:02,9942104455.0,40 patients
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-12 15:26:29,8870011952.0,may 12
 294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-14 08:53:39,9443328375.0,14.05.2021
-295,Theni,"Nalam Hospital, Allinagaram",15,12,3,12,12,0,3,0,3,0,0,0,0,0,0,2021-05-28 07:38:28,8870007450.0,28.05.2021 Morning report
+295,Theni,"Nalam Hospital, Allinagaram",15,12,3,12,12,0,3,0,3,0,0,0,0,0,0,2021-05-28 14:27:50,8870007450.0,28.05.2021 Evening report
 296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,8,7,2,0,2,11,8,3,2,0,2,1,0,1,2021-05-25 14:34:57,9003398211.0,Evening update theni
 297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-14 08:54:34,9361917118.0,14.05.2021
 298,Tirunelveli,"Royal Hospital, NGO Colony",28,23,5,20,20,0,5,0,5,3,3,0,3,3,0,2021-05-15 08:13:40,9487057857.0,15.05.21 updated
@@ -316,7 +316,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 315,Chennai,Annai Multispeciality Hospital,25,8,17,10,5,5,7,0,7,8,3,5,4,2,2,2021-05-28 09:14:31,7092820884.0,28/05/2021 Covid care helpline - 8778501016/9894686088 ...
 316,Thiruchirappalli,Royal Pearl Hospital,25,22,3,18,15,3,0,0,0,7,7,0,2,0,2,2021-05-14 09:52:57,8300244928.0,NILL
 317,Mayiladuthurai,Vishnu hospital,19,16,3,6,6,0,10,10,0,3,0,3,1,0,1,2021-05-14 13:21:27,9489858034.0,Nil
-318,Sivagangai,Apollo,60,55,5,10,10,0,45,40,5,5,5,0,1,1,0,2021-05-28 09:13:22,7397591935.0,UPDATED 28.5.2021@9:20AM
+318,Sivagangai,Apollo,60,55,5,10,10,0,45,40,5,5,5,0,1,1,0,2021-05-28 14:24:44,7397591935.0,UPDATED 28.5.2021@2pM
 319,Sivagangai,Senthil hospital,85,83,2,50,50,0,23,21,2,12,12,0,4,0,4,2021-05-28 08:41:44,8012519266.0,Covid Positive : 36 Suspected: 47 Updated
 320,Chengalpet,KMS Health Centre,25,25,0,17,17,0,7,7,0,1,1,0,1,1,0,2021-05-12 17:41:49,9791197514.0,12 May21 05:41 PM
 321,Salem,"Kamala Hospital,Agraharam",73,73,0,31,31,0,32,32,0,10,10,0,2,2,0,2021-05-16 20:56:00,9842719451.0,updated..
@@ -338,12 +338,12 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,2021-05-17 12:57:40,9994050605.0,nil
-340,Salem,Mohanraj Children's Hospital,70,16,54,17,16,1,53,0,53,0,0,0,0,0,0,2021-05-28 11:28:47,9566313409.0,Till 11.28 am on 22/05/2021
+340,Salem,Mohanraj Children's Hospital,70,16,54,17,16,1,53,0,53,0,0,0,0,0,0,2021-05-28 14:46:46,9566313409.0,Till 02.00 pm on 22/05/2021
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,2021-05-28 10:10:45,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,40,40,0,10,10,0,22,22,0,8,8,0,2,2,0,2021-05-28 07:50:31,4272555999.0,Nil
 344,Erode,"Erode multispeciality Hospital, Erode",60,60,0,16,16,0,40,40,0,4,4,0,2,2,0,2021-05-12 08:51:31,8248930767.0,NILL
-345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,14,46,4,4,0,56,10,46,0,0,0,0,0,0,2021-05-28 11:45:00,9500967789.0,28.5.2021
+345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,13,47,4,3,1,56,10,46,0,0,0,0,0,0,2021-05-28 15:01:25,9500967789.0,28.5.2021
 346,Karur,"Abishek Hospital, Karur Tn.",27,25,2,15,15,0,12,10,2,0,0,0,0,0,0,2021-05-12 15:43:42,9790555151.0,12.05.2021 nil
 347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",28,28,0,23,23,0,0,0,0,5,5,0,4,4,0,2021-05-13 07:29:33,9629492325.0,Report submitted on 13.05.2021
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",40,40,0,35,35,0,0,0,0,5,5,0,1,0,1,2021-05-12 17:13:17,9942251163.0,REPORT SUBMITTED ON 12.05.2021 at 05:13PM
