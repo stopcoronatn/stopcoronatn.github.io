@@ -306,7 +306,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 305,Thiruchirappalli,"Star KIMS Hospital, Thillai Nagar",40,40,0,32,32,0,0,0,0,8,8,0,3,3,0,2021-05-13 09:28:35,9789488894.0,Nil.
 306,Thiruchirappalli,"Trichy Medical Centre and Hospital, Thillai Nagar",32,32,0,27,27,0,0,0,0,5,5,0,3,3,0,2021-05-13 09:31:23,9842011199.0,
 307,Thoothukudi,"Aarthi Hospital, Kovilpatti",27,27,0,15,15,0,8,8,0,4,4,0,1,1,0,2021-05-20 12:14:21,9443141811.0,RT-PCR positive Cases: 25 Suspected SARI Cases: 2
-308,Thoothukudi,"City Hospital, Tuticorin",25,10,15,21,10,11,0,0,0,4,0,4,1,0,1,2021-05-26 09:29:33,9842911141.0,26/5/21 8 am
+308,Thoothukudi,"City Hospital, Tuticorin",25,12,13,21,12,9,0,0,0,4,0,4,1,0,1,2021-05-29 06:02:01,9842911141.0,29/5/21 8 am
 309,Thoothukudi,"K.M.T Hospital, Kayalpatnam",22,16,6,6,5,1,11,11,0,5,0,5,1,0,1,2021-05-13 08:37:45,9489659868.0,13.05.2021
 310,Thoothukudi,"Sree Chendur Multispeciality Hospital, Kovilpatti",16,16,0,13,13,0,0,0,0,3,3,0,0,0,0,2021-05-15 15:45:01,9442130965.0,.
 311,Thoothukudi,Suganthi Nursing Home (Unit of Sundaram Arulrhaj Hospitals),15,15,0,12,12,0,0,0,0,3,3,0,3,0,3,2021-05-14 13:04:34,8220705749.0,1:00 PM
@@ -343,7 +343,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,40,40,0,10,10,0,22,22,0,8,8,0,2,2,0,2021-05-28 17:02:31,4272555999.0,Nil
 344,Erode,"Erode multispeciality Hospital, Erode",60,60,0,16,16,0,40,40,0,4,4,0,2,2,0,2021-05-12 08:51:31,8248930767.0,NILL
-345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,13,47,4,3,1,56,10,46,0,0,0,0,0,0,2021-05-28 15:01:25,9500967789.0,28.5.2021
+345,Madurai,"Vetri Siddha Hospital, Thaniciyam (Siddha)",60,12,48,4,2,2,56,10,46,0,0,0,0,0,0,2021-05-29 06:19:29,9500967789.0,28.5.2021
 346,Karur,"Abishek Hospital, Karur Tn.",27,25,2,15,15,0,12,10,2,0,0,0,0,0,0,2021-05-12 15:43:42,9790555151.0,12.05.2021 nil
 347,Namakkal,"Shree Akhshaya Hospital Namakkal, TN.",28,28,0,23,23,0,0,0,0,5,5,0,4,4,0,2021-05-13 07:29:33,9629492325.0,Report submitted on 13.05.2021
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",40,40,0,35,35,0,0,0,0,5,5,0,1,0,1,2021-05-12 17:13:17,9942251163.0,REPORT SUBMITTED ON 12.05.2021 at 05:13PM
@@ -465,7 +465,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 464,Salem,"Appu Venkatachalam Medical Research Centre (P) Ltd, Kattur",20,18,2,12,12,0,6,6,0,2,0,2,0,0,0,2021-05-12 10:23:37,9894940904.0,Nil
 465,Thiruchirappalli,Assured Best Care Hospital(P) Ltd (ABC Hospital) Annamalai Nagar,40,40,0,22,22,0,14,14,0,4,4,0,0,0,0,2021-05-13 08:38:09,9655240724.0,..
 466,Chengalpattu,"Christudas Orthopaedic Speciality Hospital,East Tambaram",25,25,0,9,9,0,14,14,0,2,2,0,2,2,0,2021-05-12 10:13:57,9840799398.0,
-467,Thiruchirappalli,"City Medical Center, Thennur",25,11,14,10,4,6,10,3,7,5,4,1,0,0,0,2021-05-28 11:22:48,7397271129.0,alternate number : 9790420251.
+467,Thiruchirappalli,"City Medical Center, Thennur",25,9,16,10,2,8,10,5,5,5,2,3,0,0,0,2021-05-29 06:02:40,9790420251.0,alternate number : 7397271129
 468,Coimbatore,"Coimbatore Child Trust Hospital,Singanallur",25,25,0,7,7,0,16,16,0,2,2,0,2,2,0,2021-05-12 09:54:22,7708682666.0,
 469,Cuddalore,"Cuddalore Specialty Hospital,Manjakuppam",25,25,0,15,15,0,6,6,0,4,4,0,2,0,2,2021-05-14 22:30:39,9543447359.0,As on 14-05-2021 10:30pm all 25 beds occupied
 470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,20,2,17,17,0,3,1,2,2,2,0,2,0,2,2021-05-13 08:50:00,9842410780.0,nil
