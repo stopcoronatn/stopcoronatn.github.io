@@ -9,7 +9,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,56,4,50,48,2,10,8,2,0,0,0,0,0,0,2021-05-30 13:53:02,8300017171.0,30/05/2021 2.00 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,150,0,125,125,0,0,0,0,25,25,0,16,16,0,2021-05-30 15:50:59,7824821042.0,30.05.202 no beds available
-11,Chennai,Appasamy Hospital,86,44,42,79,38,41,0,0,0,7,6,1,2,2,0,2021-05-30 10:19:23,6379350953.0,May 30th @ 9:00 AM
+11,Chennai,Appasamy Hospital,86,40,46,79,35,44,0,0,0,7,5,2,2,2,0,2021-05-30 17:53:39,6379350953.0,May 30th @ 5:00 PM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
 14,Chennai,Aysha Hospital,30,30,0,6,6,0,17,17,0,7,7,0,0,0,0,2021-05-12 10:19:51,7824030941.0,
@@ -240,7 +240,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 239,Chennai,Iswarya Fertility Centre Kilpauk,20,20,0,20,20,0,0,0,0,0,0,0,0,0,0,2021-05-12 10:09:19,8883350666.0,12-05-2021
 240,Chennai,Iswarya Fertility Centre Adyar,10,0,10,3,0,3,5,0,5,2,0,2,1,0,1,2021-05-12 09:10:19,9842115123.0,12/05/2021
 241,Chennai,Iswarya Fertility Centre Ambattur,5,0,5,2,0,2,2,0,2,1,0,1,2,0,2,2021-05-11 17:03:32,8883381666.0,11/05/2021
-242,Chengalpattu,"Parvathy Hospital Chrompet,",76,34,42,43,15,28,26,12,14,7,7,0,7,7,0,2021-05-30 08:49:45,7825830723.0,30/5/2021
+242,Chengalpattu,"Parvathy Hospital Chrompet,",76,35,41,43,15,28,26,13,13,7,7,0,7,7,0,2021-05-30 17:57:59,7825830723.0,30/5/2021
 243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,2021-05-17 07:43:35,4443229641.0,17.05.2021
 244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,2021-05-29 12:54:44,7010229157.0,29.05.2021
 245,Coimbatore,Atlas Pain Care Sowripalayam,40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,2021-05-12 08:53:53,9865509999.0,09.05.2020
@@ -465,7 +465,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 464,Salem,"Appu Venkatachalam Medical Research Centre (P) Ltd, Kattur",20,18,2,12,12,0,6,6,0,2,0,2,0,0,0,2021-05-12 10:23:37,9894940904.0,Nil
 465,Thiruchirappalli,Assured Best Care Hospital(P) Ltd (ABC Hospital) Annamalai Nagar,40,40,0,22,22,0,14,14,0,4,4,0,0,0,0,2021-05-13 08:38:09,9655240724.0,..
 466,Chengalpattu,"Christudas Orthopaedic Speciality Hospital,East Tambaram",25,25,0,9,9,0,14,14,0,2,2,0,2,2,0,2021-05-12 10:13:57,9840799398.0,
-467,Thiruchirappalli,"City Medical Center, Thennur",25,11,14,10,3,7,10,5,5,5,3,2,0,0,0,2021-05-30 11:29:33,9790420251.0,alternate number : 7397271129
+467,Thiruchirappalli,"City Medical Center, Thennur",25,9,16,10,2,8,10,5,5,5,2,3,0,0,0,2021-05-30 17:13:00,9790420251.0,alternate number : 7397271129
 468,Coimbatore,"Coimbatore Child Trust Hospital,Singanallur",25,25,0,7,7,0,16,16,0,2,2,0,2,2,0,2021-05-12 09:54:22,7708682666.0,
 469,Cuddalore,"Cuddalore Specialty Hospital,Manjakuppam",25,25,0,15,15,0,6,6,0,4,4,0,2,0,2,2021-05-14 22:30:39,9543447359.0,As on 14-05-2021 10:30pm all 25 beds occupied
 470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,20,2,17,17,0,3,1,2,2,2,0,2,0,2,2021-05-13 08:50:00,9842410780.0,nil
