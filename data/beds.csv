@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,40,5,23,21,2,12,9,3,10,10,0,10,10,0,2021-06-04 16:02:55,8585858550.0,04. 6.2021 4 PM
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,34,26,40,17,23,20,17,3,0,0,0,0,0,0,2021-06-04 16:10:08,8300017171.0,04/06/2021 @ 4.00 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,37,23,40,28,12,15,9,6,5,0,5,0,0,0,2021-06-04 22:13:21,8300017171.0,04/06/2021 @ 10.00 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,135,15,115,110,5,10,0,10,25,25,0,14,14,0,2021-06-04 17:01:53,7824821042.0,04.06.2021
 11,Chennai,Appasamy Hospital,86,30,56,78,23,55,0,0,0,8,7,1,2,2,0,2021-06-04 10:24:41,6379350953.0,June 4th @ 9:00 AM
@@ -77,7 +77,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,2021-05-13 09:36:21,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
-79,Chennai,Tagore Medical College & Hospital,410,78,332,45,45,0,349,17,332,16,16,0,7,7,0,2021-06-04 19:10:21,4430101111.0,04/06/202 07.08PM
+79,Chennai,Tagore Medical College & Hospital,410,78,332,45,45,0,349,17,332,16,16,0,7,7,0,2021-06-04 21:49:09,4430101111.0,04/06/202 09.48PM
 80,Chennai,"The Guest Hospital, Kilpauk",25,19,6,16,15,1,5,0,5,4,4,0,2,2,0,2021-06-04 09:31:34,8903573717.0,04/06/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
