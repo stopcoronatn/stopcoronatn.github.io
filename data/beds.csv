@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,40,5,23,21,2,12,9,3,10,10,0,10,10,0,2021-06-05 16:03:16,8585858550.0,05 . 6.2021 4 PM
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,37,23,40,32,8,15,5,10,5,0,5,0,0,0,2021-06-05 16:39:35,8300017171.0,05/06/2021 @ 4.00 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,37,23,40,32,8,15,5,10,5,0,5,0,0,0,2021-06-05 21:35:56,8300017171.0,05/06/2021 @ 10.00 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,135,15,115,110,5,10,0,10,25,25,0,14,14,0,2021-06-05 16:58:22,7824821042.0,05.06.2021
 11,Chennai,Appasamy Hospital,86,26,60,78,21,57,0,0,0,8,5,3,2,2,0,2021-06-05 10:31:31,6379350953.0,June 5th @ 9:00 AM
@@ -77,8 +77,8 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,2021-05-13 09:36:21,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
-79,Chennai,Tagore Medical College & Hospital,410,68,342,45,41,4,349,16,333,16,11,5,7,7,0,2021-06-05 19:15:04,4430101111.0,05/06/2021 7:14 PM
-80,Chennai,"The Guest Hospital, Kilpauk",25,18,7,16,14,2,5,0,5,4,4,0,2,2,0,2021-06-05 09:21:47,8903573717.0,05/06/2021
+79,Chennai,Tagore Medical College & Hospital,410,68,342,45,41,4,349,16,333,16,11,5,7,7,0,2021-06-05 21:15:48,4430101111.0,05/06/2021 9:14 PM
+80,Chennai,"The Guest Hospital, Kilpauk",15,10,5,6,6,0,5,0,5,4,4,0,2,2,0,2021-06-05 20:52:15,8903573717.0,05/06/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
 83,Chennai,"Vasantha Subramanian Hospitals Pvt Ltd, Chetpet",49,49,0,33,33,0,10,10,0,6,6,0,6,6,0,2021-05-19 13:47:39,9884875111.0,19/05/2021 @ 1PM
@@ -105,7 +105,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,2021-05-14 09:09:25,9486456293.0,1.Ventilator beds are in ICU for Emergency sick patients 2.In ICU WE HAVE Non-invasive ventilation & NRM Ventilation only
 105,Dindigul,Christian Fellow Community Centre,74,24,50,7,7,0,67,17,50,0,0,0,0,0,0,2021-05-22 16:00:43,7598001644.0,
 106,Dindigul,Christian Fellowship Hospital,88,88,0,0,0,0,88,88,0,0,0,0,0,0,0,2021-05-27 08:26:42,8903002554.0,20.05.21
-107,Dindigul,Leonard Hospital,100,35,65,10,10,0,90,25,65,0,0,0,0,0,0,2021-06-05 15:27:02,8754680378.0,05.06.2021
+107,Dindigul,Leonard Hospital,100,37,63,10,10,0,90,27,63,0,0,0,0,0,0,2021-06-05 21:39:40,8754680378.0,05.06.2021
 108,Dindigul,St.Joseph Hospital,100,60,40,5,5,0,95,55,40,0,0,0,1,0,1,2021-05-13 17:06:10,9842044447.0,12.05.2021
 109,Dindigul,Vel Multispeciality Hospital,50,50,0,20,20,0,20,20,0,10,10,0,4,4,0,2021-06-05 16:13:35,9942466002.0,
 110,Erode,Erode Medical Centre,60,60,0,31,31,0,25,25,0,4,4,0,2,0,2,2021-05-12 17:09:21,7373097188.0,
