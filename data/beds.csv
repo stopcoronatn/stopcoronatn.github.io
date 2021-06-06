@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,38,7,23,20,3,12,8,4,10,10,0,10,10,0,2021-06-06 15:57:51,8585858550.0,06 . 6.2021 4pm
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",60,27,33,45,19,26,10,5,5,5,3,2,1,1,0,2021-06-06 17:02:05,8300017171.0,06/06/2021 @ 5.00 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",50,27,23,35,19,16,10,5,5,5,3,2,1,1,0,2021-06-06 20:18:28,8300017171.0,06/06/2021 @ 8.00 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,135,15,115,110,5,10,0,10,25,25,0,14,14,0,2021-06-06 15:11:08,7824821042.0,06.06.2021
 11,Chennai,Appasamy Hospital,68,24,44,59,18,41,0,0,0,9,6,3,2,2,0,2021-06-06 17:08:23,6379350953.0,June 6th @ 5:00 PM
@@ -105,7 +105,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,2021-05-14 09:09:25,9486456293.0,1.Ventilator beds are in ICU for Emergency sick patients 2.In ICU WE HAVE Non-invasive ventilation & NRM Ventilation only
 105,Dindigul,Christian Fellow Community Centre,74,24,50,7,7,0,67,17,50,0,0,0,0,0,0,2021-05-22 16:00:43,7598001644.0,
 106,Dindigul,Christian Fellowship Hospital,88,88,0,0,0,0,88,88,0,0,0,0,0,0,0,2021-05-27 08:26:42,8903002554.0,20.05.21
-107,Dindigul,Leonard Hospital,100,38,62,10,10,0,90,28,62,0,0,0,0,0,0,2021-06-06 16:58:33,8754680378.0,06.06.21
+107,Dindigul,Leonard Hospital,100,38,62,10,10,0,90,28,62,0,0,0,0,0,0,2021-06-06 20:27:09,8754680378.0,06.06.2021
 108,Dindigul,St.Joseph Hospital,100,60,40,5,5,0,95,55,40,0,0,0,1,0,1,2021-05-13 17:06:10,9842044447.0,12.05.2021
 109,Dindigul,Vel Multispeciality Hospital,50,50,0,20,20,0,20,20,0,10,10,0,4,4,0,2021-06-06 15:54:14,9942466002.0,
 110,Erode,Erode Medical Centre,60,60,0,31,31,0,25,25,0,4,4,0,2,0,2,2021-05-12 17:09:21,7373097188.0,
