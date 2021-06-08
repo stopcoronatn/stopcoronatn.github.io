@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,35,10,23,18,5,12,7,5,10,10,0,10,10,0,2021-06-08 07:58:38,8585858550.0,08. 6.2021 8am
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",50,34,16,35,25,10,10,6,4,5,3,2,1,1,0,2021-06-08 08:19:58,8300017171.0,08/06/2021 @ 8.00 am
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",50,26,24,35,18,17,10,5,5,5,3,2,3,2,1,2021-06-08 12:11:39,8300017171.0,08/06/2021 @ 12.00 noon
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",150,135,15,115,110,5,10,0,10,25,25,0,14,14,0,2021-06-08 08:59:38,7824821042.0,08.06.2021
 11,Chennai,Appasamy Hospital,68,21,47,59,16,43,0,0,0,9,5,4,2,2,0,2021-06-08 10:18:10,6379350953.0,June 8th @ 9:00 AM
@@ -78,7 +78,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
 79,Chennai,Tagore Medical College & Hospital,410,61,349,45,41,4,349,11,338,16,9,7,7,7,0,2021-06-08 09:15:54,4430101111.0,08/06/2021 09.12am
-80,Chennai,"The Guest Hospital, Kilpauk",15,5,10,6,1,5,5,0,5,4,4,0,2,2,0,2021-06-08 10:39:25,8903573717.0,08/06/2021
+80,Chennai,"The Guest Hospital, Kilpauk",15,4,11,6,0,6,5,0,5,4,4,0,2,2,0,2021-06-08 12:42:22,8903573717.0,08/06/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
 83,Chennai,"Vasantha Subramanian Hospitals Pvt Ltd, Chetpet",49,49,0,33,33,0,10,10,0,6,6,0,6,6,0,2021-05-19 13:47:39,9884875111.0,19/05/2021 @ 1PM
@@ -197,7 +197,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 196,Tiruvallur,Sugam Hospital,51,51,0,39,39,0,10,10,0,2,2,0,2,2,0,2021-05-17 02:06:11,9551979777.0,17.05.2021 @ 2am
 197,Tiruvannamalai,Ramana Maharishi Hospital,100,100,0,25,25,0,55,55,0,20,20,0,2,0,2,2021-05-14 08:46:22,9486047737.0,All covid positive patients 100 admitted in non oxygen supported patients.
 198,Thoothukudi,Sacred Heart Hospital,35,31,4,28,28,0,5,1,4,2,2,0,1,0,1,2021-05-25 08:29:45,9443260714.0,25.05.2021 9.00am
-199,Thoothukudi,Sri Hospital,18,4,14,14,0,14,0,0,0,4,4,0,1,0,1,2021-06-08 07:54:21,9442667069.0,08.06.21
+199,Thoothukudi,Sri Hospital,18,4,14,14,0,14,0,0,0,4,4,0,1,0,1,2021-06-08 12:45:22,9442667069.0,SRI HOSPITALS
 200,Tirunelveli,"Annai Velankanni Multi Speciality Hospital, Palayamkottai",42,42,0,20,20,0,9,9,0,13,13,0,2,2,0,2021-05-15 08:11:47,7540094100.0,Positive - 37. Suspected - 5 15-5-2021 8.00am
 201,Tirunelveli,Ponra Multispeciality Hospital,17,8,9,5,1,4,12,7,5,0,0,0,0,0,0,2021-06-07 09:24:27,8300508737.0,..
 202,Tirunelveli,Rosemary mission hospital and research centre,40,40,0,28,28,0,12,12,0,0,0,0,0,0,0,2021-05-15 08:12:53,7598264064.0,Updated...
@@ -561,7 +561,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 560,Namakkal,"Varun Hospital, Rasipuram",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:43:42,,
 561,Chennai,"Vasantha Hospital, Thiruvottiyur",10,9,1,5,5,0,3,2,1,2,2,0,0,0,0,2021-05-10 14:56:32,9150009431.0,10.05.2021
 562,Kanyakumari,"Vijayakumar Hospital,Swamiyarmadam",22,22,0,12,12,0,5,5,0,5,5,0,3,0,3,2021-05-12 15:18:38,9442928648.0,.
-563,Kanyakumari,"William Hospital,Nagercoil",10,8,2,9,7,2,0,0,0,1,1,0,1,0,1,2021-06-07 18:39:15,9597221977.0,.
+563,Kanyakumari,"William Hospital,Nagercoil",10,9,1,9,8,1,0,0,0,1,1,0,1,0,1,2021-06-08 12:00:21,9597221977.0,.
 564,Chennai,"Singhvi Health Center, Mint Street",15,15,0,10,10,0,5,5,0,0,0,0,0,0,0,2021-05-14 15:27:57,9962618755.0,14.05.2021
 565,Madurai,"Hannah Joseph Hospital Pvt Ltd, Chinthamani",75,68,7,23,23,0,35,28,7,17,17,0,10,10,0,2021-05-13 16:37:06,9385353352.0,Updated..
 566,Chennai,"M/s Apollo Hospitals, Tondiarpet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-03 14:05:27,,
