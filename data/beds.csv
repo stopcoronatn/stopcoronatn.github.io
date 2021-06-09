@@ -100,7 +100,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 99,Coimbatore,"PSG Institute Of Medical Sciences and Research, Coimbatore",470,470,0,180,180,0,245,245,0,45,45,0,25,25,0,2021-06-05 11:03:24,9894798896.0,5th JUNE
 100,Coimbatore,Royal Care Super Speciality Hospital,100,100,0,94,94,0,0,0,0,6,6,0,3,3,0,2021-05-13 07:17:35,7397769343.0,Neelambur unit 13.05.2021
 101,Coimbatore,Royal Care Super Speciality Hospital Gandhipuram,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,2021-05-13 07:18:28,7397769343.0,Gandhipuram unit - 13.05.2021
-102,Coimbatore,Sri Ramakrishna Hospital,252,232,20,178,178,0,57,37,20,17,17,0,10,10,0,2021-06-09 09:28:14,9384084606.0,09.06..21 @9AM
+102,Coimbatore,Sri Ramakrishna Hospital,252,232,20,178,178,0,57,37,20,17,17,0,10,10,0,2021-06-09 15:23:48,9384084606.0,09.06..21
 103,Coimbatore,"KMCH Kovilampalayam Hospital, Sathy Road",50,50,0,50,50,0,0,0,0,0,0,0,0,0,0,2021-05-12 10:03:14,8754187551.0,
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,2021-05-14 09:09:25,9486456293.0,1.Ventilator beds are in ICU for Emergency sick patients 2.In ICU WE HAVE Non-invasive ventilation & NRM Ventilation only
 105,Dindigul,Christian Fellow Community Centre,74,24,50,7,7,0,67,17,50,0,0,0,0,0,0,2021-05-22 16:00:43,7598001644.0,
@@ -176,7 +176,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 175,Ramanathapuram,Vel Hospital Ramanathapuram,45,45,0,30,30,0,0,0,0,15,15,0,2,0,2,2021-05-13 08:15:50,9487804442.0,
 176,Salem,Annapoorna Medical College and Hospital,124,111,13,29,29,0,90,77,13,5,5,0,3,3,0,2021-05-20 09:30:30,8072437396.0,B
 177,Salem,Dharan Hospital,166,166,0,86,86,0,72,72,0,8,8,0,2,2,0,2021-05-12 10:42:48,9047079990.0,NIL
-178,Salem,"Kauvery Hospital, Salem",150,144,6,50,50,0,86,80,6,14,14,0,10,7,3,2021-06-09 09:58:09,7397789300.0,Nil
+178,Salem,"Kauvery Hospital, Salem",150,144,6,50,50,0,86,80,6,14,14,0,10,7,3,2021-06-09 14:41:22,7397789300.0,Nil
 179,Salem,Kurinji Hospital,125,125,0,75,75,0,20,20,0,30,30,0,10,10,0,2021-05-16 08:47:36,7867044355.0,We have stopped Admissions for O2 abeds due to shortage of Oxygen supply.
 180,Salem,Manipal Hospital,46,46,0,41,41,0,0,0,0,5,5,0,2,0,2,2021-05-14 10:34:37,4272346600.0,Updated
 181,Salem,Priyam Speciality Hospitals,100,100,0,80,80,0,0,0,0,20,20,0,7,4,3,2021-05-13 10:29:47,7010708284.0,Nil
@@ -244,7 +244,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,2021-05-17 07:43:35,4443229641.0,17.05.2021
 244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,2021-06-01 12:03:17,7010229157.0,01.06.2021
 245,Coimbatore,Atlas Pain Care Sowripalayam,40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,2021-05-12 08:53:53,9865509999.0,09.05.2020
-246,Dindigul,"JCB Hospitals Palani Road,",60,60,0,58,58,0,0,0,0,2,2,0,2,0,2,2021-06-09 07:14:10,9150758413.0,09.06.2021
+246,Dindigul,"JCB Hospitals Palani Road,",60,60,0,58,58,0,0,0,0,2,2,0,2,0,2,2021-06-09 15:17:53,9150758413.0,Nil
 247,Dindigul,"Shree SathyaSubha Hospital, New Agaraharam",40,40,0,37,37,0,0,0,0,3,3,0,3,0,3,2021-06-09 08:37:18,6381781885.0,09/06/2021
 248,Dindigul,"Van Allen Hospital, Kodaikanal",15,11,4,6,3,3,8,8,0,1,0,1,1,0,1,2021-05-12 15:49:11,6374042759.0,12/05/2021
 249,Kanyakumari,Swamiyarmadam Rathna Memorial Hospital,40,40,0,15,15,0,16,16,0,9,9,0,0,0,0,2021-05-12 15:06:09,9750973290.0,.
