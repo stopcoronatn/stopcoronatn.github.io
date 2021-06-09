@@ -105,7 +105,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 104,Cuddalore,"NLCIL Hospital,Neyveli",226,211,15,92,92,0,114,99,15,20,20,0,2,2,0,2021-05-14 09:09:25,9486456293.0,1.Ventilator beds are in ICU for Emergency sick patients 2.In ICU WE HAVE Non-invasive ventilation & NRM Ventilation only
 105,Dindigul,Christian Fellow Community Centre,74,24,50,7,7,0,67,17,50,0,0,0,0,0,0,2021-05-22 16:00:43,7598001644.0,
 106,Dindigul,Christian Fellowship Hospital,88,88,0,0,0,0,88,88,0,0,0,0,0,0,0,2021-05-27 08:26:42,8903002554.0,20.05.21
-107,Dindigul,Leonard Hospital,100,21,79,10,10,0,90,11,79,0,0,0,0,0,0,2021-06-09 08:24:43,8754680378.0,09.06.2021
+107,Dindigul,Leonard Hospital,100,21,79,10,10,0,90,11,79,0,0,0,0,0,0,2021-06-09 12:48:18,8754680378.0,09.6.2021
 108,Dindigul,St.Joseph Hospital,100,60,40,5,5,0,95,55,40,0,0,0,1,0,1,2021-05-13 17:06:10,9842044447.0,12.05.2021
 109,Dindigul,Vel Multispeciality Hospital,50,36,14,20,20,0,20,6,14,10,10,0,4,4,0,2021-06-09 08:11:36,9942466002.0,
 110,Erode,Erode Medical Centre,60,60,0,31,31,0,25,25,0,4,4,0,2,0,2,2021-05-12 17:09:21,7373097188.0,
@@ -338,7 +338,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,2021-05-17 12:57:40,9994050605.0,nil
-340,Salem,Mohanraj Children's Hospital,70,10,60,15,10,5,55,0,55,0,0,0,0,0,0,2021-06-09 09:06:07,9566313409.0,Till 09.00am 09.06.2021
+340,Salem,Mohanraj Children's Hospital,70,10,60,15,10,5,55,0,55,0,0,0,0,0,0,2021-06-09 12:41:11,9566313409.0,Till 12.40am 09.06.2021
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,2021-05-30 10:27:29,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,52,52,0,17,17,0,25,25,0,10,10,0,2,2,0,2021-05-31 08:17:25,4272555999.0,Nil
@@ -505,7 +505,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 504,Erode,"Veena hospital, nasiyanur",55,55,0,34,34,0,15,15,0,6,6,0,2,0,2,2021-05-12 16:06:56,9952493428.0,nil
 505,Erode,"Abirami Kidney Care Dr.Thangavelu Hospital, Brough Road",50,50,0,0,0,0,43,43,0,7,7,0,3,3,0,2021-05-12 15:52:41,9500794485.0,12.05.2021.
 506,Thiruchirappalli,"Aiyshwariya Hospital, Woraiyur",12,12,0,4,4,0,2,2,0,6,6,0,1,0,1,2021-05-21 10:13:31,9791498865.0,.
-507,Chennai,"Anand Hospital,Manali",14,0,14,6,0,6,4,0,4,4,0,4,0,0,0,2021-06-08 13:08:33,9094006311.0,
+507,Chennai,"Anand Hospital,Manali",14,2,12,6,2,4,4,0,4,4,0,4,0,0,0,2021-06-09 12:39:01,9094006311.0,
 508,Chennai,"Anbu Hospital, Velachery",18,18,0,7,7,0,8,8,0,3,3,0,0,0,0,2021-05-12 09:47:59,9941356395.0,
 509,Chennai,"ARK Hospital, Velachery",17,15,2,3,2,1,14,13,1,0,0,0,0,0,0,2021-05-12 12:30:52,8056095393.0,
 510,Chennai,"Arokya Hospital, West K.K Nagar",21,21,0,14,14,0,0,0,0,7,7,0,1,1,0,2021-05-05 09:21:53,9791198781.0,
