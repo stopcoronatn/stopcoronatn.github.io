@@ -280,7 +280,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 279,Madurai,"Dr.Chidambaram Memorial Hospital, Jai Hind puram",19,19,0,19,19,0,0,0,0,0,0,0,0,0,0,2021-05-12 16:26:51,8122486160.0,12.05.2021 at UPDATED...
 280,Madurai,"Gowri Nursing Home, Jeeva Nagar",27,27,0,15,15,0,12,12,0,0,0,0,0,0,0,2021-05-12 16:26:21,9944458354.0,Update 12.05.2021..
 281,Madurai,"Grace Kennett Foundation Hospital, Kennett Road",15,10,5,10,6,4,0,0,0,5,4,1,2,2,0,2021-06-12 08:38:52,9943450401.0,NO CHANGE
-282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",50,7,43,12,2,10,5,0,5,33,5,28,8,7,1,2021-06-12 09:20:00,9003900349.0,12-06-2021
+282,Madurai,"Swarnakamalam (SKG) Multispeciality Hospital Pvt Ltd, Thirumanagalam",50,8,42,12,2,10,5,0,5,33,6,27,8,7,1,2021-06-12 11:45:04,9003900349.0,12-06-2021
 283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",42,27,15,14,5,9,28,22,6,0,0,0,0,0,0,2021-05-14 13:18:54,9159999914.0,Nil
 284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,2021-05-13 08:18:17,9443190986.0,
 285,Salem,"Geeth Raghunath Hospital, Attur",35,33,2,31,31,0,0,0,0,4,2,2,2,1,1,2021-05-16 17:16:52,9842750556.0,Grand total - 33
@@ -338,7 +338,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,2021-05-17 12:57:40,9994050605.0,nil
-340,Salem,Mohanraj Children's Hospital,70,13,57,15,13,2,55,0,55,0,0,0,0,0,0,2021-06-12 07:42:45,9566313409.0,Till 07.30pm 12.06.2021
+340,Salem,Mohanraj Children's Hospital,70,13,57,15,13,2,55,0,55,0,0,0,0,0,0,2021-06-12 12:27:04,9566313409.0,Till 12.30pm 12.06.2021
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,2021-05-30 10:27:29,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,52,52,0,17,17,0,25,25,0,10,10,0,2,2,0,2021-05-31 08:17:25,4272555999.0,Nil
@@ -482,7 +482,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 481,Chennai,"Mount Specialty Hospital Pvt Ltd,Adambakkam",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-04-27 16:20:33,,
 482,Chennai,"New Ruthran Hospital,Aynavaram",15,15,0,10,10,0,5,5,0,0,0,0,0,0,0,2021-05-11 11:01:20,7305309829.0,11-05-2021
 483,Perambalur,"Sanjjeev Hospital,Venkatesapuram",10,0,10,0,0,0,10,0,10,0,0,0,0,0,0,2021-05-12 13:14:36,9600763858.0,12.05.21
-484,Thoothukudi,"Sasi Hospital, Kovilpatti",25,11,14,21,8,13,0,0,0,4,3,1,0,0,0,2021-06-11 15:59:08,6382253140.0,4pm
+484,Thoothukudi,"Sasi Hospital, Kovilpatti",25,13,12,21,10,11,0,0,0,4,3,1,0,0,0,2021-06-12 12:17:31,6382253140.0,12.17PM
 485,Salem,"Shri Hospitals, Shankar Nagar",55,54,1,40,40,0,5,4,1,10,10,0,2,0,2,2021-05-12 10:20:57,9842769906.0,Nil
 486,Chengalpattu,Shri Isari Velan Mission Hospital,25,15,10,6,6,0,16,7,9,3,2,1,3,2,1,2021-05-12 14:54:24,9342101571.0,09/05/21
 487,Thiruchirappalli,"Silverline Speciality Hospital, Thillai Nagar",25,14,11,12,12,0,10,0,10,3,2,1,3,3,0,2021-06-12 10:35:06,9384875957.0,
@@ -535,7 +535,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 534,Chennai,KVT Health Centre,20,3,17,16,2,14,0,0,0,4,1,3,2,2,0,2021-06-08 13:15:38,8807555777.0,
 535,Krishnagiri,"Lakshmi Hospital,Hosur",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:18:19,,
 536,Chennai,M/s Dr.V.BalajiDr.V.Seshiah Diabetes care and R Institute,18,18,0,10,10,0,4,4,0,4,4,0,2,2,0,2021-05-08 12:23:56,9962913444.0,nil
-537,Chennai,"M/s K.M. Hospital, Vyarsarpadi",16,0,16,13,0,13,0,0,0,3,0,3,0,0,0,2021-06-11 10:43:31,7338779408.0,
+537,Chennai,"M/s K.M. Hospital, Vyarsarpadi",16,0,16,13,0,13,0,0,0,3,0,3,0,0,0,2021-06-12 12:06:20,7604844496.0,
 538,Thanjavur,"Medway Hospital, Kumbakonam",25,20,5,10,10,0,14,10,4,1,0,1,2,0,2,2021-05-12 15:25:45,9790793659.0,May 12
 539,Tiruvallur,"MMRV Hospital, Azhinjivakkam",10,10,0,5,5,0,5,5,0,0,0,0,0,0,0,2021-05-12 08:26:27,9042610290.0,12/05/2021
 540,Chennai,"MMRV Hospital, Mogappair West",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-01 20:23:00,,
