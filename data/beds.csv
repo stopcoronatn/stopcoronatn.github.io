@@ -21,7 +21,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 20,Chennai,C.s.i Rainy Multi Speciality Hospital Tondaiarpet,12,12,0,10,10,0,0,0,0,2,2,0,1,1,0,2021-05-12 08:51:12,9941415544.0,12.05.2021 updated
 21,Chennai,Chennai Orthopedic Centre -ER,24,24,0,24,24,0,0,0,0,0,0,0,0,0,0,2021-05-12 08:05:16,9790082003.0,updated 01 12/05/2021
 22,Chennai,Chettinad Hospital,525,525,0,345,345,0,140,140,0,40,40,0,10,10,0,2021-05-12 14:50:25,9094713000.0,
-23,Chennai,CSI Kalyani General Hospital,110,50,60,35,25,10,65,15,50,10,10,0,3,3,0,2021-06-18 09:06:27,8667243945.0,18/06/21
+23,Chennai,CSI Kalyani General Hospital,110,40,70,35,25,10,65,5,60,10,10,0,3,3,0,2021-06-18 13:40:12,8667243945.0,18/06/21
 24,Chennai,Dr.Kamakshi Memorial Hospital,100,100,0,85,85,0,0,0,0,15,15,0,10,10,0,2021-06-14 09:35:27,8754594545.0,14/06/2021
 25,Chennai,Fortis Malar Hospital,62,62,0,47,47,0,0,0,0,15,15,0,15,15,0,2021-05-17 10:07:59,9962000500.0,17-05-2021
 26,Chennai,Frontier Lifeline Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-05-09 08:57:03,9790745924.0,"C PAP - NIL CASES, BPAP - NIL CASES, Update"
@@ -293,7 +293,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,40,0,25,25,0,10,10,0,5,5,0,3,3,0,2021-05-13 01:14:02,9942104455.0,40 patients
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-12 15:26:29,8870011952.0,may 12
 294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-14 08:53:39,9443328375.0,14.05.2021
-295,Theni,"Nalam Hospital, Allinagaram",12,3,9,12,3,9,0,0,0,0,0,0,0,0,0,2021-06-18 07:23:11,8870007450.0,18.06.2021 Morning report
+295,Theni,"Nalam Hospital, Allinagaram",12,3,9,12,3,9,0,0,0,0,0,0,0,0,0,2021-06-18 14:26:52,8870007450.0,18.06.2021 Evening report
 296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,8,7,2,0,2,11,8,3,2,0,2,1,0,1,2021-05-25 14:34:57,9003398211.0,Evening update theni
 297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-14 08:54:34,9361917118.0,14.05.2021
 298,Tirunelveli,"Royal Hospital, NGO Colony",28,23,5,20,20,0,5,0,5,3,3,0,3,3,0,2021-05-15 08:13:40,9487057857.0,15.05.21 updated
@@ -457,7 +457,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 456,Thoothukudi,Arputham Hospital,15,15,0,12,12,0,0,0,0,3,3,0,2,0,2,2021-05-18 12:35:13,7373762266.0,1 :00 PM
 457,Kanyakumari,Morris Mathiys hospital,40,40,0,6,6,0,26,26,0,8,8,0,0,0,0,2021-05-29 08:38:18,9843461901.0,.
 458,Kanyakumari,Holy Cross Hospital,50,45,5,18,18,0,30,25,5,2,2,0,0,0,0,2021-06-09 16:17:56,9944844355.0,.
-459,Theni,Krishnammal Memorial hospital.,35,8,27,20,8,12,10,0,10,5,0,5,0,0,0,2021-06-17 14:48:28,9786629040.0,Ok
+459,Theni,Krishnammal Memorial hospital.,35,5,30,20,5,15,10,0,10,5,0,5,0,0,0,2021-06-18 14:10:56,9786629040.0,Ok
 460,Tiruppur,Sri Kumaran Hospital,104,74,30,65,47,18,14,7,7,25,20,5,8,8,0,2021-06-18 09:31:48,9842399300.0,NILL
 461,Theni,NRT hospital,50,28,22,20,19,1,20,2,18,10,7,3,3,0,3,2021-05-28 15:07:50,9894447717.0,Evening update
 462,Coimbatore,Manu Hospital,36,36,0,30,30,0,0,0,0,6,6,0,6,6,0,2021-05-14 09:46:26,9789324445.0,
