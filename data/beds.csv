@@ -8,7 +8,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,13,32,23,3,20,12,0,12,10,10,0,10,10,0,2021-06-19 16:10:01,8585858550.0,19. 6.2021 4 pm
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,14,16,20,11,9,5,1,4,5,2,3,3,1,2,2021-06-19 16:10:22,8300017171.0,19/06/2021 @ 4 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,56,60,97,37,60,0,0,0,19,19,0,12,12,0,2021-06-19 09:02:13,7824821042.0,19.06.2021
+10,Chennai,"Apollo Hospitals, Vanagaram",116,56,60,97,37,60,0,0,0,19,19,0,12,12,0,2021-06-19 18:15:10,7824821042.0,19.06.2021
 11,Chennai,Appasamy Hospital,68,4,64,59,1,58,0,0,0,9,3,6,2,2,0,2021-06-19 17:15:21,6379350953.0,June 19th @ 5:00 PM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
@@ -471,7 +471,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 470,Thiruchirappalli,"Decca Hospital, Thillai Nagar",22,20,2,17,17,0,3,1,2,2,2,0,2,0,2,2021-05-13 08:50:00,9842410780.0,nil
 471,Thanjavur,"Dr.Vanchilingam Hospital Pvt Ltd,K.S Nagar",18,16,2,10,10,0,5,3,2,3,3,0,0,0,0,2021-05-12 15:11:58,9626425681.0,.
 472,Chennai,"Ezhil Hospital, Tondiarpet",25,22,3,12,12,0,13,10,3,0,0,0,0,0,0,2021-05-12 11:56:26,9444116336.0,3 BEDS AVAILABLE 12-05-2021
-473,Coimbatore,"Fathima Hospital,Podanur",15,3,12,5,2,3,10,1,9,0,0,0,0,0,0,2021-06-19 10:02:12,8098011072.0,19.06.2021
+473,Coimbatore,"Fathima Hospital,Podanur",15,3,12,5,2,3,10,1,9,0,0,0,0,0,0,2021-06-19 18:32:37,8098011072.0,19.06.2021 /
 474,Thiruchirappalli,"Jagadha Hospital,Thillai Nagar",20,16,4,14,14,0,4,0,4,2,2,0,0,0,0,2021-05-13 08:51:21,9488333620.0,Nil..
 475,Thiruchirappalli,"Kanapathy Memorial Hospital, Musiri",24,10,14,14,4,10,4,0,4,6,6,0,2,0,2,2021-05-13 09:10:35,9566813205.0,Nil
 476,TheNilgiris,"Kotagiri Medical Fellowship Hospital,Kotagiri",16,8,8,8,3,5,6,4,2,2,1,1,1,0,1,2021-05-11 09:23:35,9585259479.0,
