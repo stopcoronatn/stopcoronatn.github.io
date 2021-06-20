@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,7,38,23,2,21,12,0,12,10,5,5,10,10,0,2021-06-20 13:02:52,8585858550.0,20. 6.2021 1 pm
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,10,20,20,7,13,5,1,4,5,2,3,3,1,2,2021-06-20 10:20:35,8300017171.0,20/06/2021 @ 10.30 am
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,10,20,20,7,13,5,1,4,5,2,3,3,1,2,2021-06-20 14:07:59,8300017171.0,20/06/2021 @ 2 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,58,58,97,39,58,0,0,0,19,19,0,12,12,0,2021-06-20 11:14:27,7824821042.0,20.06.2021
 11,Chennai,Appasamy Hospital,68,4,64,59,1,58,0,0,0,9,3,6,2,2,0,2021-06-19 17:15:21,6379350953.0,June 19th @ 5:00 PM
@@ -271,7 +271,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 270,Coimbatore,Abinand Hospital,65,52,13,30,30,0,30,17,13,5,5,0,3,3,0,2021-05-12 08:52:46,8838689898.0,As on 12.05.2021
 271,Coimbatore,"Sree Abirami Hospital, Coimbatore TN.",75,75,0,45,45,0,15,15,0,15,15,0,3,3,0,2021-06-03 09:17:54,9952200057.0,3/6
 272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
-273,Kancheepuram,"TCS, Sirucherry",40,2,38,0,0,0,40,2,38,0,0,0,0,0,0,2021-06-20 09:14:58,0.0,UPDATED TILL 20/06/2021 09:00 AM
+273,Kancheepuram,"TCS, Sirucherry",40,2,38,0,0,0,40,2,38,0,0,0,0,0,0,2021-06-20 14:21:42,0.0,UPDATED TILL 20/06/2021 14:00 AM
 274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,40,0,24,24,0,9,9,0,7,7,0,2,2,0,2021-05-12 17:06:20,9566519491.0,.
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-18 17:14:04,9443152469.0,18.05.2021 EVENING
 276,Karur,"ABS Hospital, Thanthonimalai",80,75,5,55,53,2,0,0,0,25,22,3,3,0,3,2021-05-12 13:27:15,8300393424.0,12.05.2021..
@@ -293,7 +293,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,40,0,25,25,0,10,10,0,5,5,0,3,3,0,2021-05-13 01:14:02,9942104455.0,40 patients
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-12 15:26:29,8870011952.0,may 12
 294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-14 08:53:39,9443328375.0,14.05.2021
-295,Theni,"Nalam Hospital, Allinagaram",12,3,9,12,3,9,0,0,0,0,0,0,0,0,0,2021-06-20 07:30:10,8870007450.0,20.06.2021 Morning report
+295,Theni,"Nalam Hospital, Allinagaram",12,0,12,12,0,12,0,0,0,0,0,0,0,0,0,2021-06-20 13:59:54,8870007450.0,20.06.2021 Evening report
 296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,8,7,2,0,2,11,8,3,2,0,2,1,0,1,2021-05-25 14:34:57,9003398211.0,Evening update theni
 297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-14 08:54:34,9361917118.0,14.05.2021
 298,Tirunelveli,"Royal Hospital, NGO Colony",28,23,5,20,20,0,5,0,5,3,3,0,3,3,0,2021-05-15 08:13:40,9487057857.0,15.05.21 updated
