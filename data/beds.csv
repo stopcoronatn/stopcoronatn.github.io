@@ -8,7 +8,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,5,40,23,2,21,12,0,12,10,3,7,10,3,7,2021-06-27 12:57:35,8585858550.0,27-6-2021 1 PM
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,3,27,20,2,18,5,1,4,5,0,5,3,0,3,2021-06-27 12:59:00,8300017171.0,27/06/2021 @ 1 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,30,86,101,21,80,0,0,0,15,9,6,7,6,1,2021-06-27 09:08:59,7824821042.0,27.06.2021
+10,Chennai,"Apollo Hospitals, Vanagaram",116,30,86,101,21,80,0,0,0,15,9,6,7,6,1,2021-06-27 15:28:15,7824821042.0,27.06.2021
 11,Chennai,Appasamy Hospital,56,4,52,47,3,44,0,0,0,9,1,8,2,0,2,2021-06-27 09:08:48,6379350953.0,June 27th@ 9:00 AM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
@@ -244,7 +244,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 243,Chennai,"Shaarave Multi Speciality Hospital, Sowcorpet",12,12,0,8,8,0,0,0,0,4,4,0,2,2,0,2021-05-17 07:43:35,4443229641.0,17.05.2021
 244,Chennai,Shanmugam Multi Speciality Hospital Royapuram,10,10,0,10,10,0,0,0,0,0,0,0,1,1,0,2021-06-01 12:03:17,7010229157.0,01.06.2021
 245,Coimbatore,Atlas Pain Care Sowripalayam,40,31,9,0,0,0,40,31,9,0,0,0,0,0,0,2021-05-12 08:53:53,9865509999.0,09.05.2020
-246,Dindigul,"JCB Hospitals Palani Road,",50,9,41,48,7,41,0,0,0,2,2,0,3,0,3,2021-06-27 07:44:59,9150758413.0,27.06.2021
+246,Dindigul,"JCB Hospitals Palani Road,",50,9,41,48,7,41,0,0,0,2,2,0,3,0,3,2021-06-27 14:54:32,9150758413.0,27.06.2021
 247,Dindigul,"Shree SathyaSubha Hospital, New Agaraharam",35,32,3,32,32,0,0,0,0,3,0,3,3,0,3,2021-06-20 09:16:00,6381781885.0,20/06/2021
 248,Dindigul,"Van Allen Hospital, Kodaikanal",15,11,4,6,3,3,8,8,0,1,0,1,1,0,1,2021-05-12 15:49:11,6374042759.0,12/05/2021
 249,Kanyakumari,Swamiyarmadam Rathna Memorial Hospital,40,40,0,15,15,0,16,16,0,9,9,0,0,0,0,2021-05-12 15:06:09,9750973290.0,.
