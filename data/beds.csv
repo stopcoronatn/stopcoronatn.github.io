@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,5,40,23,2,21,12,0,12,10,3,7,10,3,7,2021-06-27 15:57:07,8585858550.0,27-6-2021 4 PM
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,3,27,20,2,18,5,1,4,5,0,5,3,0,3,2021-06-28 08:06:01,8300017171.0,28/06/2021 @ 8 am
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,3,27,20,2,18,5,1,4,5,0,5,3,0,3,2021-06-28 12:34:51,8300017171.0,28/06/2021 @ 1 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,29,87,101,20,81,0,0,0,15,9,6,7,6,1,2021-06-28 08:42:05,7824821042.0,28.06.2021
 11,Chennai,Appasamy Hospital,56,4,52,47,3,44,0,0,0,9,1,8,2,0,2,2021-06-28 10:08:25,6379350953.0,June 28th@ 9:00 AM
@@ -394,7 +394,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 393,Coimbatore,"N.M. Hospital, Annur",64,64,0,40,40,0,12,12,0,12,12,0,2,2,0,2021-05-12 10:44:42,9944376111.0,.
 394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,2021-05-14 07:44:20,9489059104.0,7.43am
 395,Tiruvallur,"Be well , Ponamallee",35,35,0,15,15,0,20,20,0,0,0,0,0,0,0,2021-05-12 16:17:55,7092937252.0,
-396,Thanjavur,National pharma,50,10,40,5,5,0,43,3,40,2,2,0,2,2,0,2021-06-27 11:01:30,9524241241.0,Positive cases- 5
+396,Thanjavur,National pharma,50,7,43,5,5,0,43,0,43,2,2,0,2,2,0,2021-06-28 12:29:15,9524241241.0,Positive cases- 6
 397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,17,8,9,4,5,11,11,0,5,2,3,2,0,2,2021-05-18 07:06:58,9566683380.0,
 398,Chennai,"Amrit Medical Centre,Purasawakkam",20,17,3,2,2,0,17,14,3,1,1,0,0,0,0,2021-05-12 16:00:59,8122119835.0,
 399,Salem,AP Medical Centre,40,40,0,25,25,0,15,15,0,0,0,0,0,0,0,2021-05-13 11:47:36,9994930184.0,Updated on 13.05.21
