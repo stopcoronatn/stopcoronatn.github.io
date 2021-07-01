@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,2,43,23,0,23,12,0,12,10,2,8,10,2,8,2021-07-01 15:58:57,8585858550.0,1-7-2021 4 PM update
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-01 17:35:44,8300017171.0,01/07/2021 @ 5.30 pm
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-01 19:14:49,8300017171.0,01/07/2021 @ 7 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,31,85,101,22,79,0,0,0,15,9,6,7,6,1,2021-07-01 16:44:10,7824821042.0,01.07.2021
 11,Chennai,Appasamy Hospital,56,3,53,47,2,45,0,0,0,9,1,8,2,0,2,2021-07-01 09:57:37,6379350953.0,June 1st@ 9:00 AM
@@ -333,7 +333,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 332,Coimbatore,"K.Govindhasamy Memorial Annex Hospital, Saravanampatti",150,150,0,30,30,0,117,117,0,3,3,0,2,2,0,2021-05-12 10:29:56,7094441551.0,
 333,Coimbatore,"Kalpana Medical Centre Pvt Ltd, Kavundampalayam",40,40,0,38,38,0,0,0,0,2,2,0,2,2,0,2021-05-12 09:51:25,8508655534.0,
 334,Coimbatore,"Kumaran Medical Centre, Kurumbapalayam",80,80,0,50,50,0,20,20,0,10,10,0,3,3,0,2021-05-12 10:00:55,9344022222.0,
-335,Coimbatore,"NG Hospital Pvt Ltd & Research Centre, Singanallur",140,11,129,73,2,71,40,7,33,27,2,25,2,0,2,2021-07-01 09:10:18,9865755568.0,
+335,Coimbatore,"NG Hospital Pvt Ltd & Research Centre, Singanallur",140,9,131,73,2,71,40,6,34,27,1,26,2,0,2,2021-07-01 19:18:40,9865755568.0,
 336,Coimbatore,"Sathya Medical Centre and Hospital, Sivanandha Colony",30,30,0,10,10,0,15,15,0,5,5,0,4,4,0,2021-05-12 09:18:08,9994499585.0,12.05.2021
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
