@@ -8,7 +8,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,2,43,23,0,23,12,0,12,10,2,8,10,2,8,2021-07-01 15:58:57,8585858550.0,1-7-2021 4 PM update
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-02 08:04:34,8300017171.0,02/07/2021 @ 8 am
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,28,88,101,20,81,0,0,0,15,8,7,7,5,2,2021-07-02 09:15:26,7824821042.0,02.07.2021
+10,Chennai,"Apollo Hospitals, Vanagaram",116,28,88,101,20,81,0,0,0,15,8,7,7,5,2,2021-07-02 14:04:32,7824821042.0,02.07.2021
 11,Chennai,Appasamy Hospital,56,3,53,47,2,45,0,0,0,9,1,8,2,0,2,2021-07-02 10:07:28,6379350953.0,June 2nd@ 9:00 AM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
@@ -293,7 +293,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 292,Thanjavur,"Sri Naadi Hospital, Pattukottai",40,40,0,25,25,0,10,10,0,5,5,0,3,3,0,2021-05-13 01:14:02,9942104455.0,40 patients
 293,Thanjavur,"Vijay Poly Clinic, Kumbakonam",30,30,0,18,18,0,10,10,0,2,2,0,1,1,0,2021-05-12 15:26:29,8870011952.0,may 12
 294,Theni,Arun Hospital,23,0,23,10,0,10,10,0,10,3,0,3,0,0,0,2021-05-14 08:53:39,9443328375.0,14.05.2021
-295,Theni,"Nalam Hospital, Allinagaram",12,0,12,12,0,12,0,0,0,0,0,0,0,0,0,2021-07-02 07:39:25,8870007450.0,02.07.2021 Morning report
+295,Theni,"Nalam Hospital, Allinagaram",12,0,12,12,0,12,0,0,0,0,0,0,0,0,0,2021-07-02 14:21:57,8870007450.0,02.07.2021 Evening report
 296,Theni,"Ramapadyan Hospital, A.Pudur Vilakku",15,8,7,2,0,2,11,8,3,2,0,2,1,0,1,2021-05-25 14:34:57,9003398211.0,Evening update theni
 297,Theni,"Theni Medical Centre, Nehruji Road",25,25,0,25,25,0,0,0,0,0,0,0,0,0,0,2021-05-14 08:54:34,9361917118.0,14.05.2021
 298,Tirunelveli,"Royal Hospital, NGO Colony",28,23,5,20,20,0,5,0,5,3,3,0,3,3,0,2021-05-15 08:13:40,9487057857.0,15.05.21 updated
