@@ -77,7 +77,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,2021-05-13 09:36:21,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
-79,Chennai,Tagore Medical College & Hospital,410,12,398,45,2,43,349,9,340,16,1,15,7,1,6,2021-07-03 09:02:13,4430101111.0,03/07/2021 09:02 AM
+79,Chennai,Tagore Medical College & Hospital,410,12,398,45,2,43,349,9,340,16,1,15,7,1,6,2021-07-03 11:15:18,4430101111.0,03/07/2021 11:15 AM
 80,Chennai,"The Guest Hospital, Kilpauk",15,0,15,6,0,6,5,0,5,4,0,4,2,2,0,2021-07-02 17:37:23,8903573717.0,02/07/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
@@ -338,7 +338,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,2021-05-17 12:57:40,9994050605.0,nil
-340,Salem,Mohanraj Children's Hospital,70,0,70,20,0,20,50,0,50,0,0,0,0,0,0,2021-07-02 17:05:51,9566313409.0,Till 05.00pm 02.07.2021
+340,Salem,Mohanraj Children's Hospital,70,0,70,20,0,20,50,0,50,0,0,0,0,0,0,2021-07-03 11:34:50,9566313409.0,Till 11.30pm 03.07.2021
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,2021-05-30 10:27:29,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,52,52,0,17,17,0,25,25,0,10,10,0,2,2,0,2021-05-31 08:17:25,4272555999.0,Nil
@@ -394,7 +394,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 393,Coimbatore,"N.M. Hospital, Annur",64,64,0,40,40,0,12,12,0,12,12,0,2,2,0,2021-05-12 10:44:42,9944376111.0,.
 394,Namakkal,Swamy Vivekanandha Medical College Hospital and Research Institute,100,0,100,40,0,40,50,0,50,10,0,10,10,0,10,2021-05-14 07:44:20,9489059104.0,7.43am
 395,Tiruvallur,"Be well , Ponamallee",35,35,0,15,15,0,20,20,0,0,0,0,0,0,0,2021-05-12 16:17:55,7092937252.0,
-396,Thanjavur,National pharma,50,7,43,5,5,0,43,0,43,2,2,0,2,2,0,2021-07-02 11:32:22,9524241241.0,Positive cases- 6
+396,Thanjavur,National pharma,50,7,43,5,5,0,43,0,43,2,2,0,2,2,0,2021-07-03 10:52:34,9524241241.0,Positive cases- 4
 397,Thiruchirappalli,"Akshaya Hospital,Thottiyam",25,17,8,9,4,5,11,11,0,5,2,3,2,0,2,2021-05-18 07:06:58,9566683380.0,
 398,Chennai,"Amrit Medical Centre,Purasawakkam",20,17,3,2,2,0,17,14,3,1,1,0,0,0,0,2021-05-12 16:00:59,8122119835.0,
 399,Salem,AP Medical Centre,40,40,0,25,25,0,15,15,0,0,0,0,0,0,0,2021-05-13 11:47:36,9994930184.0,Updated on 13.05.21
