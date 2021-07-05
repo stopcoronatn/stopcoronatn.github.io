@@ -5,11 +5,11 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,11,11,0,4,4,0,1,1,0,1,1,0,2021-05-12 09:24:04,7358244662.0,12.05.2021
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
-7,Chengalpattu,"Sugam Hospital, Chromepet",45,1,44,23,0,23,12,0,12,10,1,9,10,1,9,2021-07-05 13:07:02,8585858550.0,5-7-2021 1 PM update
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-05 08:56:41,8300017171.0,05/07/2021 @ 9 am
+7,Chengalpattu,"Sugam Hospital, Chromepet",45,3,42,23,2,21,12,0,12,10,1,9,10,1,9,2021-07-05 17:02:28,8585858550.0,5-7-2021 4 PM update
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-05 17:19:48,8300017171.0,05/07/2021 @ 5 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,21,95,101,15,86,0,0,0,15,6,9,7,4,3,2021-07-05 09:04:26,7824821042.0,05.07.2021
-11,Chennai,Appasamy Hospital,56,1,55,47,1,46,0,0,0,9,0,9,2,0,2,2021-07-05 09:49:37,6379350953.0,June 5th@ 9:00 AM
+11,Chennai,Appasamy Hospital,56,1,55,47,1,46,0,0,0,9,0,9,2,0,2,2021-07-05 17:08:23,6379350953.0,June 5th@ 5:00 PM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
 14,Chennai,Aysha Hospital,30,30,0,6,6,0,17,17,0,7,7,0,0,0,0,2021-05-12 10:19:51,7824030941.0,
@@ -316,7 +316,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 315,Chennai,Annai Multispeciality Hospital,25,0,25,10,0,10,7,0,7,8,0,8,4,0,4,2021-07-03 10:12:25,7092820884.0,03/07/2021 Covid care helpline - 8778501016/9894686088 ...
 316,Thiruchirappalli,Royal Pearl Hospital,25,22,3,18,15,3,0,0,0,7,7,0,2,0,2,2021-05-14 09:52:57,8300244928.0,NILL
 317,Mayiladuthurai,Vishnu hospital,19,16,3,6,6,0,10,10,0,3,0,3,1,0,1,2021-05-14 13:21:27,9489858034.0,Nil
-318,Sivagangai,Apollo,60,12,48,10,7,3,45,0,45,5,5,0,1,1,0,2021-07-05 13:15:05,7397591935.0,5.7.2021@1pm
+318,Sivagangai,Apollo,60,12,48,10,7,3,45,0,45,5,5,0,1,1,0,2021-07-05 16:42:38,7397591935.0,5.7.2021@4pm
 319,Sivagangai,Senthil hospital,85,24,61,50,23,27,23,0,23,12,1,11,4,0,4,2021-07-05 08:17:36,8012519266.0,Covid Positive : 17 Suspected: 7 Updated
 320,Chengalpet,KMS Health Centre,25,25,0,17,17,0,7,7,0,1,1,0,1,1,0,2021-05-12 17:41:49,9791197514.0,12 May21 05:41 PM
 321,Salem,"Kamala Hospital,Agraharam",73,73,0,31,31,0,32,32,0,10,10,0,2,2,0,2021-05-16 20:56:00,9842719451.0,updated..
