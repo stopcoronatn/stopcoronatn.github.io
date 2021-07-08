@@ -17,7 +17,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 16,Chennai,Bhaarath medical college and hospital,160,160,0,50,50,0,50,50,0,60,60,0,7,7,0,2021-05-12 18:46:20,446111222.0,12-05-2021
 17,Chennai,Bharathiraja Hospital & Research Centre Pvt Ltd,85,85,0,70,70,0,5,5,0,10,10,0,2,2,0,2021-05-24 08:06:41,9444170203.0,24.05.2021
 18,Chennai,"Billroth Hospitals Shenoy Nagar, Chennai TN.",175,175,0,130,130,0,25,25,0,20,20,0,2,2,0,2021-05-12 19:53:28,4442921777.0,
-19,Chennai,"Bloom Fertility and Healthcare, Velachery",20,20,0,4,4,0,16,16,0,0,0,0,0,0,0,2021-06-24 17:16:07,9551841153.0,today report 24/06/2021
+19,Chennai,"Bloom Fertility and Healthcare, Velachery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-07-08 12:36:26,9551841153.0,today report 08/07/2021
 20,Chennai,C.s.i Rainy Multi Speciality Hospital Tondaiarpet,12,12,0,10,10,0,0,0,0,2,2,0,1,1,0,2021-05-12 08:51:12,9941415544.0,12.05.2021 updated
 21,Chennai,Chennai Orthopedic Centre -ER,24,24,0,24,24,0,0,0,0,0,0,0,0,0,0,2021-05-12 08:05:16,9790082003.0,updated 01 12/05/2021
 22,Chennai,Chettinad Hospital,525,525,0,345,345,0,140,140,0,40,40,0,10,10,0,2021-05-12 14:50:25,9094713000.0,
@@ -77,7 +77,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,2021-05-13 09:36:21,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
-79,Chennai,Tagore Medical College & Hospital,410,6,404,45,0,45,349,4,345,16,2,14,7,2,5,2021-07-08 08:49:39,4430101111.0,08/07/2021 08.48 AM
+79,Chennai,Tagore Medical College & Hospital,410,6,404,45,0,45,349,4,345,16,2,14,7,2,5,2021-07-08 11:57:50,4430101111.0,08/07/2021 12.00 PM
 80,Chennai,"The Guest Hospital, Kilpauk",15,1,14,6,1,5,5,0,5,4,0,4,2,2,0,2021-07-08 10:55:35,8903573717.0,08/07/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
@@ -262,7 +262,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 261,Sivagangai,"Madha Hospital, Manamadurai",50,27,23,10,8,2,30,19,11,10,0,10,1,0,1,2021-05-14 15:31:31,7904443644.0,Positive-8 Suspect-19 Total-27 Updated
 262,Madurai,"Ahana Hospital,11,Subramanian st,Annanagar,Madurai",90,2,88,89,1,88,0,0,0,1,1,0,1,0,1,2021-07-08 07:24:17,9659462722.0,Nil...
 263,Chennai,"Apollo Hospital, OMR, Perungudi",55,55,0,32,32,0,7,7,0,16,16,0,5,5,0,2021-06-24 09:47:35,7299021425.0,Updated 24/6/2020
-264,Chennai,"K.G.J Hospitals, Korattur",20,0,20,20,0,20,0,0,0,0,0,0,0,0,0,2021-07-07 16:26:58,8695966995.0,Updated 07/07/2021 04.26 PM
+264,Chennai,"K.G.J Hospitals, Korattur",20,0,20,20,0,20,0,0,0,0,0,0,0,0,0,2021-07-08 12:18:23,8695966995.0,Updated 08/07/2021 12.18PM
 265,Chennai,"Padmapriya Hospital, Adyar",5,0,5,3,0,3,2,0,2,0,0,0,0,0,0,2021-07-08 09:24:08,9444200270.0,updated 08-07-2021
 266,Chennai,"Priya Nursing Home, Old Washermenpet",40,40,0,10,10,0,24,24,0,6,6,0,0,0,0,2021-05-11 10:46:09,9094888340.0,11/05/2021 9.00aM
 267,Chennai,"Saraswathy Multi Speciality Hospitals, Madipakkam",85,84,1,30,30,0,20,19,1,35,35,0,6,6,0,2021-05-13 06:24:44,9790785916.0,
@@ -338,7 +338,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 337,Salem,Aishwaryam Speciality Hospital,47,47,0,47,47,0,0,0,0,0,0,0,2,0,2,2021-05-12 09:40:11,4272777555.0,NIL
 338,Salem,"Deepam Speciality Hospital, Vazhapady",60,45,15,10,10,0,46,31,15,4,4,0,0,0,0,2021-05-13 06:38:55,9787702400.0,Nil
 339,Salem,"GL Hospital, Swarnapuri",30,30,0,18,18,0,6,6,0,6,6,0,1,1,0,2021-05-17 12:57:40,9994050605.0,nil
-340,Salem,Mohanraj Children's Hospital,70,0,70,20,0,20,50,0,50,0,0,0,0,0,0,2021-07-08 08:24:23,9566313409.0,Till 08.20am 08.07.2021
+340,Salem,Mohanraj Children's Hospital,70,0,70,20,0,20,50,0,50,0,0,0,0,0,0,2021-07-08 12:05:09,9566313409.0,Till 12.00Pm 08.07.2021
 341,Salem,"Nathan Super Speciaty Hosptial, Salem",52,52,0,23,23,0,17,17,0,12,12,0,2,0,2,2021-05-30 10:27:29,9894276633.0,Nil
 342,Salem,"Sri Shellapha Hospital, Salem",70,60,10,35,35,0,32,22,10,3,3,0,0,0,0,2021-05-13 10:03:51,9894264333.0,Sent on 13.05.2021 at 10.00Am
 343,Salem,Thiru Neuro And MultiSpecility Salem,52,52,0,17,17,0,25,25,0,10,10,0,2,2,0,2021-05-31 08:17:25,4272555999.0,Nil
