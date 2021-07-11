@@ -5,7 +5,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 4,Chengalpattu,Chennai Emergency care Centre Pammal,16,16,0,11,11,0,4,4,0,1,1,0,1,1,0,2021-05-12 09:24:04,7358244662.0,12.05.2021
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
-7,Chengalpattu,"Sugam Hospital, Chromepet",45,1,44,23,0,23,12,0,12,10,1,9,10,1,9,2021-07-10 18:02:26,8585858550.0,10-7-2021 6 PM update
+7,Chengalpattu,"Sugam Hospital, Chromepet",45,0,45,23,0,23,12,0,12,10,0,10,10,0,10,2021-07-11 07:25:25,8585858550.0,12-7-2021 7 AM update
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-10 17:55:52,8300017171.0,10/07/2021 @ 6 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,21,95,101,12,89,0,0,0,15,9,6,7,6,1,2021-07-10 17:54:17,7824821042.0,10.07.2021
@@ -317,7 +317,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 316,Thiruchirappalli,Royal Pearl Hospital,25,22,3,18,15,3,0,0,0,7,7,0,2,0,2,2021-05-14 09:52:57,8300244928.0,NILL
 317,Mayiladuthurai,Vishnu hospital,19,16,3,6,6,0,10,10,0,3,0,3,1,0,1,2021-05-14 13:21:27,9489858034.0,Nil
 318,Sivagangai,Apollo,60,10,50,10,5,5,45,0,45,5,5,0,1,1,0,2021-07-10 16:06:43,7397591935.0,10.7.2021@4pM
-319,Sivagangai,Senthil hospital,85,22,63,50,20,30,23,0,23,12,2,10,4,2,2,2021-07-10 08:00:39,8012519266.0,Covid Positive : 16 Suspected: 6 Updated
+319,Sivagangai,Senthil hospital,85,24,61,50,22,28,23,0,23,12,2,10,4,2,2,2021-07-11 07:39:53,8012519266.0,Covid Positive : 16 Suspected: 8 Updated
 320,Chengalpet,KMS Health Centre,25,25,0,17,17,0,7,7,0,1,1,0,1,1,0,2021-05-12 17:41:49,9791197514.0,12 May21 05:41 PM
 321,Salem,"Kamala Hospital,Agraharam",73,73,0,31,31,0,32,32,0,10,10,0,2,2,0,2021-05-16 20:56:00,9842719451.0,updated..
 322,Coimbatore,"Coimbatore Diabetic Foundation,maruthamalai road",30,9,21,15,7,8,15,2,13,0,0,0,0,0,0,2021-06-06 10:21:51,9362622723.0,06/06/2021
