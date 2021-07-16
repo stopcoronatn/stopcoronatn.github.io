@@ -77,7 +77,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 76,Chennai,Srm Medical College & Hospital,381,214,167,150,139,11,211,55,156,20,20,0,7,7,0,2021-05-13 09:36:21,8056072277.0,SRM MCH & RC
 77,Chennai,St. Thomas Hospital,77,77,0,15,15,0,52,52,0,10,10,0,6,6,0,2021-05-12 15:54:59,8126948524.0,12.5.2021
 78,Chennai,Sundaram Medical Foundation,24,24,0,19,19,0,0,0,0,5,5,0,5,5,0,2021-05-13 08:59:15,9884245646.0,
-79,Chennai,Tagore Medical College & Hospital,410,4,406,45,1,44,349,1,348,16,2,14,7,2,5,2021-07-16 14:30:23,4430101111.0,16/07/2021 02.28 PM
+79,Chennai,Tagore Medical College & Hospital,410,4,406,45,1,44,349,1,348,16,2,14,7,2,5,2021-07-16 17:02:36,4430101111.0,16/07/2021 05.00 PM
 80,Chennai,"The Guest Hospital, Kilpauk",15,0,15,6,0,6,5,0,5,4,0,4,2,2,0,2021-07-16 11:53:43,8903573717.0,16/07/2021
 81,Chennai,Tosh Hospitals Pvt Ltd,30,30,0,26,26,0,4,4,0,0,0,0,0,0,0,2021-05-12 08:49:42,9894467903.0,12-05-2021
 82,Chennai,Trinity Acute care Hospital,24,24,0,20,20,0,0,0,0,4,4,0,4,4,0,2021-05-12 12:48:33,8056621324.0,12/05/2021
@@ -284,7 +284,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 283,Nagapattinam,"Arun Priya Nursing Home, Nagapattinam TN.",42,27,15,14,5,9,28,22,6,0,0,0,0,0,0,2021-05-14 13:18:54,9159999914.0,Nil
 284,Ramanathapuram,Meera Clinic,16,16,0,6,6,0,10,10,0,0,0,0,2,0,2,2021-05-13 08:18:17,9443190986.0,
 285,Salem,"Geeth Raghunath Hospital, Attur",35,33,2,31,31,0,0,0,0,4,2,2,2,1,1,2021-05-16 17:16:52,9842750556.0,Grand total - 33
-286,Salem,"Karthik Medical Centre, Idappadi",35,2,33,22,0,22,11,0,11,2,2,0,2,2,0,2021-07-16 09:34:34,9600380076.0,
+286,Salem,"Karthik Medical Centre, Idappadi",35,1,34,22,0,22,11,0,11,2,1,1,2,2,0,2021-07-16 16:58:46,9600380076.0,
 287,Salem,"Shivasurya Polyclinic, Salem",24,24,0,18,18,0,6,6,0,0,0,0,0,0,0,2021-05-12 01:33:05,9443173270.0,Nil
 288,Salem,"Sree Vasantham Hospital, Gugai",35,35,0,10,10,0,16,16,0,9,9,0,3,0,3,2021-06-12 13:35:43,9894136398.0,Update
 289,Tenkasi,"Meeran Hospital, Tenkasi",53,43,10,48,38,10,1,1,0,4,4,0,1,0,1,2021-05-15 09:12:06,9600692323.0,.
@@ -378,7 +378,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 377,Chennai,"One health hospital, Vandalur",25,25,0,15,15,0,0,0,0,10,10,0,4,4,0,2021-05-21 16:04:29,9445025558.0,
 378,Chennai,"Srinivasa Hospital, Kodampakkam",30,12,18,20,9,11,5,1,4,5,2,3,2,2,0,2021-05-27 21:11:24,9840102493.0,
 379,Kanyakumari,"PPK hospital, Marthandam",42,35,7,25,18,7,10,10,0,7,7,0,3,2,1,2021-05-12 15:16:51,9442521919.0,.
-380,Salem,RK hospital,15,5,10,10,3,7,3,2,1,2,0,2,0,0,0,2021-07-07 12:51:11,7373004777.0,Here with Updating our Hospital bed details
+380,Salem,RK hospital,15,10,5,10,8,2,3,2,1,2,0,2,0,0,0,2021-07-16 16:48:12,7373004777.0,Here with Updating our Hospital bed details
 381,Karur,Nachimuthu hospital,25,25,0,21,21,0,0,0,0,4,4,0,1,0,1,2021-05-12 15:49:09,9566854364.0,12.05.2021 nil
 382,Virudhunagar,Amar hospital,41,39,2,36,36,0,0,0,0,5,3,2,2,0,2,2021-05-12 15:14:38,8608638184.0,12/05/2021 03.13 pm
 383,Krishnagiri,"Uma Kumar Hospital, Hosur",5,5,0,0,0,0,5,5,0,0,0,0,0,0,0,2021-05-07 16:43:19,9443230269.0,No oxygen supply
