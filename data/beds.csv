@@ -6,7 +6,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 5,Chengalpattu,Dr. Rela Institute,160,160,0,130,130,0,0,0,0,30,30,0,10,10,0,2021-05-12 08:36:26,9600130888.0,12-05-21
 6,Chengalpattu,"Sudar Hospitals, Hasthinapuram",41,41,0,32,32,0,0,0,0,9,9,0,6,6,0,2021-05-24 19:04:22,9710446115.0,24/05/2021
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,2,43,23,2,21,12,0,12,10,0,10,10,0,10,2021-07-17 08:25:20,8585858550.0,17-7-2021 8 AM Update
-8,Chengalpattu,"Deepam Hospitals, West Tambaram",30,0,30,20,0,20,5,0,5,5,0,5,3,0,3,2021-07-17 09:21:14,8300017171.0,17/07/2021 @ 9 am
+8,Chengalpattu,"Deepam Hospitals, West Tambaram",20,1,19,10,1,9,5,0,5,5,0,5,1,0,1,2021-07-17 10:48:23,8300017171.0,17/07/2021 @ 10 am
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
 10,Chennai,"Apollo Hospitals, Vanagaram",116,19,97,101,12,89,0,0,0,15,7,8,7,3,4,2021-07-15 07:49:55,7824821042.0,15.07.2021
 11,Chennai,Appasamy Hospital,57,0,57,48,0,48,0,0,0,9,0,9,2,0,2,2021-07-17 10:01:04,6379350953.0,June 17th@ 9:00 AM
@@ -120,7 +120,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 119,Kallakurichi,Sri Sanjeevi Hospital,86,86,0,58,58,0,13,13,0,15,15,0,9,9,0,2021-05-12 09:00:21,9750999352.0,Updated..09.05.2021
 120,Kancheepuram,Bon Secuors Hospital,30,15,15,5,5,0,25,10,15,0,0,0,0,0,0,2021-05-12 08:57:17,9943271810.0,Updated 11-05-2021
 121,Kancheepuram,Chennai Urology & Robotics Institute Hospital Thoraippakkam,12,2,10,10,2,8,0,0,0,2,0,2,2,2,0,2021-06-23 11:29:30,9894791989.0,23.06.2021
-122,Kancheepuram,Madha Medical College&Research Institute,550,2,548,10,0,10,534,0,534,6,2,4,2,1,1,2021-07-15 10:25:48,8870209559.0,
+122,Kancheepuram,Madha Medical College&Research Institute,550,2,548,10,1,9,534,1,533,6,0,6,2,1,1,2021-07-17 10:56:45,8870209559.0,
 123,Kancheepuram,Sri Muthukumaran Medical College,314,6,308,0,0,0,314,6,308,0,0,0,6,0,6,2021-05-20 08:57:44,9600002646.0,DUE TO LEAKAGE OF CENTRAL OXYGEN LINE OUR HOSPITAL STOPPED ADMITTING PATIENT WITH O2 SATURATION BELOW 95%
 124,Kancheepuram,Apollo Medical Centre Karapakkam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021-06-13 12:11:57,9551288366.0,Updated 13.06.2021
 125,Kanyakumari,Bensam Hospital,65,65,0,44,44,0,20,20,0,1,1,0,1,0,1,2021-05-12 15:04:44,9994224606.0,.
