@@ -8,7 +8,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,7,38,23,6,17,12,0,12,10,1,9,10,1,9,2021-07-26 16:02:49,8585858550.0,26-7-2021 4 PM Update
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",20,0,20,10,0,10,5,0,5,5,0,5,1,0,1,2021-07-26 16:22:47,8300017171.0,26/07/2021 @ 4 pm
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,19,97,101,13,88,0,0,0,15,6,9,7,3,4,2021-07-26 08:04:52,7824821042.0,26.07.2021
+10,Chennai,"Apollo Hospitals, Vanagaram",116,19,97,101,13,88,0,0,0,15,6,9,7,3,4,2021-07-26 17:48:12,7824821042.0,26.07.2021
 11,Chennai,Appasamy Hospital,57,0,57,48,0,48,0,0,0,9,0,9,2,0,2,2021-07-22 17:08:39,6379350953.0,June 22nd@ 5:00 PM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
@@ -262,7 +262,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 261,Sivagangai,"Madha Hospital, Manamadurai",50,27,23,10,8,2,30,19,11,10,0,10,1,0,1,2021-05-14 15:31:31,7904443644.0,Positive-8 Suspect-19 Total-27 Updated
 262,Madurai,"Ahana Hospital,11,Subramanian st,Annanagar,Madurai",90,2,88,89,1,88,0,0,0,1,1,0,1,1,0,2021-07-10 07:27:12,9659462722.0,Nil...
 263,Chennai,"Apollo Hospital, OMR, Perungudi",55,55,0,32,32,0,7,7,0,16,16,0,5,5,0,2021-06-24 09:47:35,7299021425.0,Updated 24/6/2020
-264,Chennai,"K.G.J Hospitals, Korattur",20,0,20,20,0,20,0,0,0,0,0,0,0,0,0,2021-07-26 13:05:32,8695966995.0,Updated 26.07.21 01.05 PM
+264,Chennai,"K.G.J Hospitals, Korattur",20,0,20,20,0,20,0,0,0,0,0,0,0,0,0,2021-07-26 17:44:38,8695966995.0,Updated 26.07.21 05.44 PM
 265,Chennai,"Padmapriya Hospital, Adyar",5,0,5,3,0,3,2,0,2,0,0,0,0,0,0,2021-07-26 10:38:43,9444200270.0,updated 26-07-2021
 266,Chennai,"Priya Nursing Home, Old Washermenpet",40,40,0,10,10,0,24,24,0,6,6,0,0,0,0,2021-05-11 10:46:09,9094888340.0,11/05/2021 9.00aM
 267,Chennai,"Saraswathy Multi Speciality Hospitals, Madipakkam",85,84,1,30,30,0,20,19,1,35,35,0,6,6,0,2021-05-13 06:24:44,9790785916.0,
