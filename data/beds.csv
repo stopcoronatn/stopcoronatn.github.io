@@ -8,7 +8,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 7,Chengalpattu,"Sugam Hospital, Chromepet",45,7,38,23,5,18,12,0,12,10,2,8,10,2,8,2021-08-11 07:29:36,8585858550.0,11-8-2021 7 AM update
 8,Chengalpattu,"Deepam Hospitals, West Tambaram",10,1,9,4,0,4,3,1,2,3,0,3,1,0,1,2021-09-11 10:10:39,8300017171.0,11/09/2021 @ 10 am
 9,Chennai,"Apollo Hospital, Greams Road",303,303,0,177,177,0,15,15,0,111,111,0,111,111,0,2021-05-15 11:12:42,7397242423.0,15.05.2021
-10,Chennai,"Apollo Hospitals, Vanagaram",116,18,98,101,15,86,0,0,0,15,3,12,7,3,4,2021-12-20 10:10:35,7824821042.0,20.12.2021
+10,Chennai,"Apollo Hospitals, Vanagaram",116,15,101,101,13,88,0,0,0,15,2,13,7,2,5,2021-12-21 09:43:09,7824821042.0,21.12.2021
 11,Chennai,Appasamy Hospital,57,0,57,48,0,48,0,0,0,9,0,9,2,0,2,2021-07-22 17:08:39,6379350953.0,June 22nd@ 5:00 PM
 12,Chennai,"ArunVijaya Hospitals, KK Nagar",21,21,0,6,6,0,9,9,0,6,6,0,2,2,0,2021-05-12 08:13:51,6380760063.0,12.05.2021
 13,Chennai,Astra Ortho N Spine Care Hospital,20,14,6,14,10,4,2,0,2,4,4,0,1,1,0,2021-05-27 11:19:08,9677311333.0,27.05.2021
@@ -271,7 +271,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 270,Coimbatore,Abinand Hospital,65,52,13,30,30,0,30,17,13,5,5,0,3,3,0,2021-05-12 08:52:46,8838689898.0,As on 12.05.2021
 271,Coimbatore,"Sree Abirami Hospital, Coimbatore TN.",75,75,0,45,45,0,15,15,0,15,15,0,3,3,0,2021-06-03 09:17:54,9952200057.0,3/6
 272,Erode,"Kovai Medical Centre,Erode TN.",50,0,50,20,0,20,25,0,25,0,0,0,0,0,0,2021-03-15 13:39:08,,.
-273,Kancheepuram,"TCS, Sirucherry",40,0,40,0,0,0,40,0,40,0,0,0,0,0,0,2021-12-20 16:09:22,8800000000.0,UPDATED TILL 20/12/2021 4:00PM
+273,Kancheepuram,"TCS, Sirucherry",40,0,40,0,0,0,40,0,40,0,0,0,0,0,0,2021-12-21 09:41:15,8800000000.0,UPDATED TILL 21/12/2021 9:00AM
 274,Kanyakumari,"Bethesda Hospital, Nagercoil",40,40,0,24,24,0,9,9,0,7,7,0,2,2,0,2021-05-12 17:06:20,9566519491.0,.
 275,Kanyakumari,"Siva Hospital, Nagercoil",50,50,0,20,20,0,25,25,0,5,5,0,3,0,3,2021-05-18 17:14:04,9443152469.0,18.05.2021 EVENING
 276,Karur,"ABS Hospital, Thanthonimalai",80,75,5,55,53,2,0,0,0,25,22,3,3,0,3,2021-05-12 13:27:15,8300393424.0,12.05.2021..
@@ -349,7 +349,7 @@ S.NO,District,Institution,COVID BEDS Total,COVID BEDS Occupied,COVID BEDS Vacant
 348,Namakkal,"Soorya Multispechiality Hospitals, Namakkal TN.",40,40,0,35,35,0,0,0,0,5,5,0,1,0,1,2021-05-12 17:13:17,9942251163.0,REPORT SUBMITTED ON 12.05.2021 at 05:13PM
 349,Karur,"GC Hospital, Karur Tn.",15,12,3,10,8,2,4,3,1,1,1,0,1,0,1,2021-05-13 09:14:28,9659974311.0,13.05.2021 -
 350,Chennai,"Vivekananda Hospital,mylapore",40,0,40,40,0,40,0,0,0,0,0,0,2,0,2,2021-07-04 05:56:44,7200648296.0,04-07-21
-351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,0,14,12,0,12,0,0,0,2,0,2,2,0,2,2021-12-20 09:00:25,9940632392.0,20/12/2021
+351,Chengalpattu,"DAISY HOSPITAL,CHROMPET",14,0,14,12,0,12,0,0,0,2,0,2,2,0,2,2021-12-21 09:48:05,9940632392.0,21/12/2021
 352,Chengalpattu,AAYUSHMAAN HOLISTIC HEALTH CENTRE,30,30,0,5,5,0,25,25,0,0,0,0,0,0,0,2021-05-13 10:00:23,9962331777.0,"13-05-2021, no vacant bed\\\'s"
 353,Kanyakumari,"Catherinebooth hospital,Nagercoil",54,6,48,21,1,20,27,4,23,6,1,5,1,0,1,2021-06-28 08:50:13,9442282220.0,
 354,Tenkasi,"Mathura Hospital, Surandai",8,0,8,0,0,0,8,0,8,0,0,0,1,0,1,2021-05-13 07:33:17,9486285464.0,
